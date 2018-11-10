@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
+import MapboxGeocoder from '@mapbox/mapbox-gl-geocoder';
 import mapboxgl from 'mapbox-gl';
-import './App.css';
 import TOKEN from './config/MAPBOX.js';
 mapboxgl.accessToken = TOKEN.key;
 
@@ -18,6 +18,7 @@ class App extends Component {
   componentDidMount() {
     const { lng, lat, zoom } = this.state;
 
+    // Initialize map
     const map = new mapboxgl.Map({
       container: this.mapContainer,
       style: 'mapbox://styles/mapbox/streets-v10',
@@ -25,9 +26,18 @@ class App extends Component {
       zoom
     });
 
+    // Add zoom and rotation controls to the map.
+    map.addControl(new mapboxgl.NavigationControl());
+
+    // Adds a search bar
+    let search = new MapboxGeocoder({
+      accessToken: mapboxgl.accessToken
+    });
+    map.addControl(search, 'top-left');
+
+    // Tracks latitude, longitude, and zoom as the user moves around the map.
     map.on('move', () => {
       const { lng, lat } = map.getCenter();
-
       this.setState({
         lng: lng.toFixed(4),
         lat: lat.toFixed(4),
@@ -35,15 +45,14 @@ class App extends Component {
       });
     });
 
+    // Adds country labels in native language underneath English label
     map.on('load', () => {
       let labels = ['country-label-lg', 'country-label-md', 'country-label-sm'];
-  
       labels.forEach(function(layer) {
         map.setLayoutProperty(layer, 'text-field', ['format', ['get', 'name_en'], { 'font-scale': 1.2 }, '\n', {}, ['get', 'name'], {'font-scale': 0.8,'text-font': ['literal', [ 'DIN Offc Pro Italic', 'Arial Unicode MS Regular' ]]}]
         );
       });
     });
-
   }
 
   render() {
@@ -51,10 +60,9 @@ class App extends Component {
 
     return (
       <div className="App">
-        <div className="Hello">Hello</div>
         <div className="mapinfo">
           {/* Display Longitude, Latitude, and Zoom on top left */}
-          <div className="inline-block absolute top right mt12 mr12 bg-darken75 color-white z1 py6 px12 round-full txt-s txt-bold">
+          <div className="inline-block absolute top right mt24 mr60 bg-darken75 color-white z1 py6 px12 round-full txt-s txt-bold">
             <div>{`Longitude: ${lng} Latitude: ${lat} Zoom: ${zoom}`}</div>
           </div>
         </div>
