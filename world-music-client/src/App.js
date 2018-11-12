@@ -2,6 +2,8 @@ import React, { Component } from 'react';
 import MapboxGeocoder from '@mapbox/mapbox-gl-geocoder';
 import mapboxgl from 'mapbox-gl';
 import TOKEN from './config/MAPBOX.js';
+import './App.css';
+
 mapboxgl.accessToken = TOKEN.key;
 
 class App extends Component {
@@ -26,14 +28,16 @@ class App extends Component {
       zoom
     });
 
-    // Add zoom and rotation controls to the map.
-    map.addControl(new mapboxgl.NavigationControl());
-
-    // Adds a search bar
-    let search = new MapboxGeocoder({
+    // Search bar by location
+    map.addControl(new MapboxGeocoder({
       accessToken: mapboxgl.accessToken
-    });
-    map.addControl(search, 'top-left');
+    }));
+
+    // Toggle fullscreen
+    map.addControl(new mapboxgl.FullscreenControl(), 'bottom-right');
+
+    // Add zoom and rotation controls to the map.
+    map.addControl(new mapboxgl.NavigationControl(), 'bottom-right');
 
     // Tracks latitude, longitude, and zoom as the user moves around the map.
     map.on('move', () => {
@@ -60,16 +64,12 @@ class App extends Component {
 
     return (
       <div className="App">
-        <div className="mapinfo">
-          {/* Display Longitude, Latitude, and Zoom on top left */}
-          <div className="inline-block absolute top right mt24 mr60 bg-darken75 color-white z1 py6 px12 round-full txt-s txt-bold">
-            <div>{`Longitude: ${lng} Latitude: ${lat} Zoom: ${zoom}`}</div>
-          </div>
+        {/* Display Longitude, Latitude, and Zoom on top left */}
+        <div className="inline-block absolute top right mt12 mr12 bg-darken75 color-white z1 py6 px12 round-full txt-s txt-bold">
+          <div>{`Longitude: ${lng} Latitude: ${lat} Zoom: ${zoom}`}</div>
         </div>
-        <div className="map">
-          {/* Display Map on the Screen */}
-          <div ref={e => this.mapContainer = e} className="absolute top right left bottom"/>
-        </div>
+        {/* Display Map on the Screen */}
+        <div ref={e => this.mapContainer = e} className="absolute top right left bottom"/>
       </div>
     );
   }

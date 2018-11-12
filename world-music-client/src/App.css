@@ -1,0 +1,17 @@
+/* Map */
+.mapboxgl-map {
+    font: 12px/20px 'Helvetica Neue', Arial, Helvetica, sans-serif;
+    overflow: hidden;
+    position: relative;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+
+/* Search Bar */
+.mapboxgl-ctrl-geocoder {
+    position: fixed;
+    width: 40%;
+    min-width: 40%;
+    max-width: 40%;
+    left: 30%;
+    top: 7%;
+}
