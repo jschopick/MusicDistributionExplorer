@@ -1,6 +1,19 @@
 .App {
     height: 100vh;
     width: 100vw;
+    background: url('./images/matrix-map.jpg') center center black;
+    /* background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: scroll; */
+}
+
+/* App Logo */
+.Logo {
+	position: absolute;
+	margin-left: 0.5%;
+	margin-top: 0.5%;
+	animation: slidein 1s;
+	animation-timing-function: ease-in;
 }
 
 /* Home Page */
@@ -57,6 +70,10 @@
     font: 12px/20px 'Helvetica Neue', Arial, Helvetica, sans-serif;
     overflow: hidden;
     position: relative;
+    margin-top: 12vh;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-bottom: 11vh;
     -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
 
@@ -67,5 +84,17 @@
     min-width: 40%;
     max-width: 40%;
     left: 30%;
-    top: 7%;
+    top: 2vh;
+}
+
+.sidebar {
+    font: 20px 'Helvetica Neue', Arial, Helvetica, sans-serif;
+    text-align: center;
+    background: white;
+    width: 16%;
+    position: relative;
+    top: 12vh;
+    left: 2%;
+    height: 78vh;
+    padding-top: 2vh;
 }
