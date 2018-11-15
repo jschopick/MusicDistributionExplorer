@@ -1,3 +1,57 @@
+.App {
+    height: 100vh;
+    width: 100vw;
+}
+
+/* Home Page */
+.Home {
+    background: url('./images/matrix-map.jpg') center center black;
+    background-size: contain;
+	background-repeat: repeat-x;
+    background-attachment: scroll;
+    justify-content: center;
+	align-items: center;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    -webkit-animation: animatedBackground 40s linear infinite;
+    animation: animatedBackground 40s linear infinite;
+    -webkit-animation-fill-mode: forwards;
+    animation-fill-mode: forwards;
+}
+
+/* "Go to Map" Button */
+.Home .Button {
+    margin-top: 50px;
+    color: #76CA8F;
+}
+
+/* Glowing Text Animation */
+.Glow {
+    font-size: 4.5rem;
+    color: #052810;
+    text-align: center;
+    -webkit-animation: Glow 1s ease-in-out infinite alternate;
+    -moz-animation: Glow 1s ease-in-out infinite alternate;
+    animation: Glow 1s ease-in-out infinite alternate;
+}
+
+/* Glowing Text Animation Configuration */
+@keyframes Glow {
+    from {
+        text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #76CA8F, 0 0 40px #76CA8F, 0 0 50px #76CA8F, 0 0 60px #76CA8F, 0 0 70px #76CA8F;
+    }
+    to {
+        text-shadow: 0 0 20px #A3DBB4, 0 0 30px #A3DBB4, 0 0 40px #A3DBB4, 0 0 50px #A3DBB4, 0 0 60px #A3DBB4, 0 0 70px #A3DBB4, 0 0 80px #A3DBB4;
+    }
+}
+
+@keyframes animatedBackground {
+	from { background-position: 0 0; }
+	to { background-position: 100% 0; }
+}
+
 /* Map */
 .mapboxgl-map {
     font: 12px/20px 'Helvetica Neue', Arial, Helvetica, sans-serif;
