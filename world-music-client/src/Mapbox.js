@@ -1,10 +1,12 @@
 import React, { Component } from 'react';
 import MapboxGeocoder from '@mapbox/mapbox-gl-geocoder';
+import mbxGeocoding from '@mapbox/mapbox-sdk/services/geocoding';
 import mapboxgl from 'mapbox-gl';
 import TOKEN from './config/MAPBOX.js';
 import './App.css';
 
 mapboxgl.accessToken = TOKEN.key;
+const geocodingClient = mbxGeocoding({ accessToken: TOKEN.key});
 
 class Mapbox extends Component {
   // Sets center of page and default zoom
@@ -39,11 +41,29 @@ class Mapbox extends Component {
     // Add zoom and rotation controls to the map.
     map.addControl(new mapboxgl.NavigationControl(), 'bottom-right');
 
-    // Adds a marker at the specified location.
-    // new mapboxgl.Marker()
-    //   .setLngLat([30.5, 50.5])
-    //   .addTo(map);
+    let countryList = [];
+    countryList.push('United States');
+    countryList.push('Mexico');
+    countryList.push('China')
 
+    let markers = [];
+    // Gets geolocation from country name.
+    // TODO: Change query input to a variable from the data set.
+    for(let i = 0; i < countryList.length; i++) {
+      geocodingClient.forwardGeocode({
+        query: countryList[i],
+        limit: 1
+      })
+      .send()
+      .then(response => {
+        let geolocation = response.body.features[0].geometry.coordinates;
+        // Adds a marker at the specified location.
+        markers.push(new mapboxgl.Marker()
+        .setLngLat(geolocation)
+        .addTo(map));
+      })
+    }
+    
     // Tracks latitude, longitude, and zoom as the user moves around the map.
     map.on('move', () => {
       const { lng, lat } = map.getCenter();
@@ -69,7 +89,7 @@ class Mapbox extends Component {
 
     return (
       <div className="App">
-        <div className="sidebar">Country List</div>
+        {/* <div className="sidebar">Country List</div> */}
         {/* Display Longitude, Latitude, and Zoom on top left */}
         <div className="inline-block absolute top right mt30 mr36 bg-darken75 color-white z1 py6 px12 round-full txt-s txt-bold">
           <div>{`Longitude: ${lng} Latitude: ${lat} Zoom: ${zoom}`}</div>

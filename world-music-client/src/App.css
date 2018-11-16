@@ -71,9 +71,9 @@
     overflow: hidden;
     position: relative;
     margin-top: 12vh;
-    margin-left: 20%;
-    margin-right: 20%;
-    margin-bottom: 11vh;
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-bottom: 6vh;
     -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
 
@@ -95,6 +95,6 @@
     position: relative;
     top: 12vh;
     left: 2%;
-    height: 78vh;
+    height: 76vh;
     padding-top: 2vh;
 }
