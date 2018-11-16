@@ -22,26 +22,37 @@ import java.net.*;
 
 public class WordCount {
 	public static class Map extends Mapper<LongWritable, Text, Text, IntWritable> {
-	    private final IntWritable one = new IntWritable(1);
+		private final IntWritable one = new IntWritable(1);
 	    private HashMap<String, String> artistsRec = new HashMap<String, String>();
 	    public void map(LongWritable key, Text value, Context context) throws IOException, InterruptedException {
 	    	String line = value.toString();
 	    	String[] data = line.split(",");
-	    	if(data.length <2) {
+	    	//System.out.println("EMMMMMMM:"+data.length);
+	    	if(data.length != 3) {
 	    		return;
 	    	}
 	    	String artistname = data[0].trim();
-	    	String location =data[1].trim();
+	    	String location =data[1].trim() + "," + data[2].trim();
 	    	if(artistsRec.containsKey(artistname)){
 	    		context.write(new Text(artistsRec.get(artistname)+","+location), one);
 	    	}
 	    	else {
-	    		String url_artistname = artistname.replaceAll(" ", "+");
-		    	String url = "http://itunes.apple.com/search?term="+url_artistname+"&media=music&entity=musicArtist";
+	    		String url_artistname = artistname.replaceAll(" ", "+");//Rage Against the Machine
+		    	String url = "http://itunes.apple.com/search?term="+url_artistname+"&media=music&entity=musicArtist&limit=1";
+		    	InputStream is;
 		    	//System.out.println(artistname + ","+location+","+url);
-		    	URL query = new URL(url);
-				URLConnection urlcon = query.openConnection();
-				InputStream is = urlcon.getInputStream();
+		    	try {
+			    	URL query = new URL(url);
+					URLConnection urlcon = query.openConnection();
+					urlcon.setConnectTimeout(3000);
+					urlcon.setReadTimeout(3000);
+					is = urlcon.getInputStream();
+				}
+				catch(SocketTimeoutException e){
+					System.out.println(e.toString());
+					return;
+				}
+				//add request time out
 				byte[] rawdata = new byte[4096];
 				is.read(rawdata);
 				String jsonfmt = new String(rawdata);
@@ -50,19 +61,28 @@ public class WordCount {
 		        JsonNode root = mapper.readTree(jsonfmt);
 		        JsonNode resultc = root.path("resultCount");
 		        JsonNode results = root.path("results");
-		        if (resultc.asInt() > 0) {  
+		        if (resultc.asInt() > 0) {
 			        if(results.isArray()) {
+//			        	String res_artist_name = null;
+//			        	String res_genre=null;
+			        	float rank = 0;
 			        	for(JsonNode node :results) {
 			        		String artist_name = node.path("artistName").asText();
 			        		String genre = node.path("primaryGenreName").asText();
 			        		if(genre == "") {
 			        			genre = "Mistery";
 			        		}
-			        		artistsRec.put(artistname, artist_name + "," + genre);
+			        		artistsRec.put(artist_name, artist_name + "," + genre);
 			        		//System.out.println(artist_name + ","+genre+","+location);
 			        		context.write(new Text(artist_name + "," + genre+","+location), one);
 			        	}
+//			        	artistsRec.put(res_artist_name, res_artist_name + "," + res_genre);
+//		        		//System.out.println(artist_name + ","+genre+","+location);
+//		        		context.write(new Text(res_artist_name + "," + res_genre+","+location), one);
 			        }
+		        }
+		        else {
+		        	return ;
 		        }
 	    	}
 	    }
