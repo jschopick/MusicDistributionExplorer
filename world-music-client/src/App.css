@@ -34,6 +34,11 @@
     animation-fill-mode: forwards;
 }
 
+/* Title */
+.Home h1 {
+    font-size: 4.5rem;
+} 
+
 /* "Go to Map" Button */
 .Home .Button {
     margin-top: 50px;
@@ -42,9 +47,9 @@
 
 /* Glowing Text Animation */
 .Glow {
-    font-size: 4.5rem;
+    /* font-size: 4.5rem; */
     color: #052810;
-    text-align: center;
+    /* text-align: center; */
     -webkit-animation: Glow 1s ease-in-out infinite alternate;
     -moz-animation: Glow 1s ease-in-out infinite alternate;
     animation: Glow 1s ease-in-out infinite alternate;
@@ -71,9 +76,9 @@
     overflow: hidden;
     position: relative;
     margin-top: 12vh;
-    margin-left: 15%;
-    margin-right: 15%;
-    margin-bottom: 6vh;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-bottom: 9.6vh;
     -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
 
@@ -92,9 +97,16 @@
     text-align: center;
     background: white;
     width: 16%;
-    position: relative;
+    position: absolute;
     top: 12vh;
     left: 2%;
-    height: 76vh;
+    height: 78.4vh;
     padding-top: 2vh;
+}
+
+.toggle-sidebar {
+    font: 2rem 'Helvetica Neue', Arial, Helvetica, sans-serif;
+    position: absolute;
+    top: 4vh;
+    left: 5%;
 }

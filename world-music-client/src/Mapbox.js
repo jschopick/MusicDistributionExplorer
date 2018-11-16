@@ -15,8 +15,15 @@ class Mapbox extends Component {
     this.state = {
       lng: 6,
       lat: 30,
-      zoom: 1.5
+      zoom: 1.5,
+      show: true
     };
+    this.toggleDisplay.bind(this);
+  }
+
+  toggleDisplay = () => {
+    const {show} = this.state;
+    this.setState( {show: !show})
   }
 
   componentDidMount() {
@@ -89,7 +96,10 @@ class Mapbox extends Component {
 
     return (
       <div className="App">
-        {/* <div className="sidebar">Country List</div> */}
+        <h1 className="toggle-sidebar">
+          <button onClick={this.toggleDisplay} className="Glow">Toggle List</button>
+        </h1>
+        {this.state.show && <Sidebar />}
         {/* Display Longitude, Latitude, and Zoom on top left */}
         <div className="inline-block absolute top right mt30 mr36 bg-darken75 color-white z1 py6 px12 round-full txt-s txt-bold">
           <div>{`Longitude: ${lng} Latitude: ${lat} Zoom: ${zoom}`}</div>
@@ -98,6 +108,14 @@ class Mapbox extends Component {
         <div ref={e => this.mapContainer = e} className="absolute top right left bottom"/>
       </div>
     );
+  }
+}
+
+class Sidebar extends Component {
+  render() {
+    return(
+      <div className="sidebar">Country List</div>
+    )
   }
 }
 
