@@ -47,9 +47,7 @@
 
 /* Glowing Text Animation */
 .Glow {
-    /* font-size: 4.5rem; */
     color: #052810;
-    /* text-align: center; */
     -webkit-animation: Glow 1s ease-in-out infinite alternate;
     -moz-animation: Glow 1s ease-in-out infinite alternate;
     animation: Glow 1s ease-in-out infinite alternate;
