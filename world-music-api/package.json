@@ -1,0 +1,23 @@
+{
+  "name": "world-music-api",
+  "version": "1.0.0",
+  "description": "Back-end code and DB connection",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.16.4",
+    "mysql": "^2.16.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jschopick/cs179G_WorldMusic.git"
+  },
+  "author": "Justin Schopick, Jiawei Jiang, Kushagra Singh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jschopick/cs179G_WorldMusic/issues"
+  },
+  "homepage": "https://github.com/jschopick/cs179G_WorldMusic#readme"
+}
