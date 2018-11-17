@@ -10,15 +10,15 @@ Kushagra Singh
 
 World Music displays big data gathered, cleaned, and aggregated from over 1.5 million Twitter accounts on a map.
 
-### The Goal:
+**The Goal:**
 * Determine what genres are most preferred in different countries around the world by finding the location of users on Twitter that follow music artists.
 
-### The Benefit:
+**The Benefit:**
 * World Music can reveal the regular pattern of the primary music preference in different parts of the world. This can help music providers provide and suggest music to the users in different regions and supply data support to anthropological and sociological studies.
 
 ## `Technologies Used`
 
-### `Languages and Frameworks`
+### **Languages and Frameworks**
 
 React.js: A JavaScript library for building user interfaces. Used create-react-app to bootstrap the application. </br> https://reactjs.org/
 
@@ -30,7 +30,7 @@ Java: A high-level programming language. </br> https://docs.oracle.com/en/java/
 
 MySQL: An open-source relational database management system. </br> https://www.mysql.com/
 
-### `Application Programming Interfaces`
+### **Application Programming Interfaces**
 
 Mapbox: An open source mapping platform for custom designed maps. </br> https://www.mapbox.com/api-documentation/
 
@@ -68,3 +68,7 @@ Start the front-end server and automatically load a local webpage at localhost:3
 ```
 npm start
 ```
+
+## `License`
+
+This project is licensed under the MIT License - see the LICENSE.md file for details.
