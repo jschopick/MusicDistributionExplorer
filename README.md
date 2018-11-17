@@ -1,12 +1,12 @@
 # **World Music**
 
-## **Authors**
+## `Authors`
 
 Jiawei Jiang </br>
 Justin Schopick </br>
 Kushagra Singh
 
-## **`Overview`**
+## `Overview`
 
 World Music displays big data gathered, cleaned, and aggregated from over 1.5 million Twitter accounts on a map.
 
@@ -16,7 +16,7 @@ World Music displays big data gathered, cleaned, and aggregated from over 1.5 mi
 ### The Benefit:
 * World Music can reveal the regular pattern of the primary music preference in different parts of the world. This can help music providers provide and suggest music to the users in different regions and supply data support to anthropological and sociological studies.
 
-## **`Technologies Used`**
+## `Technologies Used`
 
 ### `Languages and Frameworks`
 
@@ -44,7 +44,7 @@ Nominatim: MapQuest search tool that relies on data contributed to OpenStreetMap
 
 Material-UI: React.js components that implement Google's Material Design. </br> https://material-ui.com/
 
-## **`How to Run`**
+## `How to Run`
 
 Clone this repository to the desired location on your computer by entering the following command in your terminal:
 ```
