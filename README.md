@@ -1,6 +1,6 @@
 # **World Music**
 
-## **`Authors`** </br>
+## **Authors**
 
 Jiawei Jiang </br>
 Justin Schopick </br>
