@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import MapboxGeocoder from '@mapbox/mapbox-gl-geocoder';
 import mbxGeocoding from '@mapbox/mapbox-sdk/services/geocoding';
 import mapboxgl from 'mapbox-gl';
+import request from 'superagent';
 import TOKEN from './config/MAPBOX.js';
 import './App.css';
 
@@ -16,9 +17,47 @@ class Mapbox extends Component {
       lng: 6,
       lat: 30,
       zoom: 1.5,
+      query: '',
       show: true
     };
     this.toggleDisplay.bind(this);
+  }
+
+  // Sets the query to the Genre or Artist Name
+  handleChange(e) {
+    const { target } = e;
+    const { query, value } = target;
+
+    this.setState({
+      [query]: value,
+    });
+  }
+
+  handleSubmit(e) {
+    e.preventDefault();
+
+    request
+      .get('http://localhost:8000/api/genres')
+      .then(res => {
+        // res.body, res.headers, res.status
+        console.log(res.body);
+        let m = res.body;
+      })
+      .catch(err => {
+        // err.message, err.response
+        console.log(err.message);
+      });
+
+    // request
+    //   .post('http://localhost:8000/')
+    //   .send({
+    //     ...this.state,
+    //     name: `${this.state.firstname} ${this.state.lastname}`,
+    //   })
+    //   .then(response => {
+    //     localStorage.setItem('trips-user', JSON.stringify(response.body));
+    //     this.props.history.push('/search');
+    //   });
   }
 
   toggleDisplay = () => {
@@ -97,7 +136,7 @@ class Mapbox extends Component {
     return (
       <div className="App">
         <h1 className="toggle-sidebar">
-          <button onClick={this.toggleDisplay} className="Glow">Toggle List</button>
+          <button onClick={this.toggleDisplay && this.handleSubmit} className="Glow">Toggle List</button>
         </h1>
         {this.state.show && <Sidebar />}
         {/* Display Longitude, Latitude, and Zoom on top left */}
