@@ -47,17 +47,6 @@ class Mapbox extends Component {
         // err.message, err.response
         console.log(err.message);
       });
-
-    // request
-    //   .post('http://localhost:8000/')
-    //   .send({
-    //     ...this.state,
-    //     name: `${this.state.firstname} ${this.state.lastname}`,
-    //   })
-    //   .then(response => {
-    //     localStorage.setItem('trips-user', JSON.stringify(response.body));
-    //     this.props.history.push('/search');
-    //   });
   }
 
   toggleDisplay = () => {
@@ -136,7 +125,7 @@ class Mapbox extends Component {
     return (
       <div className="App">
         <h1 className="toggle-sidebar">
-          <button onClick={this.toggleDisplay && this.handleSubmit} className="Glow">Toggle List</button>
+          <button onClick={this.handleSubmit} className="Glow">GET Genres</button>
         </h1>
         {this.state.show && <Sidebar />}
         {/* Display Longitude, Latitude, and Zoom on top left */}
