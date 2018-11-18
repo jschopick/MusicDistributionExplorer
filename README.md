@@ -60,11 +60,24 @@ npm -v
 If you do not have these installed, go to this website: https://nodejs.org/en/download/<br>
 Select the version for your operating system and install it.
 
-Add all required packages by entering the following command in your terminal:
+### Open a terminal and navigate to the world-music-client directory.
+
+If this is your first time running the project, type the following command to download all dependencies:
 ```
 npm install
 ```
-Start the front-end server and automatically load a local webpage at localhost:3000 by navigating to the world-music-client directory and running the following command in your terminal:
+Start the front-end server and automatically load a local webpage at localhost:3000 by running the following command:
+```
+npm start
+```
+
+### Open a second terminal and navigate to the world-music-api directory. 
+
+If this is your first time running the project, type the following command to download all dependencies:
+```
+npm install
+```
+Start the back-end server on localhost:8000 by running the following command:
 ```
 npm start
 ```

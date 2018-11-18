@@ -2,12 +2,14 @@
   "name": "world-music-api",
   "version": "1.0.0",
   "description": "Back-end code and DB connection",
-  "main": "index.js",
+  "main": "server.js",
   "dependencies": {
     "express": "^4.16.4",
-    "mysql": "^2.16.0"
+    "mysql": "^2.16.0",
+    "nodemon": "^1.18.6"
   },
   "scripts": {
+    "start": "nodemon server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -19,5 +21,6 @@
   "bugs": {
     "url": "https://github.com/jschopick/cs179G_WorldMusic/issues"
   },
-  "homepage": "https://github.com/jschopick/cs179G_WorldMusic#readme"
+  "homepage": "https://github.com/jschopick/cs179G_WorldMusic#readme",
+  "devDependencies": {}
 }
