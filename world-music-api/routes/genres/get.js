@@ -1,6 +1,6 @@
 const express = require('express');
 const router = express.Router();
-const connection = require('../../models/connection');
+const connection = require('../../connection');
 
 // Get request for information based on a genre.
 module.exports = function(router) {

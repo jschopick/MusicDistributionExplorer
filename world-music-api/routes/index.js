@@ -15,8 +15,6 @@ function getDirectories(srcpath) {
   });
 };
 
-
-
 // function is called when file is `required`
 module.exports = function(app) {
   // Use /api prefix for all routes
