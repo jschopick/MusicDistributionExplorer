@@ -1,0 +1,5486 @@
+[
+  {
+    "username": "strangelove187",
+    "followingArtist": "GusGus",
+    "country_code": "UK",
+    "country": "United Kingdom"
+  },
+  {
+    "username": "VicenteVice2",
+    "followingArtist": "GusGus",
+    "country_code": "MX",
+    "country": "Mexico"
+  },
+  {
+    "username": "inglbstd",
+    "followingArtist": "GusGus",
+    "country_code": "BE",
+    "country": "Belgium"
+  },
+  {
+    "username": "CHAVITITARQ",
+    "followingArtist": "GusGus",
+    "country_code": "MX",
+    "country": "Mexico"
+  },
+  {
+    "username": "luza_kova",
+    "followingArtist": "GusGus",
+    "country_code": "MX",
+    "country": "Mexico"
+  },
+  {
+    "username": "franklette23",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "AlAn_kooks",
+    "followingArtist": "GusGus",
+    "country_code": "IE",
+    "country": "Ireland"
+  },
+  {
+    "username": "kuerny",
+    "followingArtist": "GusGus",
+    "country_code": "MX",
+    "country": "Mexico"
+  },
+  {
+    "username": "da__beat",
+    "followingArtist": "GusGus",
+    "country_code": "AT",
+    "country": "Austria"
+  },
+  {
+    "username": "BeccieGlynn17",
+    "followingArtist": "GusGus",
+    "country_code": "GB",
+    "country": "England"
+  },
+  {
+    "username": "arturocuenca",
+    "followingArtist": "GusGus",
+    "country_code": "MX",
+    "country": "Mexico"
+  },
+  {
+    "username": "IevaBarauskaite",
+    "followingArtist": "GusGus",
+    "country_code": "UK",
+    "country": "United Kingdom"
+  },
+  {
+    "username": "SaintRik",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "M1ke_3a",
+    "followingArtist": "GusGus",
+    "country_code": "MX",
+    "country": "Mexico"
+  },
+  {
+    "username": "ksgc13",
+    "followingArtist": "GusGus",
+    "country_code": "FR",
+    "country": "France"
+  },
+  {
+    "username": "MaFrSkws",
+    "followingArtist": "GusGus",
+    "country_code": "UK",
+    "country": "United Kingdom"
+  },
+  {
+    "username": "massimoparamour",
+    "followingArtist": "GusGus",
+    "country_code": "UK",
+    "country": "United Kingdom"
+  },
+  {
+    "username": "AgatoneMusic",
+    "followingArtist": "GusGus",
+    "country_code": "NL",
+    "country": "Netherlands"
+  },
+  {
+    "username": "claudiomanoel",
+    "followingArtist": "GusGus",
+    "country_code": "BR",
+    "country": "Brazil"
+  },
+  {
+    "username": "VanAfrika",
+    "followingArtist": "GusGus",
+    "country_code": "JP",
+    "country": "Japan"
+  },
+  {
+    "username": "CalocaJrg",
+    "followingArtist": "GusGus",
+    "country_code": "MX",
+    "country": "Mexico"
+  },
+  {
+    "username": "devintait",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "KUKL96",
+    "followingArtist": "GusGus",
+    "country_code": "JO",
+    "country": "Jordan"
+  },
+  {
+    "username": "Jen_O_cide",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "mindsaver",
+    "followingArtist": "GusGus",
+    "country_code": "MX",
+    "country": "Mexico"
+  },
+  {
+    "username": "gaylocale",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "dnageo",
+    "followingArtist": "GusGus",
+    "country_code": "MX",
+    "country": "Mexico"
+  },
+  {
+    "username": "heyjugo",
+    "followingArtist": "GusGus",
+    "country_code": "MX",
+    "country": "Mexico"
+  },
+  {
+    "username": "kidchico26",
+    "followingArtist": "GusGus",
+    "country_code": "NG",
+    "country": "Nigeria"
+  },
+  {
+    "username": "djnita",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "mcm_fan",
+    "followingArtist": "GusGus",
+    "country_code": "NG",
+    "country": "Nigeria"
+  },
+  {
+    "username": "SecretGuestNYC",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "syahibulbasir",
+    "followingArtist": "GusGus",
+    "country_code": "CN",
+    "country": "China"
+  },
+  {
+    "username": "unitemin",
+    "followingArtist": "GusGus",
+    "country_code": "NG",
+    "country": "Nigeria"
+  },
+  {
+    "username": "Kkkristinaa",
+    "followingArtist": "GusGus",
+    "country_code": "SI",
+    "country": "Slovenia"
+  },
+  {
+    "username": "socialrehab",
+    "followingArtist": "GusGus",
+    "country_code": "NG",
+    "country": "Nigeria"
+  },
+  {
+    "username": "baldeesh",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "geoquiroga",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "karlipalma",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "TheCheffrey",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "bnaturalrecords",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "1_Rudy",
+    "followingArtist": "GusGus",
+    "country_code": "UK",
+    "country": "United Kingdom"
+  },
+  {
+    "username": "TommyCornelis",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "hildurosp94",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "wellandtine",
+    "followingArtist": "GusGus",
+    "country_code": "DE",
+    "country": "Germany"
+  },
+  {
+    "username": "gabriel_matula",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "Justin_uuu",
+    "followingArtist": "GusGus",
+    "country_code": "UK",
+    "country": "United Kingdom"
+  },
+  {
+    "username": "richiemueller",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "eulenkatz",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "Sanitz",
+    "followingArtist": "GusGus",
+    "country_code": "DE",
+    "country": "Germany"
+  },
+  {
+    "username": "ChrisTheDJ",
+    "followingArtist": "GusGus",
+    "country_code": "UK",
+    "country": "United Kingdom"
+  },
+  {
+    "username": "sbm_1985",
+    "followingArtist": "GusGus",
+    "country_code": "ES",
+    "country": "Spain"
+  },
+  {
+    "username": "kickoffangelic",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "reynaduende",
+    "followingArtist": "GusGus",
+    "country_code": "LB",
+    "country": "Lebanon"
+  },
+  {
+    "username": "WeirdIllusions",
+    "followingArtist": "GusGus",
+    "country_code": "IS",
+    "country": "Iceland"
+  },
+  {
+    "username": "maddles81",
+    "followingArtist": "GusGus",
+    "country_code": "AU",
+    "country": "Australia"
+  },
+  {
+    "username": "SourappleAg",
+    "followingArtist": "GusGus",
+    "country_code": "NL",
+    "country": "Netherlands"
+  },
+  {
+    "username": "MeAndEva2013",
+    "followingArtist": "GusGus",
+    "country_code": "IT",
+    "country": "Italy"
+  },
+  {
+    "username": "paweljask",
+    "followingArtist": "GusGus",
+    "country_code": "PL",
+    "country": "Poland"
+  },
+  {
+    "username": "eastclubbers_pl",
+    "followingArtist": "GusGus",
+    "country_code": "PL",
+    "country": "Poland"
+  },
+  {
+    "username": "talentboutique",
+    "followingArtist": "GusGus",
+    "country_code": "FR",
+    "country": "France"
+  },
+  {
+    "username": "marteinn_v",
+    "followingArtist": "GusGus",
+    "country_code": "UK",
+    "country": "United Kingdom"
+  },
+  {
+    "username": "insomniakkkkkk",
+    "followingArtist": "GusGus",
+    "country_code": "ZW",
+    "country": "Zimbabwe"
+  },
+  {
+    "username": "KatrinVetrova",
+    "followingArtist": "GusGus",
+    "country_code": "UK",
+    "country": "United Kingdom"
+  },
+  {
+    "username": "afreykjavik",
+    "followingArtist": "GusGus",
+    "country_code": "IS",
+    "country": "Iceland"
+  },
+  {
+    "username": "carfelma",
+    "followingArtist": "GusGus",
+    "country_code": "DE",
+    "country": "Germany"
+  },
+  {
+    "username": "brenttaylor23",
+    "followingArtist": "GusGus",
+    "country_code": "ZA",
+    "country": "South Africa"
+  },
+  {
+    "username": "simonlatham1",
+    "followingArtist": "GusGus",
+    "country_code": "IS",
+    "country": "Iceland"
+  },
+  {
+    "username": "wallacewells197",
+    "followingArtist": "GusGus",
+    "country_code": "CL",
+    "country": "Chile"
+  },
+  {
+    "username": "cihandagll",
+    "followingArtist": "GusGus",
+    "country_code": "TR",
+    "country": "Turkey"
+  },
+  {
+    "username": "alicialamalicia",
+    "followingArtist": "GusGus",
+    "country_code": "CH",
+    "country": "Switzerland"
+  },
+  {
+    "username": "OrdForOrd",
+    "followingArtist": "GusGus",
+    "country_code": "DK",
+    "country": "Denmark"
+  },
+  {
+    "username": "sigurvald",
+    "followingArtist": "GusGus",
+    "country_code": "IS",
+    "country": "Iceland"
+  },
+  {
+    "username": "astmarr",
+    "followingArtist": "GusGus",
+    "country_code": "FR",
+    "country": "France"
+  },
+  {
+    "username": "TracyTinks",
+    "followingArtist": "GusGus",
+    "country_code": "UK",
+    "country": "United Kingdom"
+  },
+  {
+    "username": "cyber_murmel",
+    "followingArtist": "GusGus",
+    "country_code": "DE",
+    "country": "Germany"
+  },
+  {
+    "username": "EranSun",
+    "followingArtist": "GusGus",
+    "country_code": "MY",
+    "country": "Malaysia"
+  },
+  {
+    "username": "almarutkr",
+    "followingArtist": "GusGus",
+    "country_code": "IS",
+    "country": "Iceland"
+  },
+  {
+    "username": "LeeJProudfoot",
+    "followingArtist": "GusGus",
+    "country_code": "GB",
+    "country": "England"
+  },
+  {
+    "username": "AlbertoBonillaJ",
+    "followingArtist": "GusGus",
+    "country_code": "MX",
+    "country": "Mexico"
+  },
+  {
+    "username": "nuldsen",
+    "followingArtist": "GusGus",
+    "country_code": "DK",
+    "country": "Denmark"
+  },
+  {
+    "username": "Sleeping_D",
+    "followingArtist": "GusGus",
+    "country_code": "DE",
+    "country": "Germany"
+  },
+  {
+    "username": "ColmOHerlihy",
+    "followingArtist": "GusGus",
+    "country_code": "IS",
+    "country": "Iceland"
+  },
+  {
+    "username": "JonGunnarBen",
+    "followingArtist": "GusGus",
+    "country_code": "IS",
+    "country": "Iceland"
+  },
+  {
+    "username": "Norman1981",
+    "followingArtist": "GusGus",
+    "country_code": "DE",
+    "country": "Germany"
+  },
+  {
+    "username": "RagnabjortRagna",
+    "followingArtist": "GusGus",
+    "country_code": "NL",
+    "country": "Netherlands"
+  },
+  {
+    "username": "maritali",
+    "followingArtist": "GusGus",
+    "country_code": "PY",
+    "country": "Paraguay"
+  },
+  {
+    "username": "promorido",
+    "followingArtist": "GusGus",
+    "country_code": "MX",
+    "country": "Mexico"
+  },
+  {
+    "username": "elvientoviene",
+    "followingArtist": "GusGus",
+    "country_code": "MX",
+    "country": "Mexico"
+  },
+  {
+    "username": "VampireBlood17",
+    "followingArtist": "GusGus",
+    "country_code": "ES",
+    "country": "Spain"
+  },
+  {
+    "username": "guich_LC",
+    "followingArtist": "GusGus",
+    "country_code": "FR",
+    "country": "France"
+  },
+  {
+    "username": "hannakarpio",
+    "followingArtist": "GusGus",
+    "country_code": "FI",
+    "country": "Finland"
+  },
+  {
+    "username": "ovdt1974",
+    "followingArtist": "GusGus",
+    "country_code": "BE",
+    "country": "Belgium"
+  },
+  {
+    "username": "urbanfm1035",
+    "followingArtist": "GusGus",
+    "country_code": "XK",
+    "country": "XK"
+  },
+  {
+    "username": "DianitaMdza",
+    "followingArtist": "GusGus",
+    "country_code": "MX",
+    "country": "Mexico"
+  },
+  {
+    "username": "thatgirlMOLLY",
+    "followingArtist": "GusGus",
+    "country_code": "NG",
+    "country": "Nigeria"
+  },
+  {
+    "username": "Taeubchenthal",
+    "followingArtist": "GusGus",
+    "country_code": "DE",
+    "country": "Germany"
+  },
+  {
+    "username": "lambofficial",
+    "followingArtist": "GusGus",
+    "country_code": "UK",
+    "country": "United Kingdom"
+  },
+  {
+    "username": "Riterrre",
+    "followingArtist": "GusGus",
+    "country_code": "AR",
+    "country": "Argentina"
+  },
+  {
+    "username": "bellsbanger",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "MJAlderaan",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "EmilyTaveras1",
+    "followingArtist": "GusGus",
+    "country_code": "VU",
+    "country": "Vanuatu"
+  },
+  {
+    "username": "gkmieciak",
+    "followingArtist": "GusGus",
+    "country_code": "PL",
+    "country": "Poland"
+  },
+  {
+    "username": "antadams1",
+    "followingArtist": "GusGus",
+    "country_code": "UK",
+    "country": "United Kingdom"
+  },
+  {
+    "username": "ThorsteinnSteph",
+    "followingArtist": "GusGus",
+    "country_code": "ES",
+    "country": "Spain"
+  },
+  {
+    "username": "BarondeBoef",
+    "followingArtist": "GusGus",
+    "country_code": "AU",
+    "country": "Australia"
+  },
+  {
+    "username": "musicalpioneer",
+    "followingArtist": "GusGus",
+    "country_code": "GB",
+    "country": "England"
+  },
+  {
+    "username": "DaveBaxley",
+    "followingArtist": "GusGus",
+    "country_code": "California City Blvd",
+    "country": "California City Blvd"
+  },
+  {
+    "username": "aymanjarrah",
+    "followingArtist": "GusGus",
+    "country_code": "JO",
+    "country": "Jordan"
+  },
+  {
+    "username": "shudder71",
+    "followingArtist": "GusGus",
+    "country_code": "GB",
+    "country": "England"
+  },
+  {
+    "username": "alisa_geliss",
+    "followingArtist": "GusGus",
+    "country_code": "RU",
+    "country": "Russia"
+  },
+  {
+    "username": "occurlax",
+    "followingArtist": "GusGus",
+    "country_code": "NG",
+    "country": "Nigeria"
+  },
+  {
+    "username": "marcusjfloyd",
+    "followingArtist": "GusGus",
+    "country_code": "NG",
+    "country": "Nigeria"
+  },
+  {
+    "username": "AliceWondaful",
+    "followingArtist": "GusGus",
+    "country_code": "UK",
+    "country": "United Kingdom"
+  },
+  {
+    "username": "Martins73J",
+    "followingArtist": "GusGus",
+    "country_code": "IS",
+    "country": "Iceland"
+  },
+  {
+    "username": "PubSpeak",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "_emmoDiaz",
+    "followingArtist": "GusGus",
+    "country_code": "MX",
+    "country": "Mexico"
+  },
+  {
+    "username": "3nder",
+    "followingArtist": "GusGus",
+    "country_code": "PL",
+    "country": "Poland"
+  },
+  {
+    "username": "CrystalFake",
+    "followingArtist": "GusGus",
+    "country_code": "SE",
+    "country": "Sweden"
+  },
+  {
+    "username": "LeisureAddicts",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "zenroxy",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "alepacegar",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "artsaud",
+    "followingArtist": "GusGus",
+    "country_code": "MX",
+    "country": "Mexico"
+  },
+  {
+    "username": "CheckOutLatest",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "CBenotte",
+    "followingArtist": "GusGus",
+    "country_code": "NG",
+    "country": "Nigeria"
+  },
+  {
+    "username": "Mikey101274",
+    "followingArtist": "GusGus",
+    "country_code": "UK",
+    "country": "United Kingdom"
+  },
+  {
+    "username": "omarorn",
+    "followingArtist": "GusGus",
+    "country_code": "IS",
+    "country": "Iceland"
+  },
+  {
+    "username": "photoncards",
+    "followingArtist": "GusGus",
+    "country_code": "GH",
+    "country": "Ghana"
+  },
+  {
+    "username": "janwiktor",
+    "followingArtist": "GusGus",
+    "country_code": "PL",
+    "country": "Poland"
+  },
+  {
+    "username": "hair_terry",
+    "followingArtist": "GusGus",
+    "country_code": "NG",
+    "country": "Nigeria"
+  },
+  {
+    "username": "MattisonHicks",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "CM_Fragrance",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "Ross_de_Baas",
+    "followingArtist": "GusGus",
+    "country_code": "NL",
+    "country": "Netherlands"
+  },
+  {
+    "username": "AdeleMoss",
+    "followingArtist": "GusGus",
+    "country_code": "UK",
+    "country": "United Kingdom"
+  },
+  {
+    "username": "karmacova",
+    "followingArtist": "GusGus",
+    "country_code": "UK",
+    "country": "United Kingdom"
+  },
+  {
+    "username": "LeonelBuenChico",
+    "followingArtist": "GusGus",
+    "country_code": "TR",
+    "country": "Turkey"
+  },
+  {
+    "username": "KariCarbon",
+    "followingArtist": "GusGus",
+    "country_code": "DK",
+    "country": "Denmark"
+  },
+  {
+    "username": "FlanDoom",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "AndrewKLAUS",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "DaWads",
+    "followingArtist": "GusGus",
+    "country_code": "UK",
+    "country": "United Kingdom"
+  },
+  {
+    "username": "AnneSoNardari",
+    "followingArtist": "GusGus",
+    "country_code": "FR",
+    "country": "France"
+  },
+  {
+    "username": "tagirovpro",
+    "followingArtist": "GusGus",
+    "country_code": "RU",
+    "country": "Russia"
+  },
+  {
+    "username": "EliasCopernicus",
+    "followingArtist": "GusGus",
+    "country_code": "UK",
+    "country": "United Kingdom"
+  },
+  {
+    "username": "mikapomps",
+    "followingArtist": "GusGus",
+    "country_code": "ES",
+    "country": "Spain"
+  },
+  {
+    "username": "ronyrolon",
+    "followingArtist": "GusGus",
+    "country_code": "PH",
+    "country": "Philippines"
+  },
+  {
+    "username": "alexpavon",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "discohio",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "SarahJDaniels75",
+    "followingArtist": "GusGus",
+    "country_code": "GB",
+    "country": "England"
+  },
+  {
+    "username": "IX_29",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "GumenyukDO",
+    "followingArtist": "GusGus",
+    "country_code": "UA",
+    "country": "Ukraine"
+  },
+  {
+    "username": "SMRCulturePlus",
+    "followingArtist": "GusGus",
+    "country_code": "CA",
+    "country": "Canada"
+  },
+  {
+    "username": "thomasintrieri",
+    "followingArtist": "GusGus",
+    "country_code": "California City Blvd",
+    "country": "California City Blvd"
+  },
+  {
+    "username": "M_veien",
+    "followingArtist": "GusGus",
+    "country_code": "FR",
+    "country": "France"
+  },
+  {
+    "username": "MeetFactory",
+    "followingArtist": "GusGus",
+    "country_code": "CZ",
+    "country": "Czech Republic"
+  },
+  {
+    "username": "mistrebo",
+    "followingArtist": "GusGus",
+    "country_code": "DE",
+    "country": "Germany"
+  },
+  {
+    "username": "DjMrMarcello",
+    "followingArtist": "GusGus",
+    "country_code": "AU",
+    "country": "Australia"
+  },
+  {
+    "username": "Bobbyben",
+    "followingArtist": "GusGus",
+    "country_code": "GB",
+    "country": "England"
+  },
+  {
+    "username": "jonolafsson54",
+    "followingArtist": "GusGus",
+    "country_code": "DK",
+    "country": "Denmark"
+  },
+  {
+    "username": "djperry1973",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "Haukursteinn",
+    "followingArtist": "GusGus",
+    "country_code": "IS",
+    "country": "Iceland"
+  },
+  {
+    "username": "hosonbiggs",
+    "followingArtist": "GusGus",
+    "country_code": "UK",
+    "country": "United Kingdom"
+  },
+  {
+    "username": "cynthiap000",
+    "followingArtist": "GusGus",
+    "country_code": "BR",
+    "country": "Brazil"
+  },
+  {
+    "username": "petersuess",
+    "followingArtist": "GusGus",
+    "country_code": "NL",
+    "country": "Netherlands"
+  },
+  {
+    "username": "coisaderalph",
+    "followingArtist": "GusGus",
+    "country_code": "BR",
+    "country": "Brazil"
+  },
+  {
+    "username": "carinapit",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "Murthovic",
+    "followingArtist": "GusGus",
+    "country_code": "IN",
+    "country": "India"
+  },
+  {
+    "username": "TraumRecords",
+    "followingArtist": "GusGus",
+    "country_code": "DE",
+    "country": "Germany"
+  },
+  {
+    "username": "jbfreely",
+    "followingArtist": "GusGus",
+    "country_code": "GB",
+    "country": "England"
+  },
+  {
+    "username": "ariwnetoDj",
+    "followingArtist": "GusGus",
+    "country_code": "PT",
+    "country": "Portugal"
+  },
+  {
+    "username": "LewJam",
+    "followingArtist": "GusGus",
+    "country_code": "UK",
+    "country": "United Kingdom"
+  },
+  {
+    "username": "KimJoseBode",
+    "followingArtist": "GusGus",
+    "country_code": "NL",
+    "country": "Netherlands"
+  },
+  {
+    "username": "ptr_l",
+    "followingArtist": "GusGus",
+    "country_code": "GR",
+    "country": "Greece"
+  },
+  {
+    "username": "vovaover",
+    "followingArtist": "GusGus",
+    "country_code": "RU",
+    "country": "Russia"
+  },
+  {
+    "username": "diegozuccari",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "Matt_Darey",
+    "followingArtist": "GusGus",
+    "country_code": "UK",
+    "country": "United Kingdom"
+  },
+  {
+    "username": "Chaton18",
+    "followingArtist": "GusGus",
+    "country_code": "FR",
+    "country": "France"
+  },
+  {
+    "username": "jb_nature_photo",
+    "followingArtist": "GusGus",
+    "country_code": "DE",
+    "country": "Germany"
+  },
+  {
+    "username": "DurgaUniverse",
+    "followingArtist": "GusGus",
+    "country_code": "NL",
+    "country": "Netherlands"
+  },
+  {
+    "username": "Time2FlyRecords",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "Androdie",
+    "followingArtist": "GusGus",
+    "country_code": "FR",
+    "country": "France"
+  },
+  {
+    "username": "ad_ch",
+    "followingArtist": "GusGus",
+    "country_code": "CH",
+    "country": "Switzerland"
+  },
+  {
+    "username": "pippinlion",
+    "followingArtist": "GusGus",
+    "country_code": "GB",
+    "country": "England"
+  },
+  {
+    "username": "n3t0",
+    "followingArtist": "GusGus",
+    "country_code": "MX",
+    "country": "Mexico"
+  },
+  {
+    "username": "killermoustache",
+    "followingArtist": "GusGus",
+    "country_code": "MX",
+    "country": "Mexico"
+  },
+  {
+    "username": "DyrRobersson",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "acousticUSA",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "ghostliife",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "EilimAngel",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "alshanina",
+    "followingArtist": "GusGus",
+    "country_code": "MA",
+    "country": "Morocco"
+  },
+  {
+    "username": "shiveringgoat",
+    "followingArtist": "GusGus",
+    "country_code": "GB",
+    "country": "England"
+  },
+  {
+    "username": "stevenbolinger",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "djmaxxx808",
+    "followingArtist": "GusGus",
+    "country_code": "TH",
+    "country": "Thailand"
+  },
+  {
+    "username": "agibabe02",
+    "followingArtist": "GusGus",
+    "country_code": "GB",
+    "country": "England"
+  },
+  {
+    "username": "Vondarto",
+    "followingArtist": "GusGus",
+    "country_code": "BY",
+    "country": "Belarus"
+  },
+  {
+    "username": "SamPaye",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "MantasSteles",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "MizMuze",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "bulldozermedia",
+    "followingArtist": "GusGus",
+    "country_code": "UK",
+    "country": "United Kingdom"
+  },
+  {
+    "username": "panijoss",
+    "followingArtist": "GusGus",
+    "country_code": "PY",
+    "country": "Paraguay"
+  },
+  {
+    "username": "therealMIXHELL",
+    "followingArtist": "GusGus",
+    "country_code": "UK",
+    "country": "United Kingdom"
+  },
+  {
+    "username": "pattgora",
+    "followingArtist": "GusGus",
+    "country_code": "BR",
+    "country": "Brazil"
+  },
+  {
+    "username": "Vicuspr",
+    "followingArtist": "GusGus",
+    "country_code": "FI",
+    "country": "Finland"
+  },
+  {
+    "username": "LydiaTheBilly",
+    "followingArtist": "GusGus",
+    "country_code": "CA",
+    "country": "Canada"
+  },
+  {
+    "username": "FelixCage",
+    "followingArtist": "GusGus",
+    "country_code": "BE",
+    "country": "Belgium"
+  },
+  {
+    "username": "ed_vere",
+    "followingArtist": "GusGus",
+    "country_code": "UK",
+    "country": "United Kingdom"
+  },
+  {
+    "username": "SylwiaEs",
+    "followingArtist": "GusGus",
+    "country_code": "PL",
+    "country": "Poland"
+  },
+  {
+    "username": "glavclub",
+    "followingArtist": "GusGus",
+    "country_code": "RU",
+    "country": "Russia"
+  },
+  {
+    "username": "chrisclav",
+    "followingArtist": "GusGus",
+    "country_code": "NO",
+    "country": "Norway"
+  },
+  {
+    "username": "artisdeadmusic",
+    "followingArtist": "GusGus",
+    "country_code": "IS",
+    "country": "Iceland"
+  },
+  {
+    "username": "TatiSays",
+    "followingArtist": "GusGus",
+    "country_code": "MX",
+    "country": "Mexico"
+  },
+  {
+    "username": "unnosequien",
+    "followingArtist": "GusGus",
+    "country_code": "BR",
+    "country": "Brazil"
+  },
+  {
+    "username": "postcodeorange",
+    "followingArtist": "GusGus",
+    "country_code": "UK",
+    "country": "United Kingdom"
+  },
+  {
+    "username": "miquel_argueta",
+    "followingArtist": "GusGus",
+    "country_code": "MX",
+    "country": "Mexico"
+  },
+  {
+    "username": "AndDeepBR",
+    "followingArtist": "GusGus",
+    "country_code": "BR",
+    "country": "Brazil"
+  },
+  {
+    "username": "textfilms",
+    "followingArtist": "GusGus",
+    "country_code": "GB",
+    "country": "England"
+  },
+  {
+    "username": "ged_fm",
+    "followingArtist": "GusGus",
+    "country_code": "UK",
+    "country": "United Kingdom"
+  },
+  {
+    "username": "Jaydy2007",
+    "followingArtist": "GusGus",
+    "country_code": "DE",
+    "country": "Germany"
+  },
+  {
+    "username": "alfra1",
+    "followingArtist": "GusGus",
+    "country_code": "ES",
+    "country": "Spain"
+  },
+  {
+    "username": "ReeDrhum",
+    "followingArtist": "GusGus",
+    "country_code": "FR",
+    "country": "France"
+  },
+  {
+    "username": "musicmcie",
+    "followingArtist": "GusGus",
+    "country_code": "FR",
+    "country": "France"
+  },
+  {
+    "username": "locknload",
+    "followingArtist": "GusGus",
+    "country_code": "AU",
+    "country": "Australia"
+  },
+  {
+    "username": "Fsgraves74",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "AltroVerso",
+    "followingArtist": "GusGus",
+    "country_code": "IT",
+    "country": "Italy"
+  },
+  {
+    "username": "biancha_neve",
+    "followingArtist": "GusGus",
+    "country_code": "DE",
+    "country": "Germany"
+  },
+  {
+    "username": "raf_szymanski",
+    "followingArtist": "GusGus",
+    "country_code": "PL",
+    "country": "Poland"
+  },
+  {
+    "username": "packetofpeanut",
+    "followingArtist": "GusGus",
+    "country_code": "UK",
+    "country": "United Kingdom"
+  },
+  {
+    "username": "charloops",
+    "followingArtist": "GusGus",
+    "country_code": "AU",
+    "country": "Australia"
+  },
+  {
+    "username": "ZwoenLE",
+    "followingArtist": "GusGus",
+    "country_code": "DE",
+    "country": "Germany"
+  },
+  {
+    "username": "south_door",
+    "followingArtist": "GusGus",
+    "country_code": "BJ",
+    "country": "Benin"
+  },
+  {
+    "username": "enrique_saray",
+    "followingArtist": "GusGus",
+    "country_code": "MX",
+    "country": "Mexico"
+  },
+  {
+    "username": "anacastillofoto",
+    "followingArtist": "GusGus",
+    "country_code": "ES",
+    "country": "Spain"
+  },
+  {
+    "username": "RoksiV",
+    "followingArtist": "GusGus",
+    "country_code": "MA",
+    "country": "Morocco"
+  },
+  {
+    "username": "AzzaEmylya",
+    "followingArtist": "GusGus",
+    "country_code": "DE",
+    "country": "Germany"
+  },
+  {
+    "username": "MihasEs",
+    "followingArtist": "GusGus",
+    "country_code": "PL",
+    "country": "Poland"
+  },
+  {
+    "username": "Keto_Thomas",
+    "followingArtist": "GusGus",
+    "country_code": "IT",
+    "country": "Italy"
+  },
+  {
+    "username": "fuadhabba",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "from_iceland",
+    "followingArtist": "GusGus",
+    "country_code": "IS",
+    "country": "Iceland"
+  },
+  {
+    "username": "MaggyMoller",
+    "followingArtist": "GusGus",
+    "country_code": "IS",
+    "country": "Iceland"
+  },
+  {
+    "username": "Juju_tha_fish",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "electronicalree",
+    "followingArtist": "GusGus",
+    "country_code": "BE",
+    "country": "Belgium"
+  },
+  {
+    "username": "RadioActivefm",
+    "followingArtist": "GusGus",
+    "country_code": "NZ",
+    "country": "New Zealand"
+  },
+  {
+    "username": "LGMSsro",
+    "followingArtist": "GusGus",
+    "country_code": "SK",
+    "country": "Slovak Republic"
+  },
+  {
+    "username": "norbertoth",
+    "followingArtist": "GusGus",
+    "country_code": "HU",
+    "country": "Hungary"
+  },
+  {
+    "username": "bradtweeters",
+    "followingArtist": "GusGus",
+    "country_code": "AU",
+    "country": "Australia"
+  },
+  {
+    "username": "Dancemunkey",
+    "followingArtist": "GusGus",
+    "country_code": "IN",
+    "country": "India"
+  },
+  {
+    "username": "OlivierWeiter",
+    "followingArtist": "GusGus",
+    "country_code": "NL",
+    "country": "Netherlands"
+  },
+  {
+    "username": "omsstuff",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "NeringaEnders",
+    "followingArtist": "GusGus",
+    "country_code": "AT",
+    "country": "Austria"
+  },
+  {
+    "username": "TweetingDex",
+    "followingArtist": "GusGus",
+    "country_code": "CZ",
+    "country": "Czech Republic"
+  },
+  {
+    "username": "whatpeopleplay",
+    "followingArtist": "GusGus",
+    "country_code": "DE",
+    "country": "Germany"
+  },
+  {
+    "username": "ishikahem",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "danielfku",
+    "followingArtist": "GusGus",
+    "country_code": "MX",
+    "country": "Mexico"
+  },
+  {
+    "username": "EdgarBarua",
+    "followingArtist": "GusGus",
+    "country_code": "IT",
+    "country": "Italy"
+  },
+  {
+    "username": "_AlexanderBen",
+    "followingArtist": "GusGus",
+    "country_code": "FR",
+    "country": "France"
+  },
+  {
+    "username": "MarianoPancaldi",
+    "followingArtist": "GusGus",
+    "country_code": "DZ",
+    "country": "Algeria"
+  },
+  {
+    "username": "BeccMaz",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "danielmanarelli",
+    "followingArtist": "GusGus",
+    "country_code": "ES",
+    "country": "Spain"
+  },
+  {
+    "username": "rcrdlist",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "SOUNDreact",
+    "followingArtist": "GusGus",
+    "country_code": "GB",
+    "country": "England"
+  },
+  {
+    "username": "GoodOnesItaly",
+    "followingArtist": "GusGus",
+    "country_code": "IT",
+    "country": "Italy"
+  },
+  {
+    "username": "Pierre1203",
+    "followingArtist": "GusGus",
+    "country_code": "NL",
+    "country": "Netherlands"
+  },
+  {
+    "username": "Linneasunivers",
+    "followingArtist": "GusGus",
+    "country_code": "DK",
+    "country": "Denmark"
+  },
+  {
+    "username": "B14vintageflea",
+    "followingArtist": "GusGus",
+    "country_code": "UK",
+    "country": "United Kingdom"
+  },
+  {
+    "username": "OrlandooPaes",
+    "followingArtist": "GusGus",
+    "country_code": "MX",
+    "country": "Mexico"
+  },
+  {
+    "username": "GarethParris",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "benedictnoone",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "Gisli_B",
+    "followingArtist": "GusGus",
+    "country_code": "IS",
+    "country": "Iceland"
+  },
+  {
+    "username": "NordicMood",
+    "followingArtist": "GusGus",
+    "country_code": "RO",
+    "country": "Romania"
+  },
+  {
+    "username": "katiecarnie",
+    "followingArtist": "GusGus",
+    "country_code": "AU",
+    "country": "Australia"
+  },
+  {
+    "username": "somodyzoltan",
+    "followingArtist": "GusGus",
+    "country_code": "HU",
+    "country": "Hungary"
+  },
+  {
+    "username": "vespertinegirl",
+    "followingArtist": "GusGus",
+    "country_code": "GB",
+    "country": "England"
+  },
+  {
+    "username": "eg61",
+    "followingArtist": "GusGus",
+    "country_code": "IS",
+    "country": "Iceland"
+  },
+  {
+    "username": "ovaltine8",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "kristijanmolnar",
+    "followingArtist": "GusGus",
+    "country_code": "RS",
+    "country": "Serbia"
+  },
+  {
+    "username": "hummelschrebern",
+    "followingArtist": "GusGus",
+    "country_code": "DE",
+    "country": "Germany"
+  },
+  {
+    "username": "TempoATL",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "Jentyme",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "frankiestar13",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "_JohnMontgomery",
+    "followingArtist": "GusGus",
+    "country_code": "CA",
+    "country": "Canada"
+  },
+  {
+    "username": "cosmogenesis",
+    "followingArtist": "GusGus",
+    "country_code": "IT",
+    "country": "Italy"
+  },
+  {
+    "username": "icelandcool",
+    "followingArtist": "GusGus",
+    "country_code": "GB",
+    "country": "England"
+  },
+  {
+    "username": "AnItalianBanana",
+    "followingArtist": "GusGus",
+    "country_code": "Pennsylvania Furnace Rd",
+    "country": "Pennsylvania Furnace Rd"
+  },
+  {
+    "username": "ForwardDisco",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "MOX_TV",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "SBaradinskas",
+    "followingArtist": "GusGus",
+    "country_code": "LT",
+    "country": "Lithuania"
+  },
+  {
+    "username": "erikhirt",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "funkna1",
+    "followingArtist": "GusGus",
+    "country_code": "AU",
+    "country": "Australia"
+  },
+  {
+    "username": "lucascerch",
+    "followingArtist": "GusGus",
+    "country_code": "BR",
+    "country": "Brazil"
+  },
+  {
+    "username": "GrupoFabrik",
+    "followingArtist": "GusGus",
+    "country_code": "ES",
+    "country": "Spain"
+  },
+  {
+    "username": "Underthebigsmok",
+    "followingArtist": "GusGus",
+    "country_code": "UK",
+    "country": "United Kingdom"
+  },
+  {
+    "username": "FazeMag",
+    "followingArtist": "GusGus",
+    "country_code": "DE",
+    "country": "Germany"
+  },
+  {
+    "username": "CSmeeth",
+    "followingArtist": "GusGus",
+    "country_code": "RU",
+    "country": "Russia"
+  },
+  {
+    "username": "SoWvySounds",
+    "followingArtist": "GusGus",
+    "country_code": "UK",
+    "country": "United Kingdom"
+  },
+  {
+    "username": "COMOLASGRECAS",
+    "followingArtist": "GusGus",
+    "country_code": "ES",
+    "country": "Spain"
+  },
+  {
+    "username": "marlon_price",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "3MotherFunkers",
+    "followingArtist": "GusGus",
+    "country_code": "MX",
+    "country": "Mexico"
+  },
+  {
+    "username": "mriceland",
+    "followingArtist": "GusGus",
+    "country_code": "IS",
+    "country": "Iceland"
+  },
+  {
+    "username": "fancyRack",
+    "followingArtist": "GusGus",
+    "country_code": "DE",
+    "country": "Germany"
+  },
+  {
+    "username": "ripgr00ve",
+    "followingArtist": "GusGus",
+    "country_code": "HU",
+    "country": "Hungary"
+  },
+  {
+    "username": "lharp",
+    "followingArtist": "GusGus",
+    "country_code": "SK",
+    "country": "Slovak Republic"
+  },
+  {
+    "username": "rapunkzelrockon",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "richcowling",
+    "followingArtist": "GusGus",
+    "country_code": "GB",
+    "country": "England"
+  },
+  {
+    "username": "loloka1995",
+    "followingArtist": "GusGus",
+    "country_code": "UA",
+    "country": "Ukraine"
+  },
+  {
+    "username": "MaggiHalld",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "bluefogbistro",
+    "followingArtist": "GusGus",
+    "country_code": "MX",
+    "country": "Mexico"
+  },
+  {
+    "username": "dnactube",
+    "followingArtist": "GusGus",
+    "country_code": "PL",
+    "country": "Poland"
+  },
+  {
+    "username": "SitaChinaski",
+    "followingArtist": "GusGus",
+    "country_code": "CL",
+    "country": "Chile"
+  },
+  {
+    "username": "freshscoria",
+    "followingArtist": "GusGus",
+    "country_code": "KR",
+    "country": "South Korea"
+  },
+  {
+    "username": "JusteAle",
+    "followingArtist": "GusGus",
+    "country_code": "LT",
+    "country": "Lithuania"
+  },
+  {
+    "username": "goosyandmama",
+    "followingArtist": "GusGus",
+    "country_code": "NG",
+    "country": "Nigeria"
+  },
+  {
+    "username": "DomenicoFabio",
+    "followingArtist": "GusGus",
+    "country_code": "IT",
+    "country": "Italy"
+  },
+  {
+    "username": "PornoiDuszno",
+    "followingArtist": "GusGus",
+    "country_code": "PL",
+    "country": "Poland"
+  },
+  {
+    "username": "Niamhdm78",
+    "followingArtist": "GusGus",
+    "country_code": "BR",
+    "country": "Brazil"
+  },
+  {
+    "username": "diddascheving",
+    "followingArtist": "GusGus",
+    "country_code": "NG",
+    "country": "Nigeria"
+  },
+  {
+    "username": "einarsss",
+    "followingArtist": "GusGus",
+    "country_code": "IS",
+    "country": "Iceland"
+  },
+  {
+    "username": "TyWiFi",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "KRAMERsf",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "RELwebzine",
+    "followingArtist": "GusGus",
+    "country_code": "FR",
+    "country": "France"
+  },
+  {
+    "username": "SkvisaLisa",
+    "followingArtist": "GusGus",
+    "country_code": "GB",
+    "country": "England"
+  },
+  {
+    "username": "elsafanney",
+    "followingArtist": "GusGus",
+    "country_code": "DK",
+    "country": "Denmark"
+  },
+  {
+    "username": "saksofonistka",
+    "followingArtist": "GusGus",
+    "country_code": "IS",
+    "country": "Iceland"
+  },
+  {
+    "username": "PhilippDahmen",
+    "followingArtist": "GusGus",
+    "country_code": "UK",
+    "country": "United Kingdom"
+  },
+  {
+    "username": "mathieuparisot",
+    "followingArtist": "GusGus",
+    "country_code": "FR",
+    "country": "France"
+  },
+  {
+    "username": "Peter_Dieter",
+    "followingArtist": "GusGus",
+    "country_code": "DE",
+    "country": "Germany"
+  },
+  {
+    "username": "Ronne83",
+    "followingArtist": "GusGus",
+    "country_code": "DE",
+    "country": "Germany"
+  },
+  {
+    "username": "gaborsviatko",
+    "followingArtist": "GusGus",
+    "country_code": "UK",
+    "country": "United Kingdom"
+  },
+  {
+    "username": "gill_patt",
+    "followingArtist": "GusGus",
+    "country_code": "AU",
+    "country": "Australia"
+  },
+  {
+    "username": "marcmateu",
+    "followingArtist": "GusGus",
+    "country_code": "ES",
+    "country": "Spain"
+  },
+  {
+    "username": "ViolonProgresso",
+    "followingArtist": "GusGus",
+    "country_code": "HU",
+    "country": "Hungary"
+  },
+  {
+    "username": "StephenMulholl",
+    "followingArtist": "GusGus",
+    "country_code": "UK",
+    "country": "United Kingdom"
+  },
+  {
+    "username": "EdithGunnars",
+    "followingArtist": "GusGus",
+    "country_code": "IS",
+    "country": "Iceland"
+  },
+  {
+    "username": "satokurosaka",
+    "followingArtist": "GusGus",
+    "country_code": "JP",
+    "country": "Japan"
+  },
+  {
+    "username": "JuxDotCom",
+    "followingArtist": "GusGus",
+    "country_code": "JO",
+    "country": "Jordan"
+  },
+  {
+    "username": "The_Funny_Bird",
+    "followingArtist": "GusGus",
+    "country_code": "FR",
+    "country": "France"
+  },
+  {
+    "username": "Oscarcornell",
+    "followingArtist": "GusGus",
+    "country_code": "MX",
+    "country": "Mexico"
+  },
+  {
+    "username": "blogadeedog",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "bjornthomassen",
+    "followingArtist": "GusGus",
+    "country_code": "NP",
+    "country": "Nepal"
+  },
+  {
+    "username": "MarcinLapka",
+    "followingArtist": "GusGus",
+    "country_code": "PL",
+    "country": "Poland"
+  },
+  {
+    "username": "AstorLives",
+    "followingArtist": "GusGus",
+    "country_code": "IS",
+    "country": "Iceland"
+  },
+  {
+    "username": "ciatherese",
+    "followingArtist": "GusGus",
+    "country_code": "SE",
+    "country": "Sweden"
+  },
+  {
+    "username": "KarenJeanHood",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "vinyl_m",
+    "followingArtist": "GusGus",
+    "country_code": "UK",
+    "country": "United Kingdom"
+  },
+  {
+    "username": "eyeNVewe",
+    "followingArtist": "GusGus",
+    "country_code": "BR",
+    "country": "Brazil"
+  },
+  {
+    "username": "Eugenia_An_Sk",
+    "followingArtist": "GusGus",
+    "country_code": "UA",
+    "country": "Ukraine"
+  },
+  {
+    "username": "IvetuteMass",
+    "followingArtist": "GusGus",
+    "country_code": "LT",
+    "country": "Lithuania"
+  },
+  {
+    "username": "darkolita",
+    "followingArtist": "GusGus",
+    "country_code": "BG",
+    "country": "Bulgaria"
+  },
+  {
+    "username": "Snorri_Asmunds",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "Yveslisbona",
+    "followingArtist": "GusGus",
+    "country_code": "FR",
+    "country": "France"
+  },
+  {
+    "username": "Itzelalanmore",
+    "followingArtist": "GusGus",
+    "country_code": "IT",
+    "country": "Italy"
+  },
+  {
+    "username": "SiropFantaisie",
+    "followingArtist": "GusGus",
+    "country_code": "MX",
+    "country": "Mexico"
+  },
+  {
+    "username": "marian_offbeat",
+    "followingArtist": "GusGus",
+    "country_code": "PL",
+    "country": "Poland"
+  },
+  {
+    "username": "markdepeche89",
+    "followingArtist": "GusGus",
+    "country_code": "IT",
+    "country": "Italy"
+  },
+  {
+    "username": "ShaunyWalker",
+    "followingArtist": "GusGus",
+    "country_code": "CA",
+    "country": "Canada"
+  },
+  {
+    "username": "JSMNDZXLT",
+    "followingArtist": "GusGus",
+    "country_code": "MX",
+    "country": "Mexico"
+  },
+  {
+    "username": "emchi",
+    "followingArtist": "GusGus",
+    "country_code": "UK",
+    "country": "United Kingdom"
+  },
+  {
+    "username": "sandovalhousset",
+    "followingArtist": "GusGus",
+    "country_code": "HR",
+    "country": "Hrvatska"
+  },
+  {
+    "username": "Alfheima",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "PiaCGN",
+    "followingArtist": "GusGus",
+    "country_code": "DE",
+    "country": "Germany"
+  },
+  {
+    "username": "Laplage13",
+    "followingArtist": "GusGus",
+    "country_code": "FR",
+    "country": "France"
+  },
+  {
+    "username": "sophieNps",
+    "followingArtist": "GusGus",
+    "country_code": "GB",
+    "country": "England"
+  },
+  {
+    "username": "Girl_ScoutMusic",
+    "followingArtist": "GusGus",
+    "country_code": "MY",
+    "country": "Malaysia"
+  },
+  {
+    "username": "asrunlilja",
+    "followingArtist": "GusGus",
+    "country_code": "DK",
+    "country": "Denmark"
+  },
+  {
+    "username": "nico2p",
+    "followingArtist": "GusGus",
+    "country_code": "FR",
+    "country": "France"
+  },
+  {
+    "username": "golf_Music",
+    "followingArtist": "GusGus",
+    "country_code": "JP",
+    "country": "Japan"
+  },
+  {
+    "username": "HeilpraktikerHH",
+    "followingArtist": "GusGus",
+    "country_code": "DE",
+    "country": "Germany"
+  },
+  {
+    "username": "IWGICE",
+    "followingArtist": "GusGus",
+    "country_code": "IS",
+    "country": "Iceland"
+  },
+  {
+    "username": "PippaRvk",
+    "followingArtist": "GusGus",
+    "country_code": "IS",
+    "country": "Iceland"
+  },
+  {
+    "username": "fuanin81",
+    "followingArtist": "GusGus",
+    "country_code": "CL",
+    "country": "Chile"
+  },
+  {
+    "username": "AlexEmmanouil",
+    "followingArtist": "GusGus",
+    "country_code": "GR",
+    "country": "Greece"
+  },
+  {
+    "username": "inciceland",
+    "followingArtist": "GusGus",
+    "country_code": "IS",
+    "country": "Iceland"
+  },
+  {
+    "username": "Lilithanges",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "JamesIsGreen",
+    "followingArtist": "GusGus",
+    "country_code": "UK",
+    "country": "United Kingdom"
+  },
+  {
+    "username": "geimVEIRA",
+    "followingArtist": "GusGus",
+    "country_code": "IS",
+    "country": "Iceland"
+  },
+  {
+    "username": "jeux_deau",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "3_Relics_Design",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "ximena75694365",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "navada",
+    "followingArtist": "GusGus",
+    "country_code": "UK",
+    "country": "United Kingdom"
+  },
+  {
+    "username": "Claragunnars",
+    "followingArtist": "GusGus",
+    "country_code": "UK",
+    "country": "United Kingdom"
+  },
+  {
+    "username": "AlrunNordic",
+    "followingArtist": "GusGus",
+    "country_code": "IS",
+    "country": "Iceland"
+  },
+  {
+    "username": "MuenchenLondon",
+    "followingArtist": "GusGus",
+    "country_code": "UK",
+    "country": "United Kingdom"
+  },
+  {
+    "username": "Fracek72",
+    "followingArtist": "GusGus",
+    "country_code": "PL",
+    "country": "Poland"
+  },
+  {
+    "username": "sunnevaran94",
+    "followingArtist": "GusGus",
+    "country_code": "DK",
+    "country": "Denmark"
+  },
+  {
+    "username": "lexivia",
+    "followingArtist": "GusGus",
+    "country_code": "PT",
+    "country": "Portugal"
+  },
+  {
+    "username": "bragginn",
+    "followingArtist": "GusGus",
+    "country_code": "IS",
+    "country": "Iceland"
+  },
+  {
+    "username": "MariuszDulat",
+    "followingArtist": "GusGus",
+    "country_code": "PL",
+    "country": "Poland"
+  },
+  {
+    "username": "theteamcaptain",
+    "followingArtist": "GusGus",
+    "country_code": "UK",
+    "country": "United Kingdom"
+  },
+  {
+    "username": "faderlab",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "WhatsOn_Iceland",
+    "followingArtist": "GusGus",
+    "country_code": "IS",
+    "country": "Iceland"
+  },
+  {
+    "username": "Mattdp_",
+    "followingArtist": "GusGus",
+    "country_code": "AR",
+    "country": "Argentina"
+  },
+  {
+    "username": "plislandia",
+    "followingArtist": "GusGus",
+    "country_code": "ES",
+    "country": "Spain"
+  },
+  {
+    "username": "PazosRodri",
+    "followingArtist": "GusGus",
+    "country_code": "ES",
+    "country": "Spain"
+  },
+  {
+    "username": "JehonaFe",
+    "followingArtist": "GusGus",
+    "country_code": "XK",
+    "country": "XK"
+  },
+  {
+    "username": "AleksGosto",
+    "followingArtist": "GusGus",
+    "country_code": "NO",
+    "country": "Norway"
+  },
+  {
+    "username": "schrapse76",
+    "followingArtist": "GusGus",
+    "country_code": "DE",
+    "country": "Germany"
+  },
+  {
+    "username": "MechupaunWeber",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "astormeade",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "BellzKellz",
+    "followingArtist": "GusGus",
+    "country_code": "UK",
+    "country": "United Kingdom"
+  },
+  {
+    "username": "apenthunder",
+    "followingArtist": "GusGus",
+    "country_code": "ES",
+    "country": "Spain"
+  },
+  {
+    "username": "skankhead_spur",
+    "followingArtist": "GusGus",
+    "country_code": "UK",
+    "country": "United Kingdom"
+  },
+  {
+    "username": "vivamojo",
+    "followingArtist": "GusGus",
+    "country_code": "GB",
+    "country": "England"
+  },
+  {
+    "username": "NordicCoffeeBtn",
+    "followingArtist": "GusGus",
+    "country_code": "GB",
+    "country": "England"
+  },
+  {
+    "username": "valvarezmozos",
+    "followingArtist": "GusGus",
+    "country_code": "ES",
+    "country": "Spain"
+  },
+  {
+    "username": "sauviesing",
+    "followingArtist": "GusGus",
+    "country_code": "NG",
+    "country": "Nigeria"
+  },
+  {
+    "username": "unemelanie",
+    "followingArtist": "GusGus",
+    "country_code": "FR",
+    "country": "France"
+  },
+  {
+    "username": "MrPicolos",
+    "followingArtist": "GusGus",
+    "country_code": "DE",
+    "country": "Germany"
+  },
+  {
+    "username": "Avi_Mayorga",
+    "followingArtist": "GusGus",
+    "country_code": "HN",
+    "country": "Honduras"
+  },
+  {
+    "username": "MONIBOY10",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "Rugiledem",
+    "followingArtist": "GusGus",
+    "country_code": "UK",
+    "country": "United Kingdom"
+  },
+  {
+    "username": "KleinMusicLab",
+    "followingArtist": "GusGus",
+    "country_code": "BE",
+    "country": "Belgium"
+  },
+  {
+    "username": "jonasbeckenkamp",
+    "followingArtist": "GusGus",
+    "country_code": "DE",
+    "country": "Germany"
+  },
+  {
+    "username": "RobertHaymanx",
+    "followingArtist": "GusGus",
+    "country_code": "UK",
+    "country": "United Kingdom"
+  },
+  {
+    "username": "Nbetanea",
+    "followingArtist": "GusGus",
+    "country_code": "DE",
+    "country": "Germany"
+  },
+  {
+    "username": "kkq25",
+    "followingArtist": "GusGus",
+    "country_code": "UA",
+    "country": "Ukraine"
+  },
+  {
+    "username": "_Duffster",
+    "followingArtist": "GusGus",
+    "country_code": "UK",
+    "country": "United Kingdom"
+  },
+  {
+    "username": "AydinAtes",
+    "followingArtist": "GusGus",
+    "country_code": "TR",
+    "country": "Turkey"
+  },
+  {
+    "username": "ADiFilippo_",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "ingirafn",
+    "followingArtist": "GusGus",
+    "country_code": "IS",
+    "country": "Iceland"
+  },
+  {
+    "username": "dogaozata",
+    "followingArtist": "GusGus",
+    "country_code": "DE",
+    "country": "Germany"
+  },
+  {
+    "username": "SchoolsOfSalmon",
+    "followingArtist": "GusGus",
+    "country_code": "JP",
+    "country": "Japan"
+  },
+  {
+    "username": "PacifikRecords",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "erockintheplace",
+    "followingArtist": "GusGus",
+    "country_code": "TD",
+    "country": "Chad"
+  },
+  {
+    "username": "HelenaBjarta",
+    "followingArtist": "GusGus",
+    "country_code": "ES",
+    "country": "Spain"
+  },
+  {
+    "username": "Olafur_G",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "radiojar",
+    "followingArtist": "GusGus",
+    "country_code": "CA",
+    "country": "Canada"
+  },
+  {
+    "username": "GarySharman89",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "AgnesMikke",
+    "followingArtist": "GusGus",
+    "country_code": "AT",
+    "country": "Austria"
+  },
+  {
+    "username": "federsalvo",
+    "followingArtist": "GusGus",
+    "country_code": "IT",
+    "country": "Italy"
+  },
+  {
+    "username": "makeupshizdrops",
+    "followingArtist": "GusGus",
+    "country_code": "UK",
+    "country": "United Kingdom"
+  },
+  {
+    "username": "Dafnulda",
+    "followingArtist": "GusGus",
+    "country_code": "SK",
+    "country": "Slovak Republic"
+  },
+  {
+    "username": "diazandyou",
+    "followingArtist": "GusGus",
+    "country_code": "ES",
+    "country": "Spain"
+  },
+  {
+    "username": "TelescopeMedia",
+    "followingArtist": "GusGus",
+    "country_code": "CA",
+    "country": "Canada"
+  },
+  {
+    "username": "katrin_ijhh",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "PolariMagazine",
+    "followingArtist": "GusGus",
+    "country_code": "UK",
+    "country": "United Kingdom"
+  },
+  {
+    "username": "FinalAudio",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "xtramol",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "cadencecj",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "kandil974",
+    "followingArtist": "GusGus",
+    "country_code": "EG",
+    "country": "Egypt"
+  },
+  {
+    "username": "theHKFoufou",
+    "followingArtist": "GusGus",
+    "country_code": "FR",
+    "country": "France"
+  },
+  {
+    "username": "lemonmaze",
+    "followingArtist": "GusGus",
+    "country_code": "DE",
+    "country": "Germany"
+  },
+  {
+    "username": "CollinJRae",
+    "followingArtist": "GusGus",
+    "country_code": "GB",
+    "country": "England"
+  },
+  {
+    "username": "WMCLLC",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "_Augusstto",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "ecomarketingnow",
+    "followingArtist": "GusGus",
+    "country_code": "FR",
+    "country": "France"
+  },
+  {
+    "username": "AlenCett",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "amikonkonkon",
+    "followingArtist": "GusGus",
+    "country_code": "JP",
+    "country": "Japan"
+  },
+  {
+    "username": "HindieCorp",
+    "followingArtist": "GusGus",
+    "country_code": "CO",
+    "country": "Colombia"
+  },
+  {
+    "username": "hopekeeper84",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "A_Irwin33",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "dragonmasteremp",
+    "followingArtist": "GusGus",
+    "country_code": "GB",
+    "country": "England"
+  },
+  {
+    "username": "nerijusjasudas",
+    "followingArtist": "GusGus",
+    "country_code": "LT",
+    "country": "Lithuania"
+  },
+  {
+    "username": "mrwolfmagazine",
+    "followingArtist": "GusGus",
+    "country_code": "SE",
+    "country": "Sweden"
+  },
+  {
+    "username": "MarcinPoziom",
+    "followingArtist": "GusGus",
+    "country_code": "PL",
+    "country": "Poland"
+  },
+  {
+    "username": "33rpm_podcast",
+    "followingArtist": "GusGus",
+    "country_code": "RU",
+    "country": "Russia"
+  },
+  {
+    "username": "djL8M8",
+    "followingArtist": "GusGus",
+    "country_code": "LT",
+    "country": "Lithuania"
+  },
+  {
+    "username": "Icelimo",
+    "followingArtist": "GusGus",
+    "country_code": "IS",
+    "country": "Iceland"
+  },
+  {
+    "username": "crowdedspaces",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "VictorGim",
+    "followingArtist": "GusGus",
+    "country_code": "PY",
+    "country": "Paraguay"
+  },
+  {
+    "username": "thestoryof4AD",
+    "followingArtist": "GusGus",
+    "country_code": "UK",
+    "country": "United Kingdom"
+  },
+  {
+    "username": "fmbelfast",
+    "followingArtist": "GusGus",
+    "country_code": "IS",
+    "country": "Iceland"
+  },
+  {
+    "username": "EinarJonErlings",
+    "followingArtist": "GusGus",
+    "country_code": "IS",
+    "country": "Iceland"
+  },
+  {
+    "username": "yongeknife",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "AnybodyBC",
+    "followingArtist": "GusGus",
+    "country_code": "UK",
+    "country": "United Kingdom"
+  },
+  {
+    "username": "julles0906",
+    "followingArtist": "GusGus",
+    "country_code": "BR",
+    "country": "Brazil"
+  },
+  {
+    "username": "sascha_vogel",
+    "followingArtist": "GusGus",
+    "country_code": "CH",
+    "country": "Switzerland"
+  },
+  {
+    "username": "vy_nni",
+    "followingArtist": "GusGus",
+    "country_code": "CO",
+    "country": "Colombia"
+  },
+  {
+    "username": "graficaipe",
+    "followingArtist": "GusGus",
+    "country_code": "BR",
+    "country": "Brazil"
+  },
+  {
+    "username": "LacusOrquideas",
+    "followingArtist": "GusGus",
+    "country_code": "MX",
+    "country": "Mexico"
+  },
+  {
+    "username": "miriillo",
+    "followingArtist": "GusGus",
+    "country_code": "ES",
+    "country": "Spain"
+  },
+  {
+    "username": "Shopicelandic",
+    "followingArtist": "GusGus",
+    "country_code": "IS",
+    "country": "Iceland"
+  },
+  {
+    "username": "Odda_A",
+    "followingArtist": "GusGus",
+    "country_code": "JP",
+    "country": "Japan"
+  },
+  {
+    "username": "OlavurJakupsson",
+    "followingArtist": "GusGus",
+    "country_code": "DK",
+    "country": "Denmark"
+  },
+  {
+    "username": "VEINHART",
+    "followingArtist": "GusGus",
+    "country_code": "ES",
+    "country": "Spain"
+  },
+  {
+    "username": "DonTyler47",
+    "followingArtist": "GusGus",
+    "country_code": "NG",
+    "country": "Nigeria"
+  },
+  {
+    "username": "bluemushroom1",
+    "followingArtist": "GusGus",
+    "country_code": "GB",
+    "country": "England"
+  },
+  {
+    "username": "helloandgoodeye",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "ale_car_men",
+    "followingArtist": "GusGus",
+    "country_code": "CL",
+    "country": "Chile"
+  },
+  {
+    "username": "5tunesuk",
+    "followingArtist": "GusGus",
+    "country_code": "UK",
+    "country": "United Kingdom"
+  },
+  {
+    "username": "samisaperson",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "kierboyo",
+    "followingArtist": "GusGus",
+    "country_code": "BR",
+    "country": "Brazil"
+  },
+  {
+    "username": "shesinastro",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "MaxCue",
+    "followingArtist": "GusGus",
+    "country_code": "BE",
+    "country": "Belgium"
+  },
+  {
+    "username": "radioultrapy",
+    "followingArtist": "GusGus",
+    "country_code": "PY",
+    "country": "Paraguay"
+  },
+  {
+    "username": "Louise_Staalsen",
+    "followingArtist": "GusGus",
+    "country_code": "DK",
+    "country": "Denmark"
+  },
+  {
+    "username": "djLuisMolinari",
+    "followingArtist": "GusGus",
+    "country_code": "NO",
+    "country": "Norway"
+  },
+  {
+    "username": "tusj",
+    "followingArtist": "GusGus",
+    "country_code": "NO",
+    "country": "Norway"
+  },
+  {
+    "username": "Shishalounge",
+    "followingArtist": "GusGus",
+    "country_code": "MX",
+    "country": "Mexico"
+  },
+  {
+    "username": "singularstep",
+    "followingArtist": "GusGus",
+    "country_code": "DE",
+    "country": "Germany"
+  },
+  {
+    "username": "trinidadvj",
+    "followingArtist": "GusGus",
+    "country_code": "ES",
+    "country": "Spain"
+  },
+  {
+    "username": "UKBusinessLabs",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "_hasanbalaban",
+    "followingArtist": "GusGus",
+    "country_code": "TR",
+    "country": "Turkey"
+  },
+  {
+    "username": "ikornimusic",
+    "followingArtist": "GusGus",
+    "country_code": "IS",
+    "country": "Iceland"
+  },
+  {
+    "username": "YoSoyFigue",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "antoninkolacek",
+    "followingArtist": "GusGus",
+    "country_code": "PL",
+    "country": "Poland"
+  },
+  {
+    "username": "kexpressis",
+    "followingArtist": "GusGus",
+    "country_code": "IS",
+    "country": "Iceland"
+  },
+  {
+    "username": "edgemercado",
+    "followingArtist": "GusGus",
+    "country_code": "MX",
+    "country": "Mexico"
+  },
+  {
+    "username": "EclectiqueRadio",
+    "followingArtist": "GusGus",
+    "country_code": "GB",
+    "country": "England"
+  },
+  {
+    "username": "garyjondavis",
+    "followingArtist": "GusGus",
+    "country_code": "GB",
+    "country": "England"
+  },
+  {
+    "username": "AlgitaLfc",
+    "followingArtist": "GusGus",
+    "country_code": "PL",
+    "country": "Poland"
+  },
+  {
+    "username": "Manclee",
+    "followingArtist": "GusGus",
+    "country_code": "GB",
+    "country": "England"
+  },
+  {
+    "username": "mixside",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "luisifer11",
+    "followingArtist": "GusGus",
+    "country_code": "BR",
+    "country": "Brazil"
+  },
+  {
+    "username": "mariafonn",
+    "followingArtist": "GusGus",
+    "country_code": "CH",
+    "country": "Switzerland"
+  },
+  {
+    "username": "triptica",
+    "followingArtist": "GusGus",
+    "country_code": "PT",
+    "country": "Portugal"
+  },
+  {
+    "username": "ZUBARmusic",
+    "followingArtist": "GusGus",
+    "country_code": "IT",
+    "country": "Italy"
+  },
+  {
+    "username": "IndioTabernero",
+    "followingArtist": "GusGus",
+    "country_code": "CO",
+    "country": "Colombia"
+  },
+  {
+    "username": "LucLalonde1",
+    "followingArtist": "GusGus",
+    "country_code": "CA",
+    "country": "Canada"
+  },
+  {
+    "username": "designedbypaul",
+    "followingArtist": "GusGus",
+    "country_code": "UK",
+    "country": "United Kingdom"
+  },
+  {
+    "username": "CurrentAdiction",
+    "followingArtist": "GusGus",
+    "country_code": "UK",
+    "country": "United Kingdom"
+  },
+  {
+    "username": "siggiproducer",
+    "followingArtist": "GusGus",
+    "country_code": "IS",
+    "country": "Iceland"
+  },
+  {
+    "username": "RainyDayRambles",
+    "followingArtist": "GusGus",
+    "country_code": "CA",
+    "country": "Canada"
+  },
+  {
+    "username": "SirChampa",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "jonsuifree",
+    "followingArtist": "GusGus",
+    "country_code": "ES",
+    "country": "Spain"
+  },
+  {
+    "username": "IcelandersinLDN",
+    "followingArtist": "GusGus",
+    "country_code": "UK",
+    "country": "United Kingdom"
+  },
+  {
+    "username": "hanniacorena",
+    "followingArtist": "GusGus",
+    "country_code": "BR",
+    "country": "Brazil"
+  },
+  {
+    "username": "MartinBirke",
+    "followingArtist": "GusGus",
+    "country_code": "California City Blvd",
+    "country": "California City Blvd"
+  },
+  {
+    "username": "HartsyThaiFood",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "lhyanq",
+    "followingArtist": "GusGus",
+    "country_code": "CO",
+    "country": "Colombia"
+  },
+  {
+    "username": "soltarelmundo",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "zoppika",
+    "followingArtist": "GusGus",
+    "country_code": "DK",
+    "country": "Denmark"
+  },
+  {
+    "username": "igloomag",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "ArabellaEm",
+    "followingArtist": "GusGus",
+    "country_code": "GB",
+    "country": "Great Britain"
+  },
+  {
+    "username": "vrussomusic",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "VampireRating",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "pvandeh",
+    "followingArtist": "GusGus",
+    "country_code": "BE",
+    "country": "Belgium"
+  },
+  {
+    "username": "olivarezm39",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "maggaaudur",
+    "followingArtist": "GusGus",
+    "country_code": "IS",
+    "country": "Iceland"
+  },
+  {
+    "username": "maybeitsme",
+    "followingArtist": "GusGus",
+    "country_code": "UK",
+    "country": "United Kingdom"
+  },
+  {
+    "username": "haddajoh",
+    "followingArtist": "GusGus",
+    "country_code": "NO",
+    "country": "Norway"
+  },
+  {
+    "username": "Baumann_Kevin",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "Sarapinta",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "umenos",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "eveningguests",
+    "followingArtist": "GusGus",
+    "country_code": "NG",
+    "country": "Nigeria"
+  },
+  {
+    "username": "soymirandamir",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "LuisMar15548514",
+    "followingArtist": "GusGus",
+    "country_code": "MX",
+    "country": "Mexico"
+  },
+  {
+    "username": "sonrisasdelaisl",
+    "followingArtist": "GusGus",
+    "country_code": "ES",
+    "country": "Spain"
+  },
+  {
+    "username": "kalliauduns",
+    "followingArtist": "GusGus",
+    "country_code": "NO",
+    "country": "Norway"
+  },
+  {
+    "username": "EricMeunierAZ",
+    "followingArtist": "GusGus",
+    "country_code": "FR",
+    "country": "France"
+  },
+  {
+    "username": "Unimog1988",
+    "followingArtist": "GusGus",
+    "country_code": "DE",
+    "country": "Germany"
+  },
+  {
+    "username": "MulteMusic",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "SadiVonD",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "Kontinuum_ICE",
+    "followingArtist": "GusGus",
+    "country_code": "IS",
+    "country": "Iceland"
+  },
+  {
+    "username": "ANEZdotHU",
+    "followingArtist": "GusGus",
+    "country_code": "HU",
+    "country": "Hungary"
+  },
+  {
+    "username": "CheekySpouse",
+    "followingArtist": "GusGus",
+    "country_code": "GB",
+    "country": "Great Britain"
+  },
+  {
+    "username": "FrancisLukasR",
+    "followingArtist": "GusGus",
+    "country_code": "BR",
+    "country": "Brazil"
+  },
+  {
+    "username": "Honey_Bumps",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "MurielParent",
+    "followingArtist": "GusGus",
+    "country_code": "FR",
+    "country": "France"
+  },
+  {
+    "username": "annagdmnds",
+    "followingArtist": "GusGus",
+    "country_code": "GB",
+    "country": "Great Britain"
+  },
+  {
+    "username": "A_S_D",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "a_kshebetke",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "KrisnaDharma_I",
+    "followingArtist": "GusGus",
+    "country_code": "ID",
+    "country": "Indonesia"
+  },
+  {
+    "username": "mate_glavina",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "beautybrigade",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "1000kisses_deep",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "elingles178",
+    "followingArtist": "GusGus",
+    "country_code": "UY",
+    "country": "Uruguay"
+  },
+  {
+    "username": "FrankKarch",
+    "followingArtist": "GusGus",
+    "country_code": "DE",
+    "country": "Germany"
+  },
+  {
+    "username": "CFlous",
+    "followingArtist": "GusGus",
+    "country_code": "FR",
+    "country": "France"
+  },
+  {
+    "username": "ruslan_khamitov",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "sillyilly_vegan",
+    "followingArtist": "GusGus",
+    "country_code": "ES",
+    "country": "Spain"
+  },
+  {
+    "username": "JennySuarezL",
+    "followingArtist": "GusGus",
+    "country_code": "PE",
+    "country": "Peru"
+  },
+  {
+    "username": "IceStat",
+    "followingArtist": "GusGus",
+    "country_code": "UK",
+    "country": "United Kingdom"
+  },
+  {
+    "username": "BabesPapes",
+    "followingArtist": "GusGus",
+    "country_code": "AT",
+    "country": "Austria"
+  },
+  {
+    "username": "LowCash83",
+    "followingArtist": "GusGus",
+    "country_code": "IT",
+    "country": "Italy"
+  },
+  {
+    "username": "AgnesArna",
+    "followingArtist": "GusGus",
+    "country_code": "NO",
+    "country": "Norway"
+  },
+  {
+    "username": "Orutradelabuena",
+    "followingArtist": "GusGus",
+    "country_code": "ES",
+    "country": "Spain"
+  },
+  {
+    "username": "m3ntalmonk3y",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "OUATisTheBest",
+    "followingArtist": "GusGus",
+    "country_code": "CA",
+    "country": "Canada"
+  },
+  {
+    "username": "ReneaBehluli",
+    "followingArtist": "GusGus",
+    "country_code": "XK",
+    "country": "XK"
+  },
+  {
+    "username": "jorgewiinter",
+    "followingArtist": "GusGus",
+    "country_code": "ES",
+    "country": "Spain"
+  },
+  {
+    "username": "nickbednarz",
+    "followingArtist": "GusGus",
+    "country_code": "CA",
+    "country": "Canada"
+  },
+  {
+    "username": "phillip_bran",
+    "followingArtist": "GusGus",
+    "country_code": "NL",
+    "country": "Netherlands"
+  },
+  {
+    "username": "martatosone",
+    "followingArtist": "GusGus",
+    "country_code": "IT",
+    "country": "Italy"
+  },
+  {
+    "username": "violettelabelet",
+    "followingArtist": "GusGus",
+    "country_code": "IS",
+    "country": "Iceland"
+  },
+  {
+    "username": "ActualitesElect",
+    "followingArtist": "GusGus",
+    "country_code": "FR",
+    "country": "France"
+  },
+  {
+    "username": "juraval5",
+    "followingArtist": "GusGus",
+    "country_code": "IR",
+    "country": "Iran"
+  },
+  {
+    "username": "JaKamille",
+    "followingArtist": "GusGus",
+    "country_code": "DE",
+    "country": "Germany"
+  },
+  {
+    "username": "JonnyFearnley",
+    "followingArtist": "GusGus",
+    "country_code": "UK",
+    "country": "United Kingdom"
+  },
+  {
+    "username": "rauleonmun",
+    "followingArtist": "GusGus",
+    "country_code": "ES",
+    "country": "Spain"
+  },
+  {
+    "username": "PhinaLicMusic",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "BlueMoonGizmo",
+    "followingArtist": "GusGus",
+    "country_code": "CA",
+    "country": "Canada"
+  },
+  {
+    "username": "PMajewski76",
+    "followingArtist": "GusGus",
+    "country_code": "NP",
+    "country": "Nepal"
+  },
+  {
+    "username": "electrola29",
+    "followingArtist": "GusGus",
+    "country_code": "CZ",
+    "country": "Czech Republic"
+  },
+  {
+    "username": "Frau_Doerthe",
+    "followingArtist": "GusGus",
+    "country_code": "GB",
+    "country": "Great Britain"
+  },
+  {
+    "username": "KAISERIN_ED",
+    "followingArtist": "GusGus",
+    "country_code": "FR",
+    "country": "France"
+  },
+  {
+    "username": "SofiaLoveday",
+    "followingArtist": "GusGus",
+    "country_code": "RU",
+    "country": "Russian Federation"
+  },
+  {
+    "username": "AlenaSkvortcova",
+    "followingArtist": "GusGus",
+    "country_code": "RU",
+    "country": "Russian Federation"
+  },
+  {
+    "username": "RataCampbell",
+    "followingArtist": "GusGus",
+    "country_code": "NZ",
+    "country": "Aotearoa"
+  },
+  {
+    "username": "ShellyEnnis",
+    "followingArtist": "GusGus",
+    "country_code": "AR",
+    "country": "Argentina"
+  },
+  {
+    "username": "JDovercourt",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "Stenheart",
+    "followingArtist": "GusGus",
+    "country_code": "SE",
+    "country": "Sweden"
+  },
+  {
+    "username": "jlumTO",
+    "followingArtist": "GusGus",
+    "country_code": "CA",
+    "country": "Canada"
+  },
+  {
+    "username": "dkstanic",
+    "followingArtist": "GusGus",
+    "country_code": "UA",
+    "country": "Ukraine"
+  },
+  {
+    "username": "TallQuiet",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "steingpt",
+    "followingArtist": "GusGus",
+    "country_code": "IS",
+    "country": "Iceland"
+  },
+  {
+    "username": "LeonAtristain",
+    "followingArtist": "GusGus",
+    "country_code": "MX",
+    "country": "Mexico"
+  },
+  {
+    "username": "tev_krm",
+    "followingArtist": "GusGus",
+    "country_code": "UK",
+    "country": "United Kingdom"
+  },
+  {
+    "username": "Buzuladze",
+    "followingArtist": "GusGus",
+    "country_code": "RU",
+    "country": "Russian Federation"
+  },
+  {
+    "username": "erwinraio",
+    "followingArtist": "GusGus",
+    "country_code": "ES",
+    "country": "Spain"
+  },
+  {
+    "username": "BurgerJointUk",
+    "followingArtist": "GusGus",
+    "country_code": "UK",
+    "country": "United Kingdom"
+  },
+  {
+    "username": "veseliybober",
+    "followingArtist": "GusGus",
+    "country_code": "MA",
+    "country": "Morocco"
+  },
+  {
+    "username": "berkausova",
+    "followingArtist": "GusGus",
+    "country_code": "RU",
+    "country": "Russian Federation"
+  },
+  {
+    "username": "Neo_aka_Darkman",
+    "followingArtist": "GusGus",
+    "country_code": "CH",
+    "country": "Switzerland"
+  },
+  {
+    "username": "fabuloso",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "John_Sanz",
+    "followingArtist": "GusGus",
+    "country_code": "UK",
+    "country": "United Kingdom"
+  },
+  {
+    "username": "nik__wilson",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "kokoxiii",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "radiolintu",
+    "followingArtist": "GusGus",
+    "country_code": "FI",
+    "country": "Finland"
+  },
+  {
+    "username": "khizhnyakov",
+    "followingArtist": "GusGus",
+    "country_code": "RU",
+    "country": "Russian Federation"
+  },
+  {
+    "username": "diffelectric",
+    "followingArtist": "GusGus",
+    "country_code": "FR",
+    "country": "France"
+  },
+  {
+    "username": "Dani_el_aviador",
+    "followingArtist": "GusGus",
+    "country_code": "ES",
+    "country": "Spain"
+  },
+  {
+    "username": "lpolafsson",
+    "followingArtist": "GusGus",
+    "country_code": "IS",
+    "country": "Iceland"
+  },
+  {
+    "username": "vilmantasr",
+    "followingArtist": "GusGus",
+    "country_code": "LT",
+    "country": "Lithuania"
+  },
+  {
+    "username": "GonzaLostt",
+    "followingArtist": "GusGus",
+    "country_code": "CL",
+    "country": "Chile"
+  },
+  {
+    "username": "livingprocess",
+    "followingArtist": "GusGus",
+    "country_code": "UK",
+    "country": "United Kingdom"
+  },
+  {
+    "username": "VampMelodies",
+    "followingArtist": "GusGus",
+    "country_code": "DK",
+    "country": "Denmark"
+  },
+  {
+    "username": "HerborgHjelm",
+    "followingArtist": "GusGus",
+    "country_code": "IS",
+    "country": "Iceland"
+  },
+  {
+    "username": "EggertStefans",
+    "followingArtist": "GusGus",
+    "country_code": "UK",
+    "country": "United Kingdom"
+  },
+  {
+    "username": "juancamilortiz",
+    "followingArtist": "GusGus",
+    "country_code": "CO",
+    "country": "Colombia"
+  },
+  {
+    "username": "Kipper_Snacks",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "DrewKarp",
+    "followingArtist": "GusGus",
+    "country_code": "RU",
+    "country": "Russian Federation"
+  },
+  {
+    "username": "GunnvorHernes",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "andrea_fanney",
+    "followingArtist": "GusGus",
+    "country_code": "UK",
+    "country": "United Kingdom"
+  },
+  {
+    "username": "Steveninn",
+    "followingArtist": "GusGus",
+    "country_code": "IS",
+    "country": "Iceland"
+  },
+  {
+    "username": "Dustywork",
+    "followingArtist": "GusGus",
+    "country_code": "IT",
+    "country": "Italy"
+  },
+  {
+    "username": "nrpdraft",
+    "followingArtist": "GusGus",
+    "country_code": "DE",
+    "country": "Germany"
+  },
+  {
+    "username": "C_benetti",
+    "followingArtist": "GusGus",
+    "country_code": "UK",
+    "country": "United Kingdom"
+  },
+  {
+    "username": "foldback2",
+    "followingArtist": "GusGus",
+    "country_code": "ES",
+    "country": "Spain"
+  },
+  {
+    "username": "NL_Records",
+    "followingArtist": "GusGus",
+    "country_code": "CA",
+    "country": "Canada"
+  },
+  {
+    "username": "Assia__B",
+    "followingArtist": "GusGus",
+    "country_code": "PT",
+    "country": "Portugal"
+  },
+  {
+    "username": "SaedisKolbrun",
+    "followingArtist": "GusGus",
+    "country_code": "CN",
+    "country": "China"
+  },
+  {
+    "username": "pfrymer",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "hognehide",
+    "followingArtist": "GusGus",
+    "country_code": "NO",
+    "country": "Norway"
+  },
+  {
+    "username": "HenRiquEzU11",
+    "followingArtist": "GusGus",
+    "country_code": "ES",
+    "country": "Spain"
+  },
+  {
+    "username": "lachicagriega",
+    "followingArtist": "GusGus",
+    "country_code": "UK",
+    "country": "United Kingdom"
+  },
+  {
+    "username": "BiggiHilmars",
+    "followingArtist": "GusGus",
+    "country_code": "IS",
+    "country": "Iceland"
+  },
+  {
+    "username": "audioriver_pl",
+    "followingArtist": "GusGus",
+    "country_code": "PL",
+    "country": "Poland"
+  },
+  {
+    "username": "DownTheBlouse",
+    "followingArtist": "GusGus",
+    "country_code": "FR",
+    "country": "France"
+  },
+  {
+    "username": "CatInDaHouse",
+    "followingArtist": "GusGus",
+    "country_code": "SE",
+    "country": "Sweden"
+  },
+  {
+    "username": "naturaelectro",
+    "followingArtist": "GusGus",
+    "country_code": "MX",
+    "country": "Mexico"
+  },
+  {
+    "username": "Monterey11",
+    "followingArtist": "GusGus",
+    "country_code": "IS",
+    "country": "Iceland"
+  },
+  {
+    "username": "jlynnbrink",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "valurgr",
+    "followingArtist": "GusGus",
+    "country_code": "IS",
+    "country": "Iceland"
+  },
+  {
+    "username": "JulienRatel",
+    "followingArtist": "GusGus",
+    "country_code": "IS",
+    "country": "Iceland"
+  },
+  {
+    "username": "_losingtoday",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "ZilvisUK",
+    "followingArtist": "GusGus",
+    "country_code": "UK",
+    "country": "United Kingdom"
+  },
+  {
+    "username": "Prefernot2say",
+    "followingArtist": "GusGus",
+    "country_code": "IT",
+    "country": "Italy"
+  },
+  {
+    "username": "JorgeinOntario",
+    "followingArtist": "GusGus",
+    "country_code": "CA",
+    "country": "Canada"
+  },
+  {
+    "username": "playgilberto",
+    "followingArtist": "GusGus",
+    "country_code": "PT",
+    "country": "Portugal"
+  },
+  {
+    "username": "Charcomusica",
+    "followingArtist": "GusGus",
+    "country_code": "ES",
+    "country": "Spain"
+  },
+  {
+    "username": "DanielFaidley",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "CristianConti3",
+    "followingArtist": "GusGus",
+    "country_code": "AR",
+    "country": "Argentina"
+  },
+  {
+    "username": "reynirhubner",
+    "followingArtist": "GusGus",
+    "country_code": "SE",
+    "country": "Sweden"
+  },
+  {
+    "username": "CukrKatla",
+    "followingArtist": "GusGus",
+    "country_code": "CZ",
+    "country": "Czech Republic"
+  },
+  {
+    "username": "Mr_Rick_Myers",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "gloomycorner",
+    "followingArtist": "GusGus",
+    "country_code": "DE",
+    "country": "Germany"
+  },
+  {
+    "username": "TheDashingDutch",
+    "followingArtist": "GusGus",
+    "country_code": "FR",
+    "country": "France"
+  },
+  {
+    "username": "DestroMarina",
+    "followingArtist": "GusGus",
+    "country_code": "IT",
+    "country": "Italy"
+  },
+  {
+    "username": "CarolYothers",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "LiudasZ",
+    "followingArtist": "GusGus",
+    "country_code": "LT",
+    "country": "Lithuania"
+  },
+  {
+    "username": "joibjarna",
+    "followingArtist": "GusGus",
+    "country_code": "IS",
+    "country": "Iceland"
+  },
+  {
+    "username": "Lebotronico",
+    "followingArtist": "GusGus",
+    "country_code": "VE",
+    "country": "Venezuela"
+  },
+  {
+    "username": "smithe123",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "alokhrononauts",
+    "followingArtist": "GusGus",
+    "country_code": "CO",
+    "country": "Colombia"
+  },
+  {
+    "username": "nakedcityradio",
+    "followingArtist": "GusGus",
+    "country_code": "IT",
+    "country": "Italy"
+  },
+  {
+    "username": "GerardNormal",
+    "followingArtist": "GusGus",
+    "country_code": "ES",
+    "country": "Spain"
+  },
+  {
+    "username": "PlayThisOnLoud",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "Falseflaginter",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "Bocharov_V",
+    "followingArtist": "GusGus",
+    "country_code": "RU",
+    "country": "Russian Federation"
+  },
+  {
+    "username": "Gling_glo",
+    "followingArtist": "GusGus",
+    "country_code": "BR",
+    "country": "Brazil"
+  },
+  {
+    "username": "nodelfin",
+    "followingArtist": "GusGus",
+    "country_code": "MX",
+    "country": "Mexico"
+  },
+  {
+    "username": "PeturBen",
+    "followingArtist": "GusGus",
+    "country_code": "IS",
+    "country": "Iceland"
+  },
+  {
+    "username": "_lobico_",
+    "followingArtist": "GusGus",
+    "country_code": "ES",
+    "country": "Spain"
+  },
+  {
+    "username": "Sonnenkatja",
+    "followingArtist": "GusGus",
+    "country_code": "FR",
+    "country": "France"
+  },
+  {
+    "username": "Macbeth_FX",
+    "followingArtist": "GusGus",
+    "country_code": "PT",
+    "country": "Portugal"
+  },
+  {
+    "username": "ondavissual",
+    "followingArtist": "GusGus",
+    "country_code": "CA",
+    "country": "Canada"
+  },
+  {
+    "username": "pimienta",
+    "followingArtist": "GusGus",
+    "country_code": "MX",
+    "country": "Mexico"
+  },
+  {
+    "username": "terence_collard",
+    "followingArtist": "GusGus",
+    "country_code": "FR",
+    "country": "France"
+  },
+  {
+    "username": "einarsvan",
+    "followingArtist": "GusGus",
+    "country_code": "DK",
+    "country": "Denmark"
+  },
+  {
+    "username": "Ayeesha0",
+    "followingArtist": "GusGus",
+    "country_code": "UK",
+    "country": "United Kingdom"
+  },
+  {
+    "username": "fjolmidlavaktin",
+    "followingArtist": "GusGus",
+    "country_code": "IS",
+    "country": "Iceland"
+  },
+  {
+    "username": "vitajar",
+    "followingArtist": "GusGus",
+    "country_code": "IS",
+    "country": "Iceland"
+  },
+  {
+    "username": "LaRoJerez",
+    "followingArtist": "GusGus",
+    "country_code": "ES",
+    "country": "Spain"
+  },
+  {
+    "username": "liftoffboom",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "TheRealBJHarris",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "frontline1230",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "Catenacp",
+    "followingArtist": "GusGus",
+    "country_code": "IT",
+    "country": "Italy"
+  },
+  {
+    "username": "Denisbcn",
+    "followingArtist": "GusGus",
+    "country_code": "ES",
+    "country": "Spain"
+  },
+  {
+    "username": "matmckenzie",
+    "followingArtist": "GusGus",
+    "country_code": "UK",
+    "country": "United Kingdom"
+  },
+  {
+    "username": "Appinessss",
+    "followingArtist": "GusGus",
+    "country_code": "UK",
+    "country": "United Kingdom"
+  },
+  {
+    "username": "PUNKT_KS",
+    "followingArtist": "GusGus",
+    "country_code": "XK",
+    "country": "XK"
+  },
+  {
+    "username": "JulienExpress",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "MareoEP",
+    "followingArtist": "GusGus",
+    "country_code": "MX",
+    "country": "Mexico"
+  },
+  {
+    "username": "palomapuerta",
+    "followingArtist": "GusGus",
+    "country_code": "FR",
+    "country": "France"
+  },
+  {
+    "username": "vvaldiviatrigo",
+    "followingArtist": "GusGus",
+    "country_code": "CL",
+    "country": "Chile"
+  },
+  {
+    "username": "SunnaPam",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "lepronoc",
+    "followingArtist": "GusGus",
+    "country_code": "RU",
+    "country": "Russian Federation"
+  },
+  {
+    "username": "LHNewspaper",
+    "followingArtist": "GusGus",
+    "country_code": "CA",
+    "country": "Canada"
+  },
+  {
+    "username": "ilfrelu",
+    "followingArtist": "GusGus",
+    "country_code": "IT",
+    "country": "Italy"
+  },
+  {
+    "username": "alisonjanehealy",
+    "followingArtist": "GusGus",
+    "country_code": "UK",
+    "country": "United Kingdom"
+  },
+  {
+    "username": "wormisgreen",
+    "followingArtist": "GusGus",
+    "country_code": "IS",
+    "country": "Iceland"
+  },
+  {
+    "username": "TheGeneraI",
+    "followingArtist": "GusGus",
+    "country_code": "UK",
+    "country": "United Kingdom"
+  },
+  {
+    "username": "itsgammalab",
+    "followingArtist": "GusGus",
+    "country_code": "ES",
+    "country": "Spain"
+  },
+  {
+    "username": "RhysSherman",
+    "followingArtist": "GusGus",
+    "country_code": "UK",
+    "country": "United Kingdom"
+  },
+  {
+    "username": "MusicMafia5",
+    "followingArtist": "GusGus",
+    "country_code": "UK",
+    "country": "United Kingdom"
+  },
+  {
+    "username": "daniele_ggl",
+    "followingArtist": "GusGus",
+    "country_code": "IT",
+    "country": "Italy"
+  },
+  {
+    "username": "Frederikvdpl",
+    "followingArtist": "GusGus",
+    "country_code": "BE",
+    "country": "Belgium"
+  },
+  {
+    "username": "as_florianfilm",
+    "followingArtist": "GusGus",
+    "country_code": "DE",
+    "country": "Germany"
+  },
+  {
+    "username": "benjorama",
+    "followingArtist": "GusGus",
+    "country_code": "UK",
+    "country": "United Kingdom"
+  },
+  {
+    "username": "wolfbabycup",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "JosieBoneapart",
+    "followingArtist": "GusGus",
+    "country_code": "TN",
+    "country": "Tunisia"
+  },
+  {
+    "username": "radiochange1",
+    "followingArtist": "GusGus",
+    "country_code": "RU",
+    "country": "Russian Federation"
+  },
+  {
+    "username": "pf76BC",
+    "followingArtist": "GusGus",
+    "country_code": "DE",
+    "country": "Germany"
+  },
+  {
+    "username": "hogg_iain",
+    "followingArtist": "GusGus",
+    "country_code": "UK",
+    "country": "United Kingdom"
+  },
+  {
+    "username": "ljosvaki",
+    "followingArtist": "GusGus",
+    "country_code": "IS",
+    "country": "Iceland"
+  },
+  {
+    "username": "BatoulKre",
+    "followingArtist": "GusGus",
+    "country_code": "JO",
+    "country": "Jordan"
+  },
+  {
+    "username": "OtheliaSmit",
+    "followingArtist": "GusGus",
+    "country_code": "ZA",
+    "country": "South Africa"
+  },
+  {
+    "username": "FF2theband",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "akordeonn",
+    "followingArtist": "GusGus",
+    "country_code": "UK",
+    "country": "United Kingdom"
+  },
+  {
+    "username": "theashfaculty",
+    "followingArtist": "GusGus",
+    "country_code": "UK",
+    "country": "United Kingdom"
+  },
+  {
+    "username": "LINEimprint",
+    "followingArtist": "GusGus",
+    "country_code": "NG",
+    "country": "Nigeria"
+  },
+  {
+    "username": "modernus",
+    "followingArtist": "GusGus",
+    "country_code": "IS",
+    "country": "Iceland"
+  },
+  {
+    "username": "banggangband",
+    "followingArtist": "GusGus",
+    "country_code": "IS",
+    "country": "Iceland"
+  },
+  {
+    "username": "MagitCacoon",
+    "followingArtist": "GusGus",
+    "country_code": "MY",
+    "country": "Malaysia"
+  },
+  {
+    "username": "atmos_gear",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "giedruskina",
+    "followingArtist": "GusGus",
+    "country_code": "UK",
+    "country": "United Kingdom"
+  },
+  {
+    "username": "thinwhitehope",
+    "followingArtist": "GusGus",
+    "country_code": "FR",
+    "country": "France"
+  },
+  {
+    "username": "followmeradio",
+    "followingArtist": "GusGus",
+    "country_code": "RU",
+    "country": "Russian Federation"
+  },
+  {
+    "username": "Operator311",
+    "followingArtist": "GusGus",
+    "country_code": "DE",
+    "country": "Germany"
+  },
+  {
+    "username": "HeimshornProduc",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "nouso_tuitter",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "Noe3124",
+    "followingArtist": "GusGus",
+    "country_code": "FR",
+    "country": "France"
+  },
+  {
+    "username": "yaeltex",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "GREG_LE_ROY",
+    "followingArtist": "GusGus",
+    "country_code": "FR",
+    "country": "France"
+  },
+  {
+    "username": "skjartan",
+    "followingArtist": "GusGus",
+    "country_code": "NG",
+    "country": "Nigeria"
+  },
+  {
+    "username": "georgeven",
+    "followingArtist": "GusGus",
+    "country_code": "SJ",
+    "country": "Svalbard and Jan Mayen Islands"
+  },
+  {
+    "username": "sarahfinot",
+    "followingArtist": "GusGus",
+    "country_code": "FR",
+    "country": "France"
+  },
+  {
+    "username": "Danika_Kun",
+    "followingArtist": "GusGus",
+    "country_code": "HU",
+    "country": "Hungary"
+  },
+  {
+    "username": "Adolph_",
+    "followingArtist": "GusGus",
+    "country_code": "BR",
+    "country": "Brazil"
+  },
+  {
+    "username": "HORSEAMBULANCE",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "Tschigu",
+    "followingArtist": "GusGus",
+    "country_code": "CH",
+    "country": "Switzerland"
+  },
+  {
+    "username": "astroboy_medina",
+    "followingArtist": "GusGus",
+    "country_code": "ES",
+    "country": "Spain"
+  },
+  {
+    "username": "Rafwaves",
+    "followingArtist": "GusGus",
+    "country_code": "IS",
+    "country": "Iceland"
+  },
+  {
+    "username": "technojournalsn",
+    "followingArtist": "GusGus",
+    "country_code": "DE",
+    "country": "Germany"
+  },
+  {
+    "username": "JYoung28",
+    "followingArtist": "GusGus",
+    "country_code": "GB",
+    "country": "Great Britain"
+  },
+  {
+    "username": "_fredvang_",
+    "followingArtist": "GusGus",
+    "country_code": "NO",
+    "country": "Norway"
+  },
+  {
+    "username": "efrvscnt",
+    "followingArtist": "GusGus",
+    "country_code": "ES",
+    "country": "Spain"
+  },
+  {
+    "username": "Marcobrino",
+    "followingArtist": "GusGus",
+    "country_code": "IT",
+    "country": "Italy"
+  },
+  {
+    "username": "aronbirkir",
+    "followingArtist": "GusGus",
+    "country_code": "SE",
+    "country": "Sweden"
+  },
+  {
+    "username": "debrah_autumnIF",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "BlondeelJurgen",
+    "followingArtist": "GusGus",
+    "country_code": "BE",
+    "country": "Belgium"
+  },
+  {
+    "username": "afoninakarina",
+    "followingArtist": "GusGus",
+    "country_code": "RU",
+    "country": "Russian Federation"
+  },
+  {
+    "username": "minimoog9",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "fmbae84",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "bangsi456",
+    "followingArtist": "GusGus",
+    "country_code": "IS",
+    "country": "Iceland"
+  },
+  {
+    "username": "afturabak",
+    "followingArtist": "GusGus",
+    "country_code": "BE",
+    "country": "Belgium"
+  },
+  {
+    "username": "SunnyIceland",
+    "followingArtist": "GusGus",
+    "country_code": "IS",
+    "country": "Iceland"
+  },
+  {
+    "username": "DabbiRun",
+    "followingArtist": "GusGus",
+    "country_code": "IS",
+    "country": "Iceland"
+  },
+  {
+    "username": "nothing_fails",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "Jon_Johannesson",
+    "followingArtist": "GusGus",
+    "country_code": "IS",
+    "country": "Iceland"
+  },
+  {
+    "username": "augustjakobsen",
+    "followingArtist": "GusGus",
+    "country_code": "UK",
+    "country": "United Kingdom"
+  },
+  {
+    "username": "macMike505",
+    "followingArtist": "GusGus",
+    "country_code": "DE",
+    "country": "Germany"
+  },
+  {
+    "username": "gcsehart",
+    "followingArtist": "GusGus",
+    "country_code": "GB",
+    "country": "Great Britain"
+  },
+  {
+    "username": "OlesyaSiraeva",
+    "followingArtist": "GusGus",
+    "country_code": "RU",
+    "country": "Russian Federation"
+  },
+  {
+    "username": "popsick",
+    "followingArtist": "GusGus",
+    "country_code": "ID",
+    "country": "Indonesia"
+  },
+  {
+    "username": "technojournals",
+    "followingArtist": "GusGus",
+    "country_code": "DE",
+    "country": "Germany"
+  },
+  {
+    "username": "JonBourne",
+    "followingArtist": "GusGus",
+    "country_code": "UK",
+    "country": "United Kingdom"
+  },
+  {
+    "username": "majkovka",
+    "followingArtist": "GusGus",
+    "country_code": "CZ",
+    "country": "Czech Republic"
+  },
+  {
+    "username": "3Bstudiostore",
+    "followingArtist": "GusGus",
+    "country_code": "RU",
+    "country": "Russian Federation"
+  },
+  {
+    "username": "svntymusic",
+    "followingArtist": "GusGus",
+    "country_code": "IT",
+    "country": "Italy"
+  },
+  {
+    "username": "Pobwall",
+    "followingArtist": "GusGus",
+    "country_code": "BJ",
+    "country": "Benin"
+  },
+  {
+    "username": "agusmakkie",
+    "followingArtist": "GusGus",
+    "country_code": "ID",
+    "country": "Indonesia"
+  },
+  {
+    "username": "weirdsand",
+    "followingArtist": "GusGus",
+    "country_code": "NO",
+    "country": "Norway"
+  },
+  {
+    "username": "associatedfeed",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "bistroboymusic",
+    "followingArtist": "GusGus",
+    "country_code": "IS",
+    "country": "Iceland"
+  },
+  {
+    "username": "ICCTtweets",
+    "followingArtist": "GusGus",
+    "country_code": "CA",
+    "country": "Canada"
+  },
+  {
+    "username": "b_napo",
+    "followingArtist": "GusGus",
+    "country_code": "CH",
+    "country": "Switzerland"
+  },
+  {
+    "username": "gamtw",
+    "followingArtist": "GusGus",
+    "country_code": "TW",
+    "country": "Taiwan"
+  },
+  {
+    "username": "Deeeelan",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "ArnoldBirgisson",
+    "followingArtist": "GusGus",
+    "country_code": "MX",
+    "country": "Mexico"
+  },
+  {
+    "username": "angpalm",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "bjornhildir",
+    "followingArtist": "GusGus",
+    "country_code": "IS",
+    "country": "Iceland"
+  },
+  {
+    "username": "musibaba",
+    "followingArtist": "GusGus",
+    "country_code": "ES",
+    "country": "Spain"
+  },
+  {
+    "username": "boasboasson",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "Snahu",
+    "followingArtist": "GusGus",
+    "country_code": "AR",
+    "country": "Argentina"
+  },
+  {
+    "username": "ZzzNastya",
+    "followingArtist": "GusGus",
+    "country_code": "RU",
+    "country": "Russian Federation"
+  },
+  {
+    "username": "IcelandThrills",
+    "followingArtist": "GusGus",
+    "country_code": "IS",
+    "country": "Iceland"
+  },
+  {
+    "username": "bokakaffid",
+    "followingArtist": "GusGus",
+    "country_code": "IS",
+    "country": "Iceland"
+  },
+  {
+    "username": "Kakystef",
+    "followingArtist": "GusGus",
+    "country_code": "FR",
+    "country": "France"
+  },
+  {
+    "username": "ZykharyO",
+    "followingArtist": "GusGus",
+    "country_code": "EC",
+    "country": "Ecuador"
+  },
+  {
+    "username": "arnaarnard",
+    "followingArtist": "GusGus",
+    "country_code": "IS",
+    "country": "Iceland"
+  },
+  {
+    "username": "Keev_20",
+    "followingArtist": "GusGus",
+    "country_code": "CL",
+    "country": "Chile"
+  },
+  {
+    "username": "Jitimik",
+    "followingArtist": "GusGus",
+    "country_code": "CZ",
+    "country": "Czech Republic"
+  },
+  {
+    "username": "LagaffeTales",
+    "followingArtist": "GusGus",
+    "country_code": "IS",
+    "country": "Iceland"
+  },
+  {
+    "username": "VoyageX2",
+    "followingArtist": "GusGus",
+    "country_code": "UK",
+    "country": "United Kingdom"
+  },
+  {
+    "username": "vova_piterskiy",
+    "followingArtist": "GusGus",
+    "country_code": "RU",
+    "country": "Russian Federation"
+  },
+  {
+    "username": "IcelandinUK",
+    "followingArtist": "GusGus",
+    "country_code": "UK",
+    "country": "United Kingdom"
+  },
+  {
+    "username": "aurorainiceland",
+    "followingArtist": "GusGus",
+    "country_code": "IS",
+    "country": "Iceland"
+  },
+  {
+    "username": "polymethodology",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "Oussama_B92",
+    "followingArtist": "GusGus",
+    "country_code": "MA",
+    "country": "Morocco"
+  },
+  {
+    "username": "elodie_reynaud",
+    "followingArtist": "GusGus",
+    "country_code": "FR",
+    "country": "France"
+  },
+  {
+    "username": "KOMPAKTREC",
+    "followingArtist": "GusGus",
+    "country_code": "DE",
+    "country": "Germany"
+  },
+  {
+    "username": "TNTROB",
+    "followingArtist": "GusGus",
+    "country_code": "SE",
+    "country": "Sweden"
+  },
+  {
+    "username": "betan",
+    "followingArtist": "GusGus",
+    "country_code": "IS",
+    "country": "Iceland"
+  },
+  {
+    "username": "sergiograo",
+    "followingArtist": "GusGus",
+    "country_code": "ES",
+    "country": "Spain"
+  },
+  {
+    "username": "mustafauskuplu",
+    "followingArtist": "GusGus",
+    "country_code": "TR",
+    "country": "Turkey"
+  },
+  {
+    "username": "_Miss_A_",
+    "followingArtist": "GusGus",
+    "country_code": "IS",
+    "country": "Iceland"
+  },
+  {
+    "username": "hangoverjogger",
+    "followingArtist": "GusGus",
+    "country_code": "RU",
+    "country": "Russian Federation"
+  },
+  {
+    "username": "chicagomusic",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "marinapaulenka",
+    "followingArtist": "GusGus",
+    "country_code": "HR",
+    "country": "Croatia"
+  },
+  {
+    "username": "KristinaDeLuca1",
+    "followingArtist": "GusGus",
+    "country_code": "CA",
+    "country": "Canada"
+  },
+  {
+    "username": "HildurMaral",
+    "followingArtist": "GusGus",
+    "country_code": "ES",
+    "country": "Spain"
+  },
+  {
+    "username": "benpeake",
+    "followingArtist": "GusGus",
+    "country_code": "AU",
+    "country": "Australia"
+  },
+  {
+    "username": "ZootCatchy",
+    "followingArtist": "GusGus",
+    "country_code": "RU",
+    "country": "Russian Federation"
+  },
+  {
+    "username": "TerryBarnes72",
+    "followingArtist": "GusGus",
+    "country_code": "GB",
+    "country": "Great Britain"
+  },
+  {
+    "username": "specialtours",
+    "followingArtist": "GusGus",
+    "country_code": "IS",
+    "country": "Iceland"
+  },
+  {
+    "username": "stepfblueburger",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "thosrose",
+    "followingArtist": "GusGus",
+    "country_code": "FR",
+    "country": "France"
+  },
+  {
+    "username": "ediseast",
+    "followingArtist": "GusGus",
+    "country_code": "NP",
+    "country": "Nepal"
+  },
+  {
+    "username": "KoreanPuffDaddy",
+    "followingArtist": "GusGus",
+    "country_code": "NO",
+    "country": "Norway"
+  },
+  {
+    "username": "fabiennehudec",
+    "followingArtist": "GusGus",
+    "country_code": "CY",
+    "country": "Cyprus"
+  },
+  {
+    "username": "brimjar",
+    "followingArtist": "GusGus",
+    "country_code": "IS",
+    "country": "Iceland"
+  },
+  {
+    "username": "grhadigan",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "Joganought",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "ReykjavikRevisi",
+    "followingArtist": "GusGus",
+    "country_code": "SK",
+    "country": "Slovak Republic"
+  },
+  {
+    "username": "wishyouwerehear",
+    "followingArtist": "GusGus",
+    "country_code": "FR",
+    "country": "France"
+  },
+  {
+    "username": "markkofigueroa",
+    "followingArtist": "GusGus",
+    "country_code": "MX",
+    "country": "Mexico"
+  },
+  {
+    "username": "katemikhaleva",
+    "followingArtist": "GusGus",
+    "country_code": "RU",
+    "country": "Russian Federation"
+  },
+  {
+    "username": "crapadventurer",
+    "followingArtist": "GusGus",
+    "country_code": "GB",
+    "country": "Great Britain"
+  },
+  {
+    "username": "wackdelly",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "TheArabianMag",
+    "followingArtist": "GusGus",
+    "country_code": "UK",
+    "country": "United Kingdom"
+  },
+  {
+    "username": "servchenco",
+    "followingArtist": "GusGus",
+    "country_code": "MX",
+    "country": "Mexico"
+  },
+  {
+    "username": "headofmusic",
+    "followingArtist": "GusGus",
+    "country_code": "LT",
+    "country": "Lithuania"
+  },
+  {
+    "username": "Bavarovich",
+    "followingArtist": "GusGus",
+    "country_code": "CL",
+    "country": "Chile"
+  },
+  {
+    "username": "ivokurjers",
+    "followingArtist": "GusGus",
+    "country_code": "AR",
+    "country": "Argentina"
+  },
+  {
+    "username": "Beatledger",
+    "followingArtist": "GusGus",
+    "country_code": "GB",
+    "country": "Great Britain"
+  },
+  {
+    "username": "LilyJoytus",
+    "followingArtist": "GusGus",
+    "country_code": "CA",
+    "country": "Canada"
+  },
+  {
+    "username": "minal_sethi",
+    "followingArtist": "GusGus",
+    "country_code": "IN",
+    "country": "India"
+  },
+  {
+    "username": "petiterosepetit",
+    "followingArtist": "GusGus",
+    "country_code": "PE",
+    "country": "Peru"
+  },
+  {
+    "username": "TheBeat_Arica",
+    "followingArtist": "GusGus",
+    "country_code": "CL",
+    "country": "Chile"
+  },
+  {
+    "username": "terrorofthe416",
+    "followingArtist": "GusGus",
+    "country_code": "CA",
+    "country": "Canada"
+  },
+  {
+    "username": "PlmiHrafn",
+    "followingArtist": "GusGus",
+    "country_code": "IS",
+    "country": "Iceland"
+  },
+  {
+    "username": "ananas82",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "SosoLondon",
+    "followingArtist": "GusGus",
+    "country_code": "UK",
+    "country": "United Kingdom"
+  },
+  {
+    "username": "Nessius",
+    "followingArtist": "GusGus",
+    "country_code": "NO",
+    "country": "Norway"
+  },
+  {
+    "username": "Calvinchileno",
+    "followingArtist": "GusGus",
+    "country_code": "CL",
+    "country": "Chile"
+  },
+  {
+    "username": "thisisrobson",
+    "followingArtist": "GusGus",
+    "country_code": "UK",
+    "country": "United Kingdom"
+  },
+  {
+    "username": "CloseupEvents",
+    "followingArtist": "GusGus",
+    "country_code": "CO",
+    "country": "Colombia"
+  },
+  {
+    "username": "CRPowerhouseMX",
+    "followingArtist": "GusGus",
+    "country_code": "MX",
+    "country": "Mexico"
+  },
+  {
+    "username": "donmcv",
+    "followingArtist": "GusGus",
+    "country_code": "UK",
+    "country": "United Kingdom"
+  },
+  {
+    "username": "tob_o",
+    "followingArtist": "GusGus",
+    "country_code": "CH",
+    "country": "Switzerland"
+  },
+  {
+    "username": "LaufeyBjork",
+    "followingArtist": "GusGus",
+    "country_code": "IS",
+    "country": "Iceland"
+  },
+  {
+    "username": "titimonk19",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "fragileando",
+    "followingArtist": "GusGus",
+    "country_code": "MX",
+    "country": "Mexico"
+  },
+  {
+    "username": "theseantcollins",
+    "followingArtist": "GusGus",
+    "country_code": "BR",
+    "country": "Brazil"
+  },
+  {
+    "username": "SNDSCP",
+    "followingArtist": "GusGus",
+    "country_code": "FR",
+    "country": "France"
+  },
+  {
+    "username": "Julien_Mayfair",
+    "followingArtist": "GusGus",
+    "country_code": "CL",
+    "country": "Chile"
+  },
+  {
+    "username": "cotepio",
+    "followingArtist": "GusGus",
+    "country_code": "CL",
+    "country": "Chile"
+  },
+  {
+    "username": "electricchum",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "Bakpok",
+    "followingArtist": "GusGus",
+    "country_code": "FR",
+    "country": "France"
+  },
+  {
+    "username": "hillyspence",
+    "followingArtist": "GusGus",
+    "country_code": "CA",
+    "country": "Canada"
+  },
+  {
+    "username": "terrellroederer",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "cospolitan",
+    "followingArtist": "GusGus",
+    "country_code": "CH",
+    "country": "Switzerland"
+  },
+  {
+    "username": "superlurds",
+    "followingArtist": "GusGus",
+    "country_code": "ES",
+    "country": "Spain"
+  },
+  {
+    "username": "BBjorns",
+    "followingArtist": "GusGus",
+    "country_code": "IS",
+    "country": "Iceland"
+  },
+  {
+    "username": "Sigrun_Stella",
+    "followingArtist": "GusGus",
+    "country_code": "CA",
+    "country": "Canada"
+  },
+  {
+    "username": "luzperi",
+    "followingArtist": "GusGus",
+    "country_code": "EE",
+    "country": "Estonia"
+  },
+  {
+    "username": "seattle3033",
+    "followingArtist": "GusGus",
+    "country_code": "FR",
+    "country": "France"
+  },
+  {
+    "username": "ojsand",
+    "followingArtist": "GusGus",
+    "country_code": "IS",
+    "country": "Iceland"
+  },
+  {
+    "username": "GummiFel",
+    "followingArtist": "GusGus",
+    "country_code": "IS",
+    "country": "Iceland"
+  },
+  {
+    "username": "extermusik",
+    "followingArtist": "GusGus",
+    "country_code": "FR",
+    "country": "France"
+  },
+  {
+    "username": "AndreasGi1",
+    "followingArtist": "GusGus",
+    "country_code": "GR",
+    "country": "Greece"
+  },
+  {
+    "username": "labubpm",
+    "followingArtist": "GusGus",
+    "country_code": "IS",
+    "country": "Iceland"
+  },
+  {
+    "username": "Bird_Katrin",
+    "followingArtist": "GusGus",
+    "country_code": "RU",
+    "country": "Russian Federation"
+  },
+  {
+    "username": "ducksRfriends",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "Simguedes",
+    "followingArtist": "GusGus",
+    "country_code": "BR",
+    "country": "Brazil"
+  },
+  {
+    "username": "Untachebo",
+    "followingArtist": "GusGus",
+    "country_code": "UK",
+    "country": "United Kingdom"
+  },
+  {
+    "username": "Aquarell_Live",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "martinurraca",
+    "followingArtist": "GusGus",
+    "country_code": "UK",
+    "country": "United Kingdom"
+  },
+  {
+    "username": "omenya7",
+    "followingArtist": "GusGus",
+    "country_code": "JP",
+    "country": "Japan"
+  },
+  {
+    "username": "stash_ley",
+    "followingArtist": "GusGus",
+    "country_code": "NL",
+    "country": "Netherlands"
+  },
+  {
+    "username": "Darkolas",
+    "followingArtist": "GusGus",
+    "country_code": "HR",
+    "country": "Croatia"
+  },
+  {
+    "username": "marcoebert",
+    "followingArtist": "GusGus",
+    "country_code": "CH",
+    "country": "Switzerland"
+  },
+  {
+    "username": "HarveyTaiwan",
+    "followingArtist": "GusGus",
+    "country_code": "TW",
+    "country": "Taiwan"
+  },
+  {
+    "username": "Dub_Dionysus",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "Benjaminsnews",
+    "followingArtist": "GusGus",
+    "country_code": "AU",
+    "country": "Australia"
+  },
+  {
+    "username": "antonio_4",
+    "followingArtist": "GusGus",
+    "country_code": "RU",
+    "country": "Russian Federation"
+  },
+  {
+    "username": "jakublazarcik",
+    "followingArtist": "GusGus",
+    "country_code": "SK",
+    "country": "Slovak Republic"
+  },
+  {
+    "username": "jlfuentes",
+    "followingArtist": "GusGus",
+    "country_code": "FR",
+    "country": "France"
+  },
+  {
+    "username": "n_i_v_e_k_p",
+    "followingArtist": "GusGus",
+    "country_code": "BE",
+    "country": "Belgium"
+  },
+  {
+    "username": "vesteinn",
+    "followingArtist": "GusGus",
+    "country_code": "IS",
+    "country": "Iceland"
+  },
+  {
+    "username": "Aivy55555",
+    "followingArtist": "GusGus",
+    "country_code": "NO",
+    "country": "Norway"
+  },
+  {
+    "username": "Chirismd",
+    "followingArtist": "GusGus",
+    "country_code": "CL",
+    "country": "Chile"
+  },
+  {
+    "username": "kayaabi",
+    "followingArtist": "GusGus",
+    "country_code": "TR",
+    "country": "Turkey"
+  },
+  {
+    "username": "ZoeSanCort",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "BushTodd",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "mattiaslysgaard",
+    "followingArtist": "GusGus",
+    "country_code": "DK",
+    "country": "Denmark"
+  },
+  {
+    "username": "danielpacke",
+    "followingArtist": "GusGus",
+    "country_code": "TR",
+    "country": "Turkey"
+  },
+  {
+    "username": "narvalz",
+    "followingArtist": "GusGus",
+    "country_code": "ES",
+    "country": "Spain"
+  },
+  {
+    "username": "miguelalbadan",
+    "followingArtist": "GusGus",
+    "country_code": "CO",
+    "country": "Colombia"
+  },
+  {
+    "username": "GRIFFINHAWKS",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "jamboprod",
+    "followingArtist": "GusGus",
+    "country_code": "IT",
+    "country": "Italy"
+  },
+  {
+    "username": "cournej",
+    "followingArtist": "GusGus",
+    "country_code": "GE",
+    "country": "Georgia"
+  },
+  {
+    "username": "Hug_Ooo",
+    "followingArtist": "GusGus",
+    "country_code": "PT",
+    "country": "Portugal"
+  },
+  {
+    "username": "Indridik",
+    "followingArtist": "GusGus",
+    "country_code": "IS",
+    "country": "Iceland"
+  },
+  {
+    "username": "AsWeDesign",
+    "followingArtist": "GusGus",
+    "country_code": "MY",
+    "country": "Malaysia"
+  },
+  {
+    "username": "JPol13",
+    "followingArtist": "GusGus",
+    "country_code": "GR",
+    "country": "Greece"
+  },
+  {
+    "username": "Phaetonics",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "farisatALsorah",
+    "followingArtist": "GusGus",
+    "country_code": "AE",
+    "country": "United Arab Emirates"
+  },
+  {
+    "username": "VIVANetworkAsia",
+    "followingArtist": "GusGus",
+    "country_code": "TW",
+    "country": "Taiwan"
+  },
+  {
+    "username": "jajajahokuo",
+    "followingArtist": "GusGus",
+    "country_code": "JP",
+    "country": "Japan"
+  },
+  {
+    "username": "valdimarband",
+    "followingArtist": "GusGus",
+    "country_code": "IS",
+    "country": "Iceland"
+  },
+  {
+    "username": "nomosol",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "username": "liz_princess_45",
+    "followingArtist": "GusGus",
+    "country_code": "MX",
+    "country": "Mexico"
+  },
+  {
+    "username": "porquesiband",
+    "followingArtist": "GusGus",
+    "country_code": "IS",
+    "country": "Iceland"
+  },
+  {
+    "username": "electronicbliss",
+    "followingArtist": "GusGus",
+    "country_code": "US",
+    "country": "United States"
+  }
+]

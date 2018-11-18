@@ -1,0 +1,4964 @@
+[
+  {
+    "username": "WorkhouseOS",
+    "followingArtist": "Elisa Jo",
+    "country_code": "GB",
+    "country": "Great Britain"
+  },
+  {
+    "username": "kathynancygirl",
+    "followingArtist": "Elisa Jo",
+    "country_code": "US",
+    "country": "USA"
+  },
+  {
+    "username": "hegglehog",
+    "followingArtist": "Elisa Jo",
+    "country_code": "UK",
+    "country": "United Kingdom"
+  },
+  {
+    "username": "daydee",
+    "followingArtist": "Elisa Jo",
+    "country_code": "US",
+    "country": "USA"
+  },
+  {
+    "username": "TurtonSophie",
+    "followingArtist": "Elisa Jo",
+    "country_code": "GB",
+    "country": "Great Britain"
+  },
+  {
+    "username": "LondonPalletCo",
+    "followingArtist": "Elisa Jo",
+    "country_code": "UK",
+    "country": "United Kingdom"
+  },
+  {
+    "username": "CaSSiSiA",
+    "followingArtist": "Elisa Jo",
+    "country_code": "AU",
+    "country": "Australia"
+  },
+  {
+    "username": "milessabin",
+    "followingArtist": "Elisa Jo",
+    "country_code": "GB",
+    "country": "Great Britain"
+  },
+  {
+    "username": "xadonuhukise",
+    "followingArtist": "Elisa Jo",
+    "country_code": "US",
+    "country": "USA"
+  },
+  {
+    "username": "JaneDallaway",
+    "followingArtist": "Elisa Jo",
+    "country_code": "GB",
+    "country": "Great Britain"
+  },
+  {
+    "username": "doggaway",
+    "followingArtist": "Elisa Jo",
+    "country_code": "GB",
+    "country": "Great Britain"
+  },
+  {
+    "username": "d6y",
+    "followingArtist": "Elisa Jo",
+    "country_code": "GB",
+    "country": "Great Britain"
+  },
+  {
+    "username": "faeleverte",
+    "followingArtist": "Elisa Jo",
+    "country_code": "N Oklahoma",
+    "country": "N Oklahoma"
+  },
+  {
+    "username": "TheLBDesigns",
+    "followingArtist": "Elisa Jo",
+    "country_code": "US",
+    "country": "USA"
+  },
+  {
+    "username": "UncommonTart",
+    "followingArtist": "Elisa Jo",
+    "country_code": "BJ",
+    "country": "Benin"
+  },
+  {
+    "username": "machine_dove",
+    "followingArtist": "Elisa Jo",
+    "country_code": "US",
+    "country": "USA"
+  },
+  {
+    "username": "PCatstronaut",
+    "followingArtist": "Elisa Jo",
+    "country_code": "US",
+    "country": "USA"
+  },
+  {
+    "username": "thesnarkyllama",
+    "followingArtist": "Elisa Jo",
+    "country_code": "CH",
+    "country": "Switzerland"
+  },
+  {
+    "username": "djrivetkitten",
+    "followingArtist": "Elisa Jo",
+    "country_code": "US",
+    "country": "USA"
+  },
+  {
+    "username": "monie_kaur",
+    "followingArtist": "Elisa Jo",
+    "country_code": "US",
+    "country": "USA"
+  },
+  {
+    "username": "mynaweb",
+    "followingArtist": "Elisa Jo",
+    "country_code": "IT",
+    "country": "Italy"
+  },
+  {
+    "username": "mar_starr",
+    "followingArtist": "Elisa Jo",
+    "country_code": "US",
+    "country": "USA"
+  },
+  {
+    "username": "idealthursday",
+    "followingArtist": "Elisa Jo",
+    "country_code": "US",
+    "country": "USA"
+  },
+  {
+    "username": "SaintGothric",
+    "followingArtist": "Elisa Jo",
+    "country_code": "GH",
+    "country": "Ghana"
+  },
+  {
+    "username": "nancy_carden",
+    "followingArtist": "Elisa Jo",
+    "country_code": "UK",
+    "country": "United Kingdom"
+  },
+  {
+    "username": "kathpreston1",
+    "followingArtist": "Elisa Jo",
+    "country_code": "UK",
+    "country": "United Kingdom"
+  },
+  {
+    "username": "SheepDreamery",
+    "followingArtist": "Elisa Jo",
+    "country_code": "US",
+    "country": "USA"
+  },
+  {
+    "username": "micheinnz",
+    "followingArtist": "Elisa Jo",
+    "country_code": "NZ",
+    "country": "New Zealand"
+  },
+  {
+    "username": "KittasaurusRex",
+    "followingArtist": "Elisa Jo",
+    "country_code": "US",
+    "country": "USA"
+  },
+  {
+    "username": "krstnms",
+    "followingArtist": "Elisa Jo",
+    "country_code": "US",
+    "country": "USA"
+  },
+  {
+    "username": "BellEsBaubles",
+    "followingArtist": "Elisa Jo",
+    "country_code": "US",
+    "country": "USA"
+  },
+  {
+    "username": "reesedixon",
+    "followingArtist": "Elisa Jo",
+    "country_code": "AU",
+    "country": "Australia"
+  },
+  {
+    "username": "BasketAndBond",
+    "followingArtist": "Elisa Jo",
+    "country_code": "GB",
+    "country": "Great Britain"
+  },
+  {
+    "username": "lifewithfelber",
+    "followingArtist": "Elisa Jo",
+    "country_code": "US",
+    "country": "USA"
+  },
+  {
+    "username": "FairyTale_Fair",
+    "followingArtist": "Elisa Jo",
+    "country_code": "GB",
+    "country": "Great Britain"
+  },
+  {
+    "username": "JonTozer",
+    "followingArtist": "Elisa Jo",
+    "country_code": "UK",
+    "country": "United Kingdom"
+  },
+  {
+    "username": "WorraLorra",
+    "followingArtist": "Elisa Jo",
+    "country_code": "UK",
+    "country": "United Kingdom"
+  },
+  {
+    "username": "pindec",
+    "followingArtist": "Elisa Jo",
+    "country_code": "CM",
+    "country": "Cameroon"
+  },
+  {
+    "username": "ClaireM_Design",
+    "followingArtist": "Elisa Jo",
+    "country_code": "GB",
+    "country": "Great Britain"
+  },
+  {
+    "username": "FoundGallery",
+    "followingArtist": "Elisa Jo",
+    "country_code": "US",
+    "country": "USA"
+  },
+  {
+    "username": "Lola_Polaris",
+    "followingArtist": "Elisa Jo",
+    "country_code": "GB",
+    "country": "Great Britain"
+  },
+  {
+    "username": "LetsGetCrafting",
+    "followingArtist": "Elisa Jo",
+    "country_code": "UK",
+    "country": "United Kingdom"
+  },
+  {
+    "username": "Kellibutton",
+    "followingArtist": "Elisa Jo",
+    "country_code": "JO",
+    "country": "Jordan"
+  },
+  {
+    "username": "Lizzylikescake",
+    "followingArtist": "Elisa Jo",
+    "country_code": "UK",
+    "country": "United Kingdom"
+  },
+  {
+    "username": "hootsuite",
+    "followingArtist": "Elisa Jo",
+    "country_code": "CA",
+    "country": "Canada"
+  },
+  {
+    "username": "gillian_bates",
+    "followingArtist": "Elisa Jo",
+    "country_code": "GB",
+    "country": "Great Britain"
+  },
+  {
+    "username": "ModernCountryCr",
+    "followingArtist": "Elisa Jo",
+    "country_code": "UK",
+    "country": "United Kingdom"
+  },
+  {
+    "username": "PenguinUKBooks",
+    "followingArtist": "Elisa Jo",
+    "country_code": "UK",
+    "country": "United Kingdom"
+  },
+  {
+    "username": "Safetyfox",
+    "followingArtist": "Elisa Jo",
+    "country_code": "AE",
+    "country": "United Arab Emirates"
+  },
+  {
+    "username": "matt_elton",
+    "followingArtist": "Elisa Jo",
+    "country_code": "UK",
+    "country": "United Kingdom"
+  },
+  {
+    "username": "arborlightsband",
+    "followingArtist": "Elisa Jo",
+    "country_code": "UK",
+    "country": "United Kingdom"
+  },
+  {
+    "username": "katybryan",
+    "followingArtist": "Elisa Jo",
+    "country_code": "GB",
+    "country": "Great Britain"
+  },
+  {
+    "username": "AckTivity",
+    "followingArtist": "Elisa Jo",
+    "country_code": "CA",
+    "country": "Canada"
+  },
+  {
+    "username": "antcrutch",
+    "followingArtist": "Elisa Jo",
+    "country_code": "UK",
+    "country": "United Kingdom"
+  },
+  {
+    "username": "RichieVernon1",
+    "followingArtist": "Elisa Jo",
+    "country_code": "FR",
+    "country": "France"
+  },
+  {
+    "username": "birdgehrl",
+    "followingArtist": "Elisa Jo",
+    "country_code": "US",
+    "country": "USA"
+  },
+  {
+    "username": "champagneqiviut",
+    "followingArtist": "Elisa Jo",
+    "country_code": "UK",
+    "country": "United Kingdom"
+  },
+  {
+    "username": "MeDeniseWild",
+    "followingArtist": "Elisa Jo",
+    "country_code": "CA",
+    "country": "Canada"
+  },
+  {
+    "username": "Sleepytot",
+    "followingArtist": "Elisa Jo",
+    "country_code": "UK",
+    "country": "United Kingdom"
+  },
+  {
+    "username": "idreamnsweaters",
+    "followingArtist": "Elisa Jo",
+    "country_code": "US",
+    "country": "USA"
+  },
+  {
+    "username": "LobugDesigns",
+    "followingArtist": "Elisa Jo",
+    "country_code": "US",
+    "country": "USA"
+  },
+  {
+    "username": "americancrafts",
+    "followingArtist": "Elisa Jo",
+    "country_code": "US",
+    "country": "USA"
+  },
+  {
+    "username": "nalmaraz",
+    "followingArtist": "Elisa Jo",
+    "country_code": "US",
+    "country": "USA"
+  },
+  {
+    "username": "Hallacemalice",
+    "followingArtist": "Elisa Jo",
+    "country_code": "US",
+    "country": "USA"
+  },
+  {
+    "username": "ZombieHookers",
+    "followingArtist": "Elisa Jo",
+    "country_code": "US",
+    "country": "USA"
+  },
+  {
+    "username": "robbbminson",
+    "followingArtist": "Elisa Jo",
+    "country_code": "GB",
+    "country": "Great Britain"
+  },
+  {
+    "username": "mollymoose",
+    "followingArtist": "Elisa Jo",
+    "country_code": "US",
+    "country": "USA"
+  },
+  {
+    "username": "fae_uncensored",
+    "followingArtist": "Elisa Jo",
+    "country_code": "US",
+    "country": "USA"
+  },
+  {
+    "username": "StephanieWylie",
+    "followingArtist": "Elisa Jo",
+    "country_code": "Pennsylvania Furnace Rd",
+    "country": "Pennsylvania Furnace Rd"
+  },
+  {
+    "username": "haileyrenee06",
+    "followingArtist": "Elisa Jo",
+    "country_code": "Maryland Park Dr",
+    "country": "Maryland Park Dr"
+  },
+  {
+    "username": "OliverGuillerau",
+    "followingArtist": "Elisa Jo",
+    "country_code": "US",
+    "country": "USA"
+  },
+  {
+    "username": "sayitonline",
+    "followingArtist": "Elisa Jo",
+    "country_code": "UK",
+    "country": "United Kingdom"
+  },
+  {
+    "username": "ZantiMissKnit",
+    "followingArtist": "Elisa Jo",
+    "country_code": "US",
+    "country": "USA"
+  },
+  {
+    "username": "ymryson",
+    "followingArtist": "Elisa Jo",
+    "country_code": "US",
+    "country": "USA"
+  },
+  {
+    "username": "Alidre",
+    "followingArtist": "Elisa Jo",
+    "country_code": "US",
+    "country": "USA"
+  },
+  {
+    "username": "monicananda",
+    "followingArtist": "Elisa Jo",
+    "country_code": "US",
+    "country": "USA"
+  },
+  {
+    "username": "vampyyy",
+    "followingArtist": "Elisa Jo",
+    "country_code": "GB",
+    "country": "Great Britain"
+  },
+  {
+    "username": "wermemorykeeper",
+    "followingArtist": "Elisa Jo",
+    "country_code": "JO",
+    "country": "Jordan"
+  },
+  {
+    "username": "Freudie",
+    "followingArtist": "Elisa Jo",
+    "country_code": "BR",
+    "country": "Brazil"
+  },
+  {
+    "username": "jwetherspoon",
+    "followingArtist": "Elisa Jo",
+    "country_code": "BR",
+    "country": "Brazil"
+  },
+  {
+    "username": "minniehopeless",
+    "followingArtist": "Elisa Jo",
+    "country_code": "GB",
+    "country": "Great Britain"
+  },
+  {
+    "username": "lissa9501",
+    "followingArtist": "Elisa Jo",
+    "country_code": "US",
+    "country": "USA"
+  },
+  {
+    "username": "frictiontheatre",
+    "followingArtist": "Elisa Jo",
+    "country_code": "UK",
+    "country": "United Kingdom"
+  },
+  {
+    "username": "stuartgarlick",
+    "followingArtist": "Elisa Jo",
+    "country_code": "EE",
+    "country": "Estonia"
+  },
+  {
+    "username": "noelwelsh",
+    "followingArtist": "Elisa Jo",
+    "country_code": "UK",
+    "country": "United Kingdom"
+  },
+  {
+    "username": "onmytiptoes",
+    "followingArtist": "Elisa Jo",
+    "country_code": "US",
+    "country": "USA"
+  },
+  {
+    "username": "KitDeepsky",
+    "followingArtist": "Elisa Jo",
+    "country_code": "DE",
+    "country": "Germany"
+  },
+  {
+    "username": "davegurnell",
+    "followingArtist": "Elisa Jo",
+    "country_code": "GB",
+    "country": "Great Britain"
+  },
+  {
+    "username": "I_KIP",
+    "followingArtist": "Elisa Jo",
+    "country_code": "AU",
+    "country": "Australia"
+  },
+  {
+    "username": "faberaq",
+    "followingArtist": "Elisa Jo",
+    "country_code": "US",
+    "country": "USA"
+  },
+  {
+    "username": "Harpo716",
+    "followingArtist": "Elisa Jo",
+    "country_code": "CA",
+    "country": "Canada"
+  },
+  {
+    "username": "inego",
+    "followingArtist": "Elisa Jo",
+    "country_code": "CA",
+    "country": "Canada"
+  },
+  {
+    "username": "stevewareing",
+    "followingArtist": "Elisa Jo",
+    "country_code": "UK",
+    "country": "United Kingdom"
+  },
+  {
+    "username": "chilerox",
+    "followingArtist": "Elisa Jo",
+    "country_code": "US",
+    "country": "USA"
+  },
+  {
+    "username": "kittenkraft79",
+    "followingArtist": "Elisa Jo",
+    "country_code": "US",
+    "country": "USA"
+  },
+  {
+    "username": "bessicajach",
+    "followingArtist": "Elisa Jo",
+    "country_code": "US",
+    "country": "USA"
+  },
+  {
+    "username": "psiconlab",
+    "followingArtist": "Elisa Jo",
+    "country_code": "ZW",
+    "country": "Zimbabwe"
+  },
+  {
+    "username": "deserthooker",
+    "followingArtist": "Elisa Jo",
+    "country_code": "US",
+    "country": "USA"
+  },
+  {
+    "username": "RogueKnits",
+    "followingArtist": "Elisa Jo",
+    "country_code": "US",
+    "country": "USA"
+  },
+  {
+    "username": "stockinettest",
+    "followingArtist": "Elisa Jo",
+    "country_code": "US",
+    "country": "USA"
+  },
+  {
+    "username": "mattmurtagh",
+    "followingArtist": "Elisa Jo",
+    "country_code": "UK",
+    "country": "United Kingdom"
+  },
+  {
+    "username": "ColorfulSheep",
+    "followingArtist": "Elisa Jo",
+    "country_code": "US",
+    "country": "USA"
+  },
+  {
+    "username": "Procrastinatrx",
+    "followingArtist": "Elisa Jo",
+    "country_code": "US",
+    "country": "USA"
+  },
+  {
+    "username": "eudyptula",
+    "followingArtist": "Elisa Jo",
+    "country_code": "US",
+    "country": "USA"
+  },
+  {
+    "username": "hawesie",
+    "followingArtist": "Elisa Jo",
+    "country_code": "GB",
+    "country": "Great Britain"
+  },
+  {
+    "username": "veronicamitchel",
+    "followingArtist": "Elisa Jo",
+    "country_code": "US",
+    "country": "USA"
+  },
+  {
+    "username": "junglebarry",
+    "followingArtist": "Elisa Jo",
+    "country_code": "UK",
+    "country": "United Kingdom"
+  },
+  {
+    "username": "whdevreaux",
+    "followingArtist": "Elisa Jo",
+    "country_code": "AU",
+    "country": "Australia"
+  },
+  {
+    "username": "35KDaltons",
+    "followingArtist": "Elisa Jo",
+    "country_code": "US",
+    "country": "USA"
+  },
+  {
+    "username": "book_faerie",
+    "followingArtist": "Elisa Jo",
+    "country_code": "IT",
+    "country": "Italy"
+  },
+  {
+    "username": "bubbles83",
+    "followingArtist": "Elisa Jo",
+    "country_code": "US",
+    "country": "USA"
+  },
+  {
+    "username": "ivyadrena",
+    "followingArtist": "Elisa Jo",
+    "country_code": "US",
+    "country": "USA"
+  },
+  {
+    "username": "biteyfish",
+    "followingArtist": "Elisa Jo",
+    "country_code": "US",
+    "country": "USA"
+  },
+  {
+    "username": "tehstix",
+    "followingArtist": "Elisa Jo",
+    "country_code": "US",
+    "country": "USA"
+  },
+  {
+    "username": "WaterlooWools",
+    "followingArtist": "Elisa Jo",
+    "country_code": "CA",
+    "country": "Canada"
+  },
+  {
+    "username": "mcbhenwood",
+    "followingArtist": "Elisa Jo",
+    "country_code": "UK",
+    "country": "United Kingdom"
+  },
+  {
+    "username": "hellocarmel",
+    "followingArtist": "Elisa Jo",
+    "country_code": "UK",
+    "country": "United Kingdom"
+  },
+  {
+    "username": "LittleRedBicycl",
+    "followingArtist": "Elisa Jo",
+    "country_code": "US",
+    "country": "USA"
+  },
+  {
+    "username": "AnnykaV",
+    "followingArtist": "Elisa Jo",
+    "country_code": "US",
+    "country": "USA"
+  },
+  {
+    "username": "createdinbrum",
+    "followingArtist": "Elisa Jo",
+    "country_code": "UK",
+    "country": "United Kingdom"
+  },
+  {
+    "username": "faeriebell",
+    "followingArtist": "Elisa Jo",
+    "country_code": "GR",
+    "country": "Greece"
+  },
+  {
+    "username": "kirstymhall",
+    "followingArtist": "Elisa Jo",
+    "country_code": "GB",
+    "country": "Great Britain"
+  },
+  {
+    "username": "rtm",
+    "followingArtist": "Elisa Jo",
+    "country_code": "BR",
+    "country": "Brazil"
+  },
+  {
+    "username": "GardenAdvice",
+    "followingArtist": "Elisa Jo",
+    "country_code": "California City Blvd",
+    "country": "California City Blvd"
+  },
+  {
+    "username": "BimboLimboSpam",
+    "followingArtist": "Elisa Jo",
+    "country_code": "UK",
+    "country": "United Kingdom"
+  },
+  {
+    "username": "sixball",
+    "followingArtist": "Elisa Jo",
+    "country_code": "UK",
+    "country": "United Kingdom"
+  },
+  {
+    "username": "Rainghirl",
+    "followingArtist": "Elisa Jo",
+    "country_code": "GB",
+    "country": "Great Britain"
+  },
+  {
+    "username": "cathrobertson",
+    "followingArtist": "Elisa Jo",
+    "country_code": "UK",
+    "country": "United Kingdom"
+  },
+  {
+    "username": "m4rkh",
+    "followingArtist": "Elisa Jo",
+    "country_code": "GB",
+    "country": "Great Britain"
+  },
+  {
+    "username": "ThomHall",
+    "followingArtist": "Elisa Jo",
+    "country_code": "UK",
+    "country": "United Kingdom"
+  },
+  {
+    "username": "kentlowry",
+    "followingArtist": "Elisa Jo",
+    "country_code": "US",
+    "country": "USA"
+  },
+  {
+    "username": "skateu",
+    "followingArtist": "Elisa Jo",
+    "country_code": "GB",
+    "country": "Great Britain"
+  },
+  {
+    "username": "Infadels",
+    "followingArtist": "Elisa Jo",
+    "country_code": "UK",
+    "country": "United Kingdom"
+  },
+  {
+    "username": "IngridBabbidge",
+    "followingArtist": "Elisa Jo",
+    "country_code": "UK",
+    "country": "United Kingdom"
+  },
+  {
+    "username": "rotemu",
+    "followingArtist": "Elisa Jo",
+    "country_code": "JP",
+    "country": "Japan"
+  },
+  {
+    "username": "oleevia",
+    "followingArtist": "Elisa Jo",
+    "country_code": "IT",
+    "country": "Italy"
+  },
+  {
+    "username": "JGosling",
+    "followingArtist": "Elisa Jo",
+    "country_code": "US",
+    "country": "USA"
+  },
+  {
+    "username": "LotusHips",
+    "followingArtist": "Elisa Jo",
+    "country_code": "GH",
+    "country": "Ghana"
+  },
+  {
+    "username": "laniered",
+    "followingArtist": "Elisa Jo",
+    "country_code": "US",
+    "country": "USA"
+  },
+  {
+    "username": "goodhen",
+    "followingArtist": "Elisa Jo",
+    "country_code": "UK",
+    "country": "United Kingdom"
+  },
+  {
+    "username": "tiddlyompompom",
+    "followingArtist": "Elisa Jo",
+    "country_code": "CA",
+    "country": "Canada"
+  },
+  {
+    "username": "knarlyknitter",
+    "followingArtist": "Elisa Jo",
+    "country_code": "Main St",
+    "country": "Main St"
+  },
+  {
+    "username": "KelleBelleCa",
+    "followingArtist": "Elisa Jo",
+    "country_code": "HK",
+    "country": "Hong Kong"
+  },
+  {
+    "username": "liesel_",
+    "followingArtist": "Elisa Jo",
+    "country_code": "US",
+    "country": "USA"
+  },
+  {
+    "username": "drivebyknitting",
+    "followingArtist": "Elisa Jo",
+    "country_code": "US",
+    "country": "USA"
+  },
+  {
+    "username": "RizkyMa71700016",
+    "followingArtist": "Cafu.",
+    "country_code": "ID",
+    "country": "Indonesia"
+  },
+  {
+    "username": "AligumaFrancis",
+    "followingArtist": "Cafu.",
+    "country_code": "UG",
+    "country": "Uganda"
+  },
+  {
+    "username": "PercivalMahwaya",
+    "followingArtist": "Cafu.",
+    "country_code": "ZW",
+    "country": "Zimbabwe"
+  },
+  {
+    "username": "MutaleMusa",
+    "followingArtist": "Cafu.",
+    "country_code": "ZM",
+    "country": "Zambia"
+  },
+  {
+    "username": "AwuduHon",
+    "followingArtist": "Cafu.",
+    "country_code": "GH",
+    "country": "Ghana"
+  },
+  {
+    "username": "Nicolas2keino",
+    "followingArtist": "Cafu.",
+    "country_code": "KE",
+    "country": "Kenya"
+  },
+  {
+    "username": "MrWilli66972724",
+    "followingArtist": "Cafu.",
+    "country_code": "NG",
+    "country": "Nigeria"
+  },
+  {
+    "username": "DuduSeyba",
+    "followingArtist": "Cafu.",
+    "country_code": "SN",
+    "country": "Senegal"
+  },
+  {
+    "username": "VoneyRangel",
+    "followingArtist": "Cafu.",
+    "country_code": "IT",
+    "country": "Italy"
+  },
+  {
+    "username": "_eufreeza",
+    "followingArtist": "Cafu.",
+    "country_code": "BR",
+    "country": "Brazil"
+  },
+  {
+    "username": "everson_messias",
+    "followingArtist": "Cafu.",
+    "country_code": "PE",
+    "country": "Peru"
+  },
+  {
+    "username": "AriyoTope3",
+    "followingArtist": "Cafu.",
+    "country_code": "NG",
+    "country": "Nigeria"
+  },
+  {
+    "username": "lincoln03602511",
+    "followingArtist": "Cafu.",
+    "country_code": "BR",
+    "country": "Brazil"
+  },
+  {
+    "username": "RomuloArivabene",
+    "followingArtist": "Cafu.",
+    "country_code": "BR",
+    "country": "Brazil"
+  },
+  {
+    "username": "MessiasMengo",
+    "followingArtist": "Cafu.",
+    "country_code": "MX",
+    "country": "Mexico"
+  },
+  {
+    "username": "MiguelyElena05",
+    "followingArtist": "Cafu.",
+    "country_code": "CO",
+    "country": "Colombia"
+  },
+  {
+    "username": "Joo07748732",
+    "followingArtist": "Cafu.",
+    "country_code": "CO",
+    "country": "Colombia"
+  },
+  {
+    "username": "rimka789",
+    "followingArtist": "Cafu.",
+    "country_code": "FR",
+    "country": "France"
+  },
+  {
+    "username": "castronovoc",
+    "followingArtist": "Cafu.",
+    "country_code": "UK",
+    "country": "United Kingdom"
+  },
+  {
+    "username": "Arthurking_18",
+    "followingArtist": "Cafu.",
+    "country_code": "GH",
+    "country": "Ghana"
+  },
+  {
+    "username": "R4ndom5uk",
+    "followingArtist": "Cafu.",
+    "country_code": "GB",
+    "country": "Great Britain"
+  },
+  {
+    "username": "ekow_billee",
+    "followingArtist": "Cafu.",
+    "country_code": "NP",
+    "country": "Nepal"
+  },
+  {
+    "username": "EricKoeberle",
+    "followingArtist": "Cafu.",
+    "country_code": "FR",
+    "country": "France"
+  },
+  {
+    "username": "AmR79959334",
+    "followingArtist": "Cafu.",
+    "country_code": "NL",
+    "country": "Netherlands"
+  },
+  {
+    "username": "belloopeyemi",
+    "followingArtist": "Cafu.",
+    "country_code": "NG",
+    "country": "Nigeria"
+  },
+  {
+    "username": "kauazin84998486",
+    "followingArtist": "Cafu.",
+    "country_code": "BR",
+    "country": "Brazil"
+  },
+  {
+    "username": "GWudson",
+    "followingArtist": "Cafu.",
+    "country_code": "BR",
+    "country": "Brazil"
+  },
+  {
+    "username": "donatuschinere1",
+    "followingArtist": "Cafu.",
+    "country_code": "IT",
+    "country": "Italy"
+  },
+  {
+    "username": "medjay_n",
+    "followingArtist": "Cafu.",
+    "country_code": "US",
+    "country": "USA"
+  },
+  {
+    "username": "Enrique47903989",
+    "followingArtist": "Cafu.",
+    "country_code": "MX",
+    "country": "Mexico"
+  },
+  {
+    "username": "Gerardo26408744",
+    "followingArtist": "Cafu.",
+    "country_code": "MX",
+    "country": "Mexico"
+  },
+  {
+    "username": "jo1983alvarez",
+    "followingArtist": "Cafu.",
+    "country_code": "VE",
+    "country": "Venezuela"
+  },
+  {
+    "username": "Tain_thee_messi",
+    "followingArtist": "Cafu.",
+    "country_code": "UG",
+    "country": "Uganda"
+  },
+  {
+    "username": "Bhanqz_gh",
+    "followingArtist": "Cafu.",
+    "country_code": "GH",
+    "country": "Ghana"
+  },
+  {
+    "username": "SunnyLyte",
+    "followingArtist": "Cafu.",
+    "country_code": "US",
+    "country": "USA"
+  },
+  {
+    "username": "adioquazeem1",
+    "followingArtist": "Cafu.",
+    "country_code": "NG",
+    "country": "Nigeria"
+  },
+  {
+    "username": "75_red",
+    "followingArtist": "Cafu.",
+    "country_code": "FR",
+    "country": "France"
+  },
+  {
+    "username": "Mathebe47589736",
+    "followingArtist": "Cafu.",
+    "country_code": "ZA",
+    "country": "South Africa"
+  },
+  {
+    "username": "LePrinceDuZaire",
+    "followingArtist": "Cafu.",
+    "country_code": "FR",
+    "country": "France"
+  },
+  {
+    "username": "rianmoro14",
+    "followingArtist": "Cafu.",
+    "country_code": "US",
+    "country": "USA"
+  },
+  {
+    "username": "huntersgold1971",
+    "followingArtist": "Cafu.",
+    "country_code": "GB",
+    "country": "Great Britain"
+  },
+  {
+    "username": "PugsleyMartin",
+    "followingArtist": "Cafu.",
+    "country_code": "UK",
+    "country": "United Kingdom"
+  },
+  {
+    "username": "EricOpp51044045",
+    "followingArtist": "Cafu.",
+    "country_code": "GH",
+    "country": "Ghana"
+  },
+  {
+    "username": "Lucky17634722",
+    "followingArtist": "Cafu.",
+    "country_code": "ZA",
+    "country": "South Africa"
+  },
+  {
+    "username": "JM22VR",
+    "followingArtist": "Cafu.",
+    "country_code": "PT",
+    "country": "Portugal"
+  },
+  {
+    "username": "IanAmaral9",
+    "followingArtist": "Cafu.",
+    "country_code": "BR",
+    "country": "Brazil"
+  },
+  {
+    "username": "Alexis23714062",
+    "followingArtist": "Cafu.",
+    "country_code": "US",
+    "country": "USA"
+  },
+  {
+    "username": "freeman_kakra",
+    "followingArtist": "Cafu.",
+    "country_code": "GH",
+    "country": "Ghana"
+  },
+  {
+    "username": "Chrisdebruyne5",
+    "followingArtist": "Cafu.",
+    "country_code": "TZ",
+    "country": "Tanzania"
+  },
+  {
+    "username": "ChanduGuru5",
+    "followingArtist": "Cafu.",
+    "country_code": "IN",
+    "country": "India"
+  },
+  {
+    "username": "Erickda2006",
+    "followingArtist": "Cafu.",
+    "country_code": "CO",
+    "country": "Colombia"
+  },
+  {
+    "username": "rufinfabrice14",
+    "followingArtist": "Cafu.",
+    "country_code": "CM",
+    "country": "Cameroon"
+  },
+  {
+    "username": "SanchesGam",
+    "followingArtist": "Cafu.",
+    "country_code": "BR",
+    "country": "Brazil"
+  },
+  {
+    "username": "hassanramirez",
+    "followingArtist": "Cafu.",
+    "country_code": "MX",
+    "country": "Mexico"
+  },
+  {
+    "username": "Pnjagi25",
+    "followingArtist": "Cafu.",
+    "country_code": "KE",
+    "country": "Kenya"
+  },
+  {
+    "username": "Walid54722225",
+    "followingArtist": "Cafu.",
+    "country_code": "ES",
+    "country": "Spain"
+  },
+  {
+    "username": "Fabricioalv02",
+    "followingArtist": "Cafu.",
+    "country_code": "BR",
+    "country": "Brazil"
+  },
+  {
+    "username": "NhlanhlaSolats1",
+    "followingArtist": "Cafu.",
+    "country_code": "ZA",
+    "country": "South Africa"
+  },
+  {
+    "username": "marcopiga95",
+    "followingArtist": "Cafu.",
+    "country_code": "IT",
+    "country": "Italy"
+  },
+  {
+    "username": "VestoKen3",
+    "followingArtist": "Cafu.",
+    "country_code": "KE",
+    "country": "Kenya"
+  },
+  {
+    "username": "CarlosC72124809",
+    "followingArtist": "Cafu.",
+    "country_code": "NL",
+    "country": "Netherlands"
+  },
+  {
+    "username": "KuroAlexander",
+    "followingArtist": "Cafu.",
+    "country_code": "CA",
+    "country": "Canada"
+  },
+  {
+    "username": "Rkr2_007",
+    "followingArtist": "Cafu.",
+    "country_code": "CL",
+    "country": "Chile"
+  },
+  {
+    "username": "freejobe39",
+    "followingArtist": "Cafu.",
+    "country_code": "DE",
+    "country": "Germany"
+  },
+  {
+    "username": "lawalaz12368088",
+    "followingArtist": "Cafu.",
+    "country_code": "NG",
+    "country": "Nigeria"
+  },
+  {
+    "username": "brunofa12",
+    "followingArtist": "Cafu.",
+    "country_code": "PE",
+    "country": "Peru"
+  },
+  {
+    "username": "djhahi63",
+    "followingArtist": "Cafu.",
+    "country_code": "CM",
+    "country": "Cameroon"
+  },
+  {
+    "username": "MeekyGTi",
+    "followingArtist": "Cafu.",
+    "country_code": "GB",
+    "country": "Great Britain"
+  },
+  {
+    "username": "basheribrahim7",
+    "followingArtist": "Cafu.",
+    "country_code": "SD",
+    "country": "Sudan"
+  },
+  {
+    "username": "Mohamed74220951",
+    "followingArtist": "Cafu.",
+    "country_code": "FR",
+    "country": "France"
+  },
+  {
+    "username": "Antenilson2",
+    "followingArtist": "Cafu.",
+    "country_code": "BR",
+    "country": "Brazil"
+  },
+  {
+    "username": "PecasHawk",
+    "followingArtist": "Cafu.",
+    "country_code": "BR",
+    "country": "Brazil"
+  },
+  {
+    "username": "Ramospedrinho1",
+    "followingArtist": "Cafu.",
+    "country_code": "BR",
+    "country": "Brazil"
+  },
+  {
+    "username": "lassana_koumare",
+    "followingArtist": "Cafu.",
+    "country_code": "ML",
+    "country": "Mali"
+  },
+  {
+    "username": "BrahimAitAli11",
+    "followingArtist": "Cafu.",
+    "country_code": "MA",
+    "country": "Morocco"
+  },
+  {
+    "username": "jotasolera17",
+    "followingArtist": "Cafu.",
+    "country_code": "US",
+    "country": "USA"
+  },
+  {
+    "username": "chandru_kannada",
+    "followingArtist": "Cafu.",
+    "country_code": "IN",
+    "country": "India"
+  },
+  {
+    "username": "solonad1",
+    "followingArtist": "Cafu.",
+    "country_code": "GH",
+    "country": "Ghana"
+  },
+  {
+    "username": "SebastinZepeda2",
+    "followingArtist": "Cafu.",
+    "country_code": "US",
+    "country": "USA"
+  },
+  {
+    "username": "daveogod",
+    "followingArtist": "Cafu.",
+    "country_code": "NG",
+    "country": "Nigeria"
+  },
+  {
+    "username": "KMulatuu",
+    "followingArtist": "Cafu.",
+    "country_code": "NL",
+    "country": "Netherlands"
+  },
+  {
+    "username": "FallasMontoya",
+    "followingArtist": "Cafu.",
+    "country_code": "CR",
+    "country": "Costa Rica"
+  },
+  {
+    "username": "Lucky59841081",
+    "followingArtist": "Cafu.",
+    "country_code": "ZA",
+    "country": "South Africa"
+  },
+  {
+    "username": "Mohamed96482881",
+    "followingArtist": "Cafu.",
+    "country_code": "NL",
+    "country": "Netherlands"
+  },
+  {
+    "username": "Avi_J_Mohan",
+    "followingArtist": "Cafu.",
+    "country_code": "ZA",
+    "country": "South Africa"
+  },
+  {
+    "username": "BradRAFC",
+    "followingArtist": "Cafu.",
+    "country_code": "UK",
+    "country": "United Kingdom"
+  },
+  {
+    "username": "e_acaz",
+    "followingArtist": "Cafu.",
+    "country_code": "ES",
+    "country": "Spain"
+  },
+  {
+    "username": "Cedrickamehoum1",
+    "followingArtist": "Cafu.",
+    "country_code": "US",
+    "country": "USA"
+  },
+  {
+    "username": "Rahhal__",
+    "followingArtist": "Cafu.",
+    "country_code": "JO",
+    "country": "Jordan"
+  },
+  {
+    "username": "carolcx_",
+    "followingArtist": "Cafu.",
+    "country_code": "BR",
+    "country": "Brazil"
+  },
+  {
+    "username": "Leandro94801999",
+    "followingArtist": "Cafu.",
+    "country_code": "PH",
+    "country": "Philippines"
+  },
+  {
+    "username": "sabry091",
+    "followingArtist": "Cafu.",
+    "country_code": "AE",
+    "country": "United Arab Emirates"
+  },
+  {
+    "username": "luizcgricardo",
+    "followingArtist": "Cafu.",
+    "country_code": "BR",
+    "country": "Brazil"
+  },
+  {
+    "username": "bebotaher2015",
+    "followingArtist": "Cafu.",
+    "country_code": "SA",
+    "country": "Saudi Arabia"
+  },
+  {
+    "username": "GiacomoVerbena",
+    "followingArtist": "Cafu.",
+    "country_code": "IT",
+    "country": "Italy"
+  },
+  {
+    "username": "abdo_habeta",
+    "followingArtist": "Cafu.",
+    "country_code": "EG",
+    "country": "Egypt"
+  },
+  {
+    "username": "ballest_ismael",
+    "followingArtist": "Cafu.",
+    "country_code": "MX",
+    "country": "Mexico"
+  },
+  {
+    "username": "scotthoolighan",
+    "followingArtist": "Cafu.",
+    "country_code": "GB",
+    "country": "Great Britain"
+  },
+  {
+    "username": "AbiodunKabiri",
+    "followingArtist": "Cafu.",
+    "country_code": "NG",
+    "country": "Nigeria"
+  },
+  {
+    "username": "RamjitChakrabo1",
+    "followingArtist": "Cafu.",
+    "country_code": "US",
+    "country": "USA"
+  },
+  {
+    "username": "J18Johnatan",
+    "followingArtist": "Cafu.",
+    "country_code": "BR",
+    "country": "Brazil"
+  },
+  {
+    "username": "Jay_P_424",
+    "followingArtist": "Cafu.",
+    "country_code": "UK",
+    "country": "United Kingdom"
+  },
+  {
+    "username": "TraoreNouhoun20",
+    "followingArtist": "Cafu.",
+    "country_code": "ML",
+    "country": "Mali"
+  },
+  {
+    "username": "BolamMatty",
+    "followingArtist": "Cafu.",
+    "country_code": "GB",
+    "country": "Great Britain"
+  },
+  {
+    "username": "Bonifac59692782",
+    "followingArtist": "Cafu.",
+    "country_code": "KE",
+    "country": "Kenya"
+  },
+  {
+    "username": "DjimadoumbayeD",
+    "followingArtist": "Cafu.",
+    "country_code": "CM",
+    "country": "Cameroon"
+  },
+  {
+    "username": "MohammedElHaru2",
+    "followingArtist": "Cafu.",
+    "country_code": "GH",
+    "country": "Ghana"
+  },
+  {
+    "username": "GeovanniPoker",
+    "followingArtist": "Cafu.",
+    "country_code": "US",
+    "country": "USA"
+  },
+  {
+    "username": "RobbieR73914276",
+    "followingArtist": "Cafu.",
+    "country_code": "UG",
+    "country": "Uganda"
+  },
+  {
+    "username": "Juliana44577709",
+    "followingArtist": "Cafu.",
+    "country_code": "BR",
+    "country": "Brazil"
+  },
+  {
+    "username": "Kamrul_ng",
+    "followingArtist": "Cafu.",
+    "country_code": "BD",
+    "country": "Bangladesh"
+  },
+  {
+    "username": "adrianrosinol",
+    "followingArtist": "Cafu.",
+    "country_code": "ES",
+    "country": "Spain"
+  },
+  {
+    "username": "alfazud29118742",
+    "followingArtist": "Cafu.",
+    "country_code": "BD",
+    "country": "Bangladesh"
+  },
+  {
+    "username": "EyasinArafath5",
+    "followingArtist": "Cafu.",
+    "country_code": "BD",
+    "country": "Bangladesh"
+  },
+  {
+    "username": "bidya_peter",
+    "followingArtist": "Cafu.",
+    "country_code": "TZ",
+    "country": "Tanzania"
+  },
+  {
+    "username": "cancamo33",
+    "followingArtist": "Cafu.",
+    "country_code": "US",
+    "country": "USA"
+  },
+  {
+    "username": "Fabrici49979040",
+    "followingArtist": "Cafu.",
+    "country_code": "BR",
+    "country": "Brazil"
+  },
+  {
+    "username": "deJesus3302",
+    "followingArtist": "Cafu.",
+    "country_code": "BR",
+    "country": "Brazil"
+  },
+  {
+    "username": "Hugo_Vitor02",
+    "followingArtist": "Cafu.",
+    "country_code": "KZ",
+    "country": "Kazakhstan"
+  },
+  {
+    "username": "PedroLo93795300",
+    "followingArtist": "Cafu.",
+    "country_code": "BR",
+    "country": "Brazil"
+  },
+  {
+    "username": "SVICENZO",
+    "followingArtist": "Cafu.",
+    "country_code": "DE",
+    "country": "Germany"
+  },
+  {
+    "username": "6Felipinho",
+    "followingArtist": "Cafu.",
+    "country_code": "BR",
+    "country": "Brazil"
+  },
+  {
+    "username": "alesheva98",
+    "followingArtist": "Cafu.",
+    "country_code": "IT",
+    "country": "Italy"
+  },
+  {
+    "username": "RickBrazilian1",
+    "followingArtist": "Cafu.",
+    "country_code": "IT",
+    "country": "Italy"
+  },
+  {
+    "username": "VillalonDIE60",
+    "followingArtist": "Cafu.",
+    "country_code": "CR",
+    "country": "Costa Rica"
+  },
+  {
+    "username": "bonecrusha5",
+    "followingArtist": "Cafu.",
+    "country_code": "US",
+    "country": "USA"
+  },
+  {
+    "username": "CrelierRodrigo",
+    "followingArtist": "Cafu.",
+    "country_code": "BR",
+    "country": "Brazil"
+  },
+  {
+    "username": "tringali_marco",
+    "followingArtist": "Cafu.",
+    "country_code": "FR",
+    "country": "France"
+  },
+  {
+    "username": "Alirioesto2",
+    "followingArtist": "Cafu.",
+    "country_code": "ES",
+    "country": "Spain"
+  },
+  {
+    "username": "Dhelzman",
+    "followingArtist": "Cafu.",
+    "country_code": "NG",
+    "country": "Nigeria"
+  },
+  {
+    "username": "yairhus",
+    "followingArtist": "Cafu.",
+    "country_code": "MX",
+    "country": "Mexico"
+  },
+  {
+    "username": "KayongoIsaac1",
+    "followingArtist": "Cafu.",
+    "country_code": "UG",
+    "country": "Uganda"
+  },
+  {
+    "username": "Marcodavila86",
+    "followingArtist": "Cafu.",
+    "country_code": "BR",
+    "country": "Brazil"
+  },
+  {
+    "username": "Hadri60400447",
+    "followingArtist": "Cafu.",
+    "country_code": "BE",
+    "country": "Belgium"
+  },
+  {
+    "username": "Sportsgriduk",
+    "followingArtist": "Cafu.",
+    "country_code": "UK",
+    "country": "United Kingdom"
+  },
+  {
+    "username": "Mjapa4",
+    "followingArtist": "Cafu.",
+    "country_code": "BR",
+    "country": "Brazil"
+  },
+  {
+    "username": "JorgeMarAlfonzo",
+    "followingArtist": "Cafu.",
+    "country_code": "US",
+    "country": "USA"
+  },
+  {
+    "username": "Ahmed07535241",
+    "followingArtist": "Cafu.",
+    "country_code": "NL",
+    "country": "Netherlands"
+  },
+  {
+    "username": "Flokos10",
+    "followingArtist": "Cafu.",
+    "country_code": "BR",
+    "country": "Brazil"
+  },
+  {
+    "username": "FbCesar04",
+    "followingArtist": "Cafu.",
+    "country_code": "BR",
+    "country": "Brazil"
+  },
+  {
+    "username": "ArmandoMoraes10",
+    "followingArtist": "Cafu.",
+    "country_code": "BR",
+    "country": "Brazil"
+  },
+  {
+    "username": "MCCharl21606154",
+    "followingArtist": "Cafu.",
+    "country_code": "US",
+    "country": "USA"
+  },
+  {
+    "username": "jailsonrodrigui",
+    "followingArtist": "Cafu.",
+    "country_code": "IT",
+    "country": "Italy"
+  },
+  {
+    "username": "KameStyle_",
+    "followingArtist": "Cafu.",
+    "country_code": "US",
+    "country": "USA"
+  },
+  {
+    "username": "juninhoebianca",
+    "followingArtist": "Cafu.",
+    "country_code": "GH",
+    "country": "Ghana"
+  },
+  {
+    "username": "Danieldb1348",
+    "followingArtist": "Cafu.",
+    "country_code": "PT",
+    "country": "Portugal"
+  },
+  {
+    "username": "DyonCarmo",
+    "followingArtist": "Cafu.",
+    "country_code": "IT",
+    "country": "Italy"
+  },
+  {
+    "username": "quojo_j",
+    "followingArtist": "Cafu.",
+    "country_code": "GH",
+    "country": "Ghana"
+  },
+  {
+    "username": "Brookly13878996",
+    "followingArtist": "Cafu.",
+    "country_code": "GH",
+    "country": "Ghana"
+  },
+  {
+    "username": "super_helbao",
+    "followingArtist": "Cafu.",
+    "country_code": "BR",
+    "country": "Brazil"
+  },
+  {
+    "username": "Handsomebobo",
+    "followingArtist": "Cafu.",
+    "country_code": "NG",
+    "country": "Nigeria"
+  },
+  {
+    "username": "JemelosP",
+    "followingArtist": "Cafu.",
+    "country_code": "EC",
+    "country": "Ecuador"
+  },
+  {
+    "username": "Chambacortez",
+    "followingArtist": "Cafu.",
+    "country_code": "NL",
+    "country": "Netherlands"
+  },
+  {
+    "username": "Mfakhry12",
+    "followingArtist": "Cafu.",
+    "country_code": "US",
+    "country": "USA"
+  },
+  {
+    "username": "JuanPab1905",
+    "followingArtist": "Cafu.",
+    "country_code": "AR",
+    "country": "Argentina"
+  },
+  {
+    "username": "ManowMankey",
+    "followingArtist": "Cafu.",
+    "country_code": "KE",
+    "country": "Kenya"
+  },
+  {
+    "username": "PCBaleeiro",
+    "followingArtist": "Cafu.",
+    "country_code": "BR",
+    "country": "Brazil"
+  },
+  {
+    "username": "LuziThabang",
+    "followingArtist": "Cafu.",
+    "country_code": "ZA",
+    "country": "South Africa"
+  },
+  {
+    "username": "giomallamaci89",
+    "followingArtist": "Cafu.",
+    "country_code": "IT",
+    "country": "Italy"
+  },
+  {
+    "username": "RuattiIsBack",
+    "followingArtist": "Cafu.",
+    "country_code": "IT",
+    "country": "Italy"
+  },
+  {
+    "username": "BanquierMalik",
+    "followingArtist": "Cafu.",
+    "country_code": "CM",
+    "country": "Cameroon"
+  },
+  {
+    "username": "oscarfele",
+    "followingArtist": "Cafu.",
+    "country_code": "PY",
+    "country": "Paraguay"
+  },
+  {
+    "username": "Youcefderki1",
+    "followingArtist": "Cafu.",
+    "country_code": "DZ",
+    "country": "Algeria"
+  },
+  {
+    "username": "ItuSepeng",
+    "followingArtist": "Cafu.",
+    "country_code": "ZA",
+    "country": "South Africa"
+  },
+  {
+    "username": "tauchitandast",
+    "followingArtist": "Cafu.",
+    "country_code": "US",
+    "country": "USA"
+  },
+  {
+    "username": "danielalte3099",
+    "followingArtist": "Cafu.",
+    "country_code": "CO",
+    "country": "Colombia"
+  },
+  {
+    "username": "HamidouOusmano4",
+    "followingArtist": "Cafu.",
+    "country_code": "CM",
+    "country": "Cameroon"
+  },
+  {
+    "username": "brenoPK510",
+    "followingArtist": "Cafu.",
+    "country_code": "BR",
+    "country": "Brazil"
+  },
+  {
+    "username": "danyfelino",
+    "followingArtist": "Cafu.",
+    "country_code": "US",
+    "country": "USA"
+  },
+  {
+    "username": "DjBrayanflow11",
+    "followingArtist": "Cafu.",
+    "country_code": "PE",
+    "country": "Peru"
+  },
+  {
+    "username": "gutierrezronny",
+    "followingArtist": "Cafu.",
+    "country_code": "VE",
+    "country": "Venezuela"
+  },
+  {
+    "username": "RSantosTST",
+    "followingArtist": "Cafu.",
+    "country_code": "ZA",
+    "country": "South Africa"
+  },
+  {
+    "username": "lippu007",
+    "followingArtist": "Cafu.",
+    "country_code": "MT",
+    "country": "Malta"
+  },
+  {
+    "username": "Thomas95Romano",
+    "followingArtist": "Cafu.",
+    "country_code": "IT",
+    "country": "Italy"
+  },
+  {
+    "username": "Olayink13794138",
+    "followingArtist": "Cafu.",
+    "country_code": "NG",
+    "country": "Nigeria"
+  },
+  {
+    "username": "hassan1224790",
+    "followingArtist": "Cafu.",
+    "country_code": "SD",
+    "country": "Sudan"
+  },
+  {
+    "username": "EddySuroso65",
+    "followingArtist": "Cafu.",
+    "country_code": "ID",
+    "country": "Indonesia"
+  },
+  {
+    "username": "KonteMarake",
+    "followingArtist": "Cafu.",
+    "country_code": "FR",
+    "country": "France"
+  },
+  {
+    "username": "Andr3s_Gal3ano",
+    "followingArtist": "Cafu.",
+    "country_code": "CO",
+    "country": "Colombia"
+  },
+  {
+    "username": "Hook_Sia",
+    "followingArtist": "Cafu.",
+    "country_code": "UK",
+    "country": "United Kingdom"
+  },
+  {
+    "username": "GustavoSuarez84",
+    "followingArtist": "Cafu.",
+    "country_code": "IT",
+    "country": "Italy"
+  },
+  {
+    "username": "BoakyeE10446076",
+    "followingArtist": "Cafu.",
+    "country_code": "GH",
+    "country": "Ghana"
+  },
+  {
+    "username": "KaramKooke",
+    "followingArtist": "Cafu.",
+    "country_code": "GB",
+    "country": "Great Britain"
+  },
+  {
+    "username": "ahmedsa44794185",
+    "followingArtist": "Cafu.",
+    "country_code": "EG",
+    "country": "Egypt"
+  },
+  {
+    "username": "Jam79256175",
+    "followingArtist": "Cafu.",
+    "country_code": "GB",
+    "country": "Great Britain"
+  },
+  {
+    "username": "nuevacolom",
+    "followingArtist": "Cafu.",
+    "country_code": "CO",
+    "country": "Colombia"
+  },
+  {
+    "username": "SakkouSoufiane",
+    "followingArtist": "Cafu.",
+    "country_code": "MA",
+    "country": "Morocco"
+  },
+  {
+    "username": "redirebel",
+    "followingArtist": "Cafu.",
+    "country_code": "ID",
+    "country": "Indonesia"
+  },
+  {
+    "username": "ManuelGamba2",
+    "followingArtist": "Cafu.",
+    "country_code": "IT",
+    "country": "Italy"
+  },
+  {
+    "username": "NigNog74986741",
+    "followingArtist": "Cafu.",
+    "country_code": "AT",
+    "country": "Austria"
+  },
+  {
+    "username": "diegocardozo981",
+    "followingArtist": "Cafu.",
+    "country_code": "PY",
+    "country": "Paraguay"
+  },
+  {
+    "username": "_ksm08",
+    "followingArtist": "Cafu.",
+    "country_code": "BR",
+    "country": "Brazil"
+  },
+  {
+    "username": "alenewport3",
+    "followingArtist": "Cafu.",
+    "country_code": "CL",
+    "country": "Chile"
+  },
+  {
+    "username": "proud2bassyrian",
+    "followingArtist": "Cafu.",
+    "country_code": "IQ",
+    "country": "Iraq"
+  },
+  {
+    "username": "qusay_reza",
+    "followingArtist": "Cafu.",
+    "country_code": "IQ",
+    "country": "Iraq"
+  },
+  {
+    "username": "robertscoria",
+    "followingArtist": "Cafu.",
+    "country_code": "US",
+    "country": "USA"
+  },
+  {
+    "username": "gedebluntur",
+    "followingArtist": "Cafu.",
+    "country_code": "ID",
+    "country": "Indonesia"
+  },
+  {
+    "username": "Morales10Nico",
+    "followingArtist": "Cafu.",
+    "country_code": "US",
+    "country": "USA"
+  },
+  {
+    "username": "titoviannaperei",
+    "followingArtist": "Cafu.",
+    "country_code": "PT",
+    "country": "Portugal"
+  },
+  {
+    "username": "90Calcio",
+    "followingArtist": "Cafu.",
+    "country_code": "IT",
+    "country": "Italy"
+  },
+  {
+    "username": "EtimManuel",
+    "followingArtist": "Cafu.",
+    "country_code": "NG",
+    "country": "Nigeria"
+  },
+  {
+    "username": "Sem_Zor",
+    "followingArtist": "Cafu.",
+    "country_code": "DE",
+    "country": "Germany"
+  },
+  {
+    "username": "_000000_5",
+    "followingArtist": "Cafu.",
+    "country_code": "FR",
+    "country": "France"
+  },
+  {
+    "username": "minyakurut_",
+    "followingArtist": "Cafu.",
+    "country_code": "IN",
+    "country": "India"
+  },
+  {
+    "username": "ben_knox123",
+    "followingArtist": "Cafu.",
+    "country_code": "GB",
+    "country": "Great Britain"
+  },
+  {
+    "username": "TahanMoukhlad",
+    "followingArtist": "Cafu.",
+    "country_code": "TR",
+    "country": "Turkey"
+  },
+  {
+    "username": "julienspiewek",
+    "followingArtist": "Cafu.",
+    "country_code": "US",
+    "country": "USA"
+  },
+  {
+    "username": "MOUSTAFA_ALKYAL",
+    "followingArtist": "Cafu.",
+    "country_code": "EG",
+    "country": "Egypt"
+  },
+  {
+    "username": "Thee_Llaedon",
+    "followingArtist": "Cafu.",
+    "country_code": "BJ",
+    "country": "Benin"
+  },
+  {
+    "username": "jacobforsing210",
+    "followingArtist": "Cafu.",
+    "country_code": "DK",
+    "country": "Denmark"
+  },
+  {
+    "username": "CuiDong7",
+    "followingArtist": "Cafu.",
+    "country_code": "US",
+    "country": "USA"
+  },
+  {
+    "username": "TeshaTweve",
+    "followingArtist": "Cafu.",
+    "country_code": "TZ",
+    "country": "Tanzania"
+  },
+  {
+    "username": "TelloFrederick8",
+    "followingArtist": "Cafu.",
+    "country_code": "BJ",
+    "country": "Benin"
+  },
+  {
+    "username": "Kobi_Bryan_G",
+    "followingArtist": "Cafu.",
+    "country_code": "GH",
+    "country": "Ghana"
+  },
+  {
+    "username": "CarlosB95587973",
+    "followingArtist": "Cafu.",
+    "country_code": "NG",
+    "country": "Nigeria"
+  },
+  {
+    "username": "jhonatanp11g",
+    "followingArtist": "Cafu.",
+    "country_code": "EC",
+    "country": "Ecuador"
+  },
+  {
+    "username": "NandiniSGowda3",
+    "followingArtist": "Cafu.",
+    "country_code": "IN",
+    "country": "India"
+  },
+  {
+    "username": "jmarevalo_",
+    "followingArtist": "Cafu.",
+    "country_code": "US",
+    "country": "USA"
+  },
+  {
+    "username": "AlepsaRod",
+    "followingArtist": "Cafu.",
+    "country_code": "US",
+    "country": "USA"
+  },
+  {
+    "username": "Dion90469273",
+    "followingArtist": "Cafu.",
+    "country_code": "ID",
+    "country": "Indonesia"
+  },
+  {
+    "username": "javi2871",
+    "followingArtist": "Cafu.",
+    "country_code": "MX",
+    "country": "Mexico"
+  },
+  {
+    "username": "wesleyDJFlash",
+    "followingArtist": "Cafu.",
+    "country_code": "NL",
+    "country": "Netherlands"
+  },
+  {
+    "username": "Laura43739198",
+    "followingArtist": "Cafu.",
+    "country_code": "US",
+    "country": "USA"
+  },
+  {
+    "username": "Abrahamska86031",
+    "followingArtist": "Cafu.",
+    "country_code": "US",
+    "country": "USA"
+  },
+  {
+    "username": "MatheusGui05",
+    "followingArtist": "Cafu.",
+    "country_code": "BR",
+    "country": "Brazil"
+  },
+  {
+    "username": "dmxavier22",
+    "followingArtist": "Cafu.",
+    "country_code": "BR",
+    "country": "Brazil"
+  },
+  {
+    "username": "many_padilla",
+    "followingArtist": "Cafu.",
+    "country_code": "MX",
+    "country": "Mexico"
+  },
+  {
+    "username": "AndersonRojas97",
+    "followingArtist": "Cafu.",
+    "country_code": "US",
+    "country": "USA"
+  },
+  {
+    "username": "LimafelipeC",
+    "followingArtist": "Cafu.",
+    "country_code": "BR",
+    "country": "Brazil"
+  },
+  {
+    "username": "greeslion",
+    "followingArtist": "Cafu.",
+    "country_code": "CU",
+    "country": "Cuba"
+  },
+  {
+    "username": "AlexMadoniaG",
+    "followingArtist": "Cafu.",
+    "country_code": "MX",
+    "country": "Mexico"
+  },
+  {
+    "username": "johnkwofie83",
+    "followingArtist": "Cafu.",
+    "country_code": "PK",
+    "country": "Pakistan"
+  },
+  {
+    "username": "AhmedHa66842962",
+    "followingArtist": "Cafu.",
+    "country_code": "EG",
+    "country": "Egypt"
+  },
+  {
+    "username": "psictoro",
+    "followingArtist": "Cafu.",
+    "country_code": "US",
+    "country": "USA"
+  },
+  {
+    "username": "WendellCortez5",
+    "followingArtist": "Cafu.",
+    "country_code": "PT",
+    "country": "Portugal"
+  },
+  {
+    "username": "HoreiPelon",
+    "followingArtist": "Cafu.",
+    "country_code": "MX",
+    "country": "Mexico"
+  },
+  {
+    "username": "DamilolaFarayo1",
+    "followingArtist": "Cafu.",
+    "country_code": "NG",
+    "country": "Nigeria"
+  },
+  {
+    "username": "danivargasar",
+    "followingArtist": "Cafu.",
+    "country_code": "AR",
+    "country": "Argentina"
+  },
+  {
+    "username": "Marcelo59255599",
+    "followingArtist": "Cafu.",
+    "country_code": "BR",
+    "country": "Brazil"
+  },
+  {
+    "username": "dinei_lucena",
+    "followingArtist": "Cafu.",
+    "country_code": "BR",
+    "country": "Brazil"
+  },
+  {
+    "username": "Stanley50974844",
+    "followingArtist": "Cafu.",
+    "country_code": "CA",
+    "country": "Canada"
+  },
+  {
+    "username": "KaioMller3",
+    "followingArtist": "Cafu.",
+    "country_code": "BR",
+    "country": "Brazil"
+  },
+  {
+    "username": "Bershzola",
+    "followingArtist": "Cafu.",
+    "country_code": "NG",
+    "country": "Nigeria"
+  },
+  {
+    "username": "MaxiPrieto7",
+    "followingArtist": "Cafu.",
+    "country_code": "AR",
+    "country": "Argentina"
+  },
+  {
+    "username": "gre_farias",
+    "followingArtist": "Cafu.",
+    "country_code": "BR",
+    "country": "Brazil"
+  },
+  {
+    "username": "BrunoMata912",
+    "followingArtist": "Cafu.",
+    "country_code": "ES",
+    "country": "Spain"
+  },
+  {
+    "username": "Im585",
+    "followingArtist": "Cafu.",
+    "country_code": "DE",
+    "country": "Germany"
+  },
+  {
+    "username": "BgmVBcy78u6Y8PZ",
+    "followingArtist": "Cafu.",
+    "country_code": "EG",
+    "country": "Egypt"
+  },
+  {
+    "username": "rj43yZ3dlSBkkGp",
+    "followingArtist": "Cafu.",
+    "country_code": "BJ",
+    "country": "Benin"
+  },
+  {
+    "username": "javiybetis",
+    "followingArtist": "Cafu.",
+    "country_code": "ES",
+    "country": "Spain"
+  },
+  {
+    "username": "Abdurraufmuhdb",
+    "followingArtist": "Cafu.",
+    "country_code": "NG",
+    "country": "Nigeria"
+  },
+  {
+    "username": "HeinerGaitan",
+    "followingArtist": "Cafu.",
+    "country_code": "CO",
+    "country": "Colombia"
+  },
+  {
+    "username": "rachid_amjed",
+    "followingArtist": "Cafu.",
+    "country_code": "FR",
+    "country": "France"
+  },
+  {
+    "username": "dn750716",
+    "followingArtist": "Cafu.",
+    "country_code": "CO",
+    "country": "Colombia"
+  },
+  {
+    "username": "badfish692",
+    "followingArtist": "Cafu.",
+    "country_code": "MX",
+    "country": "Mexico"
+  },
+  {
+    "username": "Edgar00973542",
+    "followingArtist": "Cafu.",
+    "country_code": "MX",
+    "country": "Mexico"
+  },
+  {
+    "username": "GeissonMoreno",
+    "followingArtist": "Cafu.",
+    "country_code": "CO",
+    "country": "Colombia"
+  },
+  {
+    "username": "Edilson81485360",
+    "followingArtist": "Cafu.",
+    "country_code": "BR",
+    "country": "Brazil"
+  },
+  {
+    "username": "EvandroLuizDaS9",
+    "followingArtist": "Cafu.",
+    "country_code": "BR",
+    "country": "Brazil"
+  },
+  {
+    "username": "elhadjfodediaw2",
+    "followingArtist": "Cafu.",
+    "country_code": "FR",
+    "country": "France"
+  },
+  {
+    "username": "MrBenJP",
+    "followingArtist": "Cafu.",
+    "country_code": "US",
+    "country": "USA"
+  },
+  {
+    "username": "BosteroCG",
+    "followingArtist": "Cafu.",
+    "country_code": "AR",
+    "country": "Argentina"
+  },
+  {
+    "username": "Abdousadaoui6",
+    "followingArtist": "Cafu.",
+    "country_code": "DZ",
+    "country": "Algeria"
+  },
+  {
+    "username": "CobbyBrown8",
+    "followingArtist": "Cafu.",
+    "country_code": "GH",
+    "country": "Ghana"
+  },
+  {
+    "username": "YawBediako10",
+    "followingArtist": "Cafu.",
+    "country_code": "GH",
+    "country": "Ghana"
+  },
+  {
+    "username": "ndelemaHR",
+    "followingArtist": "Cafu.",
+    "country_code": "TZ",
+    "country": "Tanzania"
+  },
+  {
+    "username": "ayobami_luqman",
+    "followingArtist": "Cafu.",
+    "country_code": "NG",
+    "country": "Nigeria"
+  },
+  {
+    "username": "andrei651",
+    "followingArtist": "Cafu.",
+    "country_code": "PE",
+    "country": "Peru"
+  },
+  {
+    "username": "bozzybuffer",
+    "followingArtist": "Cafu.",
+    "country_code": "BJ",
+    "country": "Benin"
+  },
+  {
+    "username": "Antonel16387458",
+    "followingArtist": "Cafu.",
+    "country_code": "IT",
+    "country": "Italy"
+  },
+  {
+    "username": "ulyssesdiego",
+    "followingArtist": "Cafu.",
+    "country_code": "GH",
+    "country": "Ghana"
+  },
+  {
+    "username": "isaqow100",
+    "followingArtist": "Cafu.",
+    "country_code": "KE",
+    "country": "Kenya"
+  },
+  {
+    "username": "yeshua122",
+    "followingArtist": "Cafu.",
+    "country_code": "PE",
+    "country": "Peru"
+  },
+  {
+    "username": "aldoN1888",
+    "followingArtist": "Cafu.",
+    "country_code": "UK",
+    "country": "United Kingdom"
+  },
+  {
+    "username": "mode2371998",
+    "followingArtist": "Cafu.",
+    "country_code": "NL",
+    "country": "Netherlands"
+  },
+  {
+    "username": "TerryLewis11",
+    "followingArtist": "Cafu.",
+    "country_code": "GB",
+    "country": "Great Britain"
+  },
+  {
+    "username": "MMxanx",
+    "followingArtist": "Cafu.",
+    "country_code": "ZA",
+    "country": "South Africa"
+  },
+  {
+    "username": "ewertonlaraia",
+    "followingArtist": "Cafu.",
+    "country_code": "BR",
+    "country": "Brazil"
+  },
+  {
+    "username": "boy_eritrea",
+    "followingArtist": "Cafu.",
+    "country_code": "DE",
+    "country": "Germany"
+  },
+  {
+    "username": "Mbule125",
+    "followingArtist": "Cafu.",
+    "country_code": "ZA",
+    "country": "South Africa"
+  },
+  {
+    "username": "LeviPeralta2",
+    "followingArtist": "Cafu.",
+    "country_code": "BR",
+    "country": "Brazil"
+  },
+  {
+    "username": "AlenkruthKM",
+    "followingArtist": "Cafu.",
+    "country_code": "IN",
+    "country": "India"
+  },
+  {
+    "username": "41828049",
+    "followingArtist": "Cafu.",
+    "country_code": "US",
+    "country": "USA"
+  },
+  {
+    "username": "Rohulla06154373",
+    "followingArtist": "Cafu.",
+    "country_code": "US",
+    "country": "USA"
+  },
+  {
+    "username": "WalaszekTomasz",
+    "followingArtist": "Cafu.",
+    "country_code": "PL",
+    "country": "Poland"
+  },
+  {
+    "username": "Form_Philosophy",
+    "followingArtist": "Cafu.",
+    "country_code": "UK",
+    "country": "United Kingdom"
+  },
+  {
+    "username": "UniqBeauties",
+    "followingArtist": "Cafu.",
+    "country_code": "NG",
+    "country": "Nigeria"
+  },
+  {
+    "username": "Ricardotoledo78",
+    "followingArtist": "Cafu.",
+    "country_code": "BR",
+    "country": "Brazil"
+  },
+  {
+    "username": "HerinquesSitoe",
+    "followingArtist": "Cafu.",
+    "country_code": "MZ",
+    "country": "Mozambique"
+  },
+  {
+    "username": "RacingCluMadrid",
+    "followingArtist": "Cafu.",
+    "country_code": "ES",
+    "country": "Spain"
+  },
+  {
+    "username": "BajaAdao",
+    "followingArtist": "Cafu.",
+    "country_code": "BR",
+    "country": "Brazil"
+  },
+  {
+    "username": "Gustavu_SousaBR",
+    "followingArtist": "Cafu.",
+    "country_code": "BR",
+    "country": "Brazil"
+  },
+  {
+    "username": "IYasser56",
+    "followingArtist": "Cafu.",
+    "country_code": "PT",
+    "country": "Portugal"
+  },
+  {
+    "username": "raulyRmcf",
+    "followingArtist": "Cafu.",
+    "country_code": "CN",
+    "country": "China"
+  },
+  {
+    "username": "ibrahimelsegery",
+    "followingArtist": "Cafu.",
+    "country_code": "EG",
+    "country": "Egypt"
+  },
+  {
+    "username": "theusma_17",
+    "followingArtist": "Cafu.",
+    "country_code": "BR",
+    "country": "Brazil"
+  },
+  {
+    "username": "LuisLea71522802",
+    "followingArtist": "Cafu.",
+    "country_code": "VE",
+    "country": "Venezuela"
+  },
+  {
+    "username": "YurileandroBFR",
+    "followingArtist": "Cafu.",
+    "country_code": "US",
+    "country": "USA"
+  },
+  {
+    "username": "clamaximus",
+    "followingArtist": "Cafu.",
+    "country_code": "RO",
+    "country": "Romania"
+  },
+  {
+    "username": "HenryM2008",
+    "followingArtist": "Cafu.",
+    "country_code": "US",
+    "country": "USA"
+  },
+  {
+    "username": "Alilouu04",
+    "followingArtist": "Cafu.",
+    "country_code": "DZ",
+    "country": "Algeria"
+  },
+  {
+    "username": "BirkheuerLuis",
+    "followingArtist": "Cafu.",
+    "country_code": "BR",
+    "country": "Brazil"
+  },
+  {
+    "username": "saved_mensah",
+    "followingArtist": "Cafu.",
+    "country_code": "GH",
+    "country": "Ghana"
+  },
+  {
+    "username": "Daniela69249253",
+    "followingArtist": "Cafu.",
+    "country_code": "PT",
+    "country": "Portugal"
+  },
+  {
+    "username": "Maurojung",
+    "followingArtist": "Cafu.",
+    "country_code": "BR",
+    "country": "Brazil"
+  },
+  {
+    "username": "SianLandry",
+    "followingArtist": "Cafu.",
+    "country_code": "US",
+    "country": "USA"
+  },
+  {
+    "username": "AbdouJunior20",
+    "followingArtist": "Cafu.",
+    "country_code": "FR",
+    "country": "France"
+  },
+  {
+    "username": "Mester10Abdilah",
+    "followingArtist": "Cafu.",
+    "country_code": "BE",
+    "country": "Belgium"
+  },
+  {
+    "username": "Davidson1910250",
+    "followingArtist": "Cafu.",
+    "country_code": "BR",
+    "country": "Brazil"
+  },
+  {
+    "username": "MoseSagara5",
+    "followingArtist": "Cafu.",
+    "country_code": "ML",
+    "country": "Mali"
+  },
+  {
+    "username": "lucaarduini1",
+    "followingArtist": "Cafu.",
+    "country_code": "IT",
+    "country": "Italy"
+  },
+  {
+    "username": "LibradaDJimene2",
+    "followingArtist": "Cafu.",
+    "country_code": "US",
+    "country": "USA"
+  },
+  {
+    "username": "LeoLoeza32",
+    "followingArtist": "Cafu.",
+    "country_code": "TR",
+    "country": "Turkey"
+  },
+  {
+    "username": "majorboy95",
+    "followingArtist": "Cafu.",
+    "country_code": "NG",
+    "country": "Nigeria"
+  },
+  {
+    "username": "kabelochibi4",
+    "followingArtist": "Cafu.",
+    "country_code": "ZA",
+    "country": "South Africa"
+  },
+  {
+    "username": "damsparrow003",
+    "followingArtist": "Cafu.",
+    "country_code": "FR",
+    "country": "France"
+  },
+  {
+    "username": "Cazza233",
+    "followingArtist": "Cafu.",
+    "country_code": "IT",
+    "country": "Italy"
+  },
+  {
+    "username": "AiltonS13836569",
+    "followingArtist": "Cafu.",
+    "country_code": "BR",
+    "country": "Brazil"
+  },
+  {
+    "username": "LucasSo62578894",
+    "followingArtist": "Cafu.",
+    "country_code": "BR",
+    "country": "Brazil"
+  },
+  {
+    "username": "charnoteymoses1",
+    "followingArtist": "Cafu.",
+    "country_code": "GH",
+    "country": "Ghana"
+  },
+  {
+    "username": "SidineiRenato1",
+    "followingArtist": "Cafu.",
+    "country_code": "ES",
+    "country": "Spain"
+  },
+  {
+    "username": "Feyza38612367",
+    "followingArtist": "Cafu.",
+    "country_code": "BA",
+    "country": "Bosnia and Herzegovina"
+  },
+  {
+    "username": "JulioCe87765585",
+    "followingArtist": "Cafu.",
+    "country_code": "BR",
+    "country": "Brazil"
+  },
+  {
+    "username": "SamiUlH08635089",
+    "followingArtist": "Cafu.",
+    "country_code": "PK",
+    "country": "Pakistan"
+  },
+  {
+    "username": "MartinsEndrews",
+    "followingArtist": "Cafu.",
+    "country_code": "BR",
+    "country": "Brazil"
+  },
+  {
+    "username": "Naidher77",
+    "followingArtist": "Cafu.",
+    "country_code": "CO",
+    "country": "Colombia"
+  },
+  {
+    "username": "Gabrieltav20",
+    "followingArtist": "Cafu.",
+    "country_code": "BR",
+    "country": "Brazil"
+  },
+  {
+    "username": "oshaehab1yahoo2",
+    "followingArtist": "Cafu.",
+    "country_code": "EG",
+    "country": "Egypt"
+  },
+  {
+    "username": "AndrVSSilvaAnd1",
+    "followingArtist": "Cafu.",
+    "country_code": "BR",
+    "country": "Brazil"
+  },
+  {
+    "username": "gouveia_eder",
+    "followingArtist": "Cafu.",
+    "country_code": "BR",
+    "country": "Brazil"
+  },
+  {
+    "username": "CL73074530",
+    "followingArtist": "Cafu.",
+    "country_code": "BR",
+    "country": "Brazil"
+  },
+  {
+    "username": "AnasMoh1998",
+    "followingArtist": "Cafu.",
+    "country_code": "ID",
+    "country": "Indonesia"
+  },
+  {
+    "username": "TCMGOALON",
+    "followingArtist": "Cafu.",
+    "country_code": "UK",
+    "country": "United Kingdom"
+  },
+  {
+    "username": "charleschalo254",
+    "followingArtist": "Cafu.",
+    "country_code": "KE",
+    "country": "Kenya"
+  },
+  {
+    "username": "BrunaNevesChav1",
+    "followingArtist": "Cafu.",
+    "country_code": "BR",
+    "country": "Brazil"
+  },
+  {
+    "username": "AugustoVianna6",
+    "followingArtist": "Cafu.",
+    "country_code": "MG",
+    "country": "Madagascar"
+  },
+  {
+    "username": "andresluna58",
+    "followingArtist": "Cafu.",
+    "country_code": "CO",
+    "country": "Colombia"
+  },
+  {
+    "username": "AminHama4",
+    "followingArtist": "Cafu.",
+    "country_code": "TR",
+    "country": "Turkey"
+  },
+  {
+    "username": "wallasverdao",
+    "followingArtist": "Cafu.",
+    "country_code": "BR",
+    "country": "Brazil"
+  },
+  {
+    "username": "victorwlpsks22",
+    "followingArtist": "Cafu.",
+    "country_code": "BR",
+    "country": "Brazil"
+  },
+  {
+    "username": "Gabriel80036747",
+    "followingArtist": "Cafu.",
+    "country_code": "FR",
+    "country": "France"
+  },
+  {
+    "username": "alcivana_f",
+    "followingArtist": "Cafu.",
+    "country_code": "BR",
+    "country": "Brazil"
+  },
+  {
+    "username": "Deyvidss7",
+    "followingArtist": "Cafu.",
+    "country_code": "BR",
+    "country": "Brazil"
+  },
+  {
+    "username": "LucasAl20010564",
+    "followingArtist": "Cafu.",
+    "country_code": "BR",
+    "country": "Brazil"
+  },
+  {
+    "username": "Baraahamed6",
+    "followingArtist": "Cafu.",
+    "country_code": "IQ",
+    "country": "Iraq"
+  },
+  {
+    "username": "rondinelils",
+    "followingArtist": "Cafu.",
+    "country_code": "BR",
+    "country": "Brazil"
+  },
+  {
+    "username": "amandawer",
+    "followingArtist": "Cafu.",
+    "country_code": "BR",
+    "country": "Brazil"
+  },
+  {
+    "username": "nor45127612",
+    "followingArtist": "Cafu.",
+    "country_code": "US",
+    "country": "USA"
+  },
+  {
+    "username": "LucasHe14528551",
+    "followingArtist": "Cafu.",
+    "country_code": "MG",
+    "country": "Madagascar"
+  },
+  {
+    "username": "RamyRio",
+    "followingArtist": "Cafu.",
+    "country_code": "EG",
+    "country": "Egypt"
+  },
+  {
+    "username": "josemoraosio",
+    "followingArtist": "Cafu.",
+    "country_code": "US",
+    "country": "USA"
+  },
+  {
+    "username": "paodequeijo97",
+    "followingArtist": "Cafu.",
+    "country_code": "BR",
+    "country": "Brazil"
+  },
+  {
+    "username": "rojay_seun",
+    "followingArtist": "Cafu.",
+    "country_code": "NG",
+    "country": "Nigeria"
+  },
+  {
+    "username": "TeaganMcGregor3",
+    "followingArtist": "Cafu.",
+    "country_code": "BJ",
+    "country": "Benin"
+  },
+  {
+    "username": "Mihai09343490",
+    "followingArtist": "Cafu.",
+    "country_code": "GR",
+    "country": "Greece"
+  },
+  {
+    "username": "davidsantosofi1",
+    "followingArtist": "Cafu.",
+    "country_code": "BR",
+    "country": "Brazil"
+  },
+  {
+    "username": "aliamer8686",
+    "followingArtist": "Cafu.",
+    "country_code": "US",
+    "country": "USA"
+  },
+  {
+    "username": "HumbertoSamue18",
+    "followingArtist": "Cafu.",
+    "country_code": "US",
+    "country": "USA"
+  },
+  {
+    "username": "RyoReds1",
+    "followingArtist": "Cafu.",
+    "country_code": "IN",
+    "country": "India"
+  },
+  {
+    "username": "ZakariaAitBell2",
+    "followingArtist": "Cafu.",
+    "country_code": "FR",
+    "country": "France"
+  },
+  {
+    "username": "lawal_vdouze",
+    "followingArtist": "Cafu.",
+    "country_code": "GA",
+    "country": "Gabon"
+  },
+  {
+    "username": "mirrortimebeast",
+    "followingArtist": "Cafu.",
+    "country_code": "UK",
+    "country": "United Kingdom"
+  },
+  {
+    "username": "EoinSmyth11",
+    "followingArtist": "Cafu.",
+    "country_code": "GB",
+    "country": "Great Britain"
+  },
+  {
+    "username": "fjrrMelgarDF",
+    "followingArtist": "Cafu.",
+    "country_code": "ES",
+    "country": "Spain"
+  },
+  {
+    "username": "Sofwan98953838",
+    "followingArtist": "Cafu.",
+    "country_code": "MV",
+    "country": "Maldives"
+  },
+  {
+    "username": "Daniel23058259",
+    "followingArtist": "Cafu.",
+    "country_code": "ES",
+    "country": "Spain"
+  },
+  {
+    "username": "MonteiroJeova",
+    "followingArtist": "Cafu.",
+    "country_code": "BR",
+    "country": "Brazil"
+  },
+  {
+    "username": "EuMontero",
+    "followingArtist": "Cafu.",
+    "country_code": "PT",
+    "country": "Portugal"
+  },
+  {
+    "username": "DimasPr31137104",
+    "followingArtist": "Cafu.",
+    "country_code": "ID",
+    "country": "Indonesia"
+  },
+  {
+    "username": "CrisEGV98",
+    "followingArtist": "Cafu.",
+    "country_code": "ES",
+    "country": "Spain"
+  },
+  {
+    "username": "PeteFennelly2",
+    "followingArtist": "Cafu.",
+    "country_code": "US",
+    "country": "USA"
+  },
+  {
+    "username": "Ricardo67862727",
+    "followingArtist": "Cafu.",
+    "country_code": "IT",
+    "country": "Italy"
+  },
+  {
+    "username": "AliKama73930492",
+    "followingArtist": "Cafu.",
+    "country_code": "EG",
+    "country": "Egypt"
+  },
+  {
+    "username": "AshrafBendera1",
+    "followingArtist": "Cafu.",
+    "country_code": "TZ",
+    "country": "Tanzania"
+  },
+  {
+    "username": "kerneljdl",
+    "followingArtist": "Cafu.",
+    "country_code": "IL",
+    "country": "Israel"
+  },
+  {
+    "username": "enesunalfanboy",
+    "followingArtist": "Cafu.",
+    "country_code": "TR",
+    "country": "Turkey"
+  },
+  {
+    "username": "Ademola31585962",
+    "followingArtist": "Cafu.",
+    "country_code": "NG",
+    "country": "Nigeria"
+  },
+  {
+    "username": "mcteezy101",
+    "followingArtist": "Cafu.",
+    "country_code": "NG",
+    "country": "Nigeria"
+  },
+  {
+    "username": "Rifu22521348",
+    "followingArtist": "Cafu.",
+    "country_code": "IN",
+    "country": "India"
+  },
+  {
+    "username": "FaisalM19760604",
+    "followingArtist": "Cafu.",
+    "country_code": "NG",
+    "country": "Nigeria"
+  },
+  {
+    "username": "williamcesar51",
+    "followingArtist": "Cafu.",
+    "country_code": "BR",
+    "country": "Brazil"
+  },
+  {
+    "username": "Oubelkhirbra",
+    "followingArtist": "Cafu.",
+    "country_code": "MA",
+    "country": "Morocco"
+  },
+  {
+    "username": "Teefhad",
+    "followingArtist": "Cafu.",
+    "country_code": "NG",
+    "country": "Nigeria"
+  },
+  {
+    "username": "omobase14",
+    "followingArtist": "Cafu.",
+    "country_code": "NG",
+    "country": "Nigeria"
+  },
+  {
+    "username": "Talamantes77",
+    "followingArtist": "Cafu.",
+    "country_code": "GB",
+    "country": "Great Britain"
+  },
+  {
+    "username": "LuizFel34022415",
+    "followingArtist": "Cafu.",
+    "country_code": "BR",
+    "country": "Brazil"
+  },
+  {
+    "username": "sp_mr253",
+    "followingArtist": "Cafu.",
+    "country_code": "US",
+    "country": "USA"
+  },
+  {
+    "username": "LeonardFiorica",
+    "followingArtist": "Cafu.",
+    "country_code": "FR",
+    "country": "France"
+  },
+  {
+    "username": "luscadasep",
+    "followingArtist": "Cafu.",
+    "country_code": "FR",
+    "country": "France"
+  },
+  {
+    "username": "fabrici60141648",
+    "followingArtist": "Cafu.",
+    "country_code": "BR",
+    "country": "Brazil"
+  },
+  {
+    "username": "mazzucco_andrea",
+    "followingArtist": "Cafu.",
+    "country_code": "IT",
+    "country": "Italy"
+  },
+  {
+    "username": "le_hdoud",
+    "followingArtist": "Cafu.",
+    "country_code": "MA",
+    "country": "Morocco"
+  },
+  {
+    "username": "Sive_Pantshwa",
+    "followingArtist": "Cafu.",
+    "country_code": "BJ",
+    "country": "Benin"
+  },
+  {
+    "username": "JordanG71520139",
+    "followingArtist": "Cafu.",
+    "country_code": "UK",
+    "country": "United Kingdom"
+  },
+  {
+    "username": "BLACKBIRD7GNG17",
+    "followingArtist": "Cafu.",
+    "country_code": "US",
+    "country": "USA"
+  },
+  {
+    "username": "IanMcG86",
+    "followingArtist": "Cafu.",
+    "country_code": "GB",
+    "country": "Great Britain"
+  },
+  {
+    "username": "Agusnicoletti_6",
+    "followingArtist": "Cafu.",
+    "country_code": "US",
+    "country": "USA"
+  },
+  {
+    "username": "DelOliveira11",
+    "followingArtist": "Cafu.",
+    "country_code": "BR",
+    "country": "Brazil"
+  },
+  {
+    "username": "ahmeddogan777",
+    "followingArtist": "Cafu.",
+    "country_code": "TR",
+    "country": "Turkey"
+  },
+  {
+    "username": "FalcaoOliveiraa",
+    "followingArtist": "Cafu.",
+    "country_code": "BR",
+    "country": "Brazil"
+  },
+  {
+    "username": "Vctor55372256",
+    "followingArtist": "Cafu.",
+    "country_code": "PH",
+    "country": "Philippines"
+  },
+  {
+    "username": "IbrahimSaniIb13",
+    "followingArtist": "Cafu.",
+    "country_code": "NG",
+    "country": "Nigeria"
+  },
+  {
+    "username": "Alloubani26",
+    "followingArtist": "Cafu.",
+    "country_code": "US",
+    "country": "USA"
+  },
+  {
+    "username": "MujeebAkeem1",
+    "followingArtist": "Cafu.",
+    "country_code": "US",
+    "country": "USA"
+  },
+  {
+    "username": "CursesTheCat",
+    "followingArtist": "Cafu.",
+    "country_code": "PL",
+    "country": "Poland"
+  },
+  {
+    "username": "BernardoJaram6",
+    "followingArtist": "Cafu.",
+    "country_code": "EC",
+    "country": "Ecuador"
+  },
+  {
+    "username": "adanielcortes",
+    "followingArtist": "Cafu.",
+    "country_code": "MX",
+    "country": "Mexico"
+  },
+  {
+    "username": "ElShimy2080",
+    "followingArtist": "Cafu.",
+    "country_code": "NL",
+    "country": "Netherlands"
+  },
+  {
+    "username": "CenacSam",
+    "followingArtist": "Cafu.",
+    "country_code": "GH",
+    "country": "Ghana"
+  },
+  {
+    "username": "LuisGui1601",
+    "followingArtist": "Cafu.",
+    "country_code": "BR",
+    "country": "Brazil"
+  },
+  {
+    "username": "LukeLuc69508529",
+    "followingArtist": "Cafu.",
+    "country_code": "US",
+    "country": "USA"
+  },
+  {
+    "username": "giuseppemisser7",
+    "followingArtist": "Cafu.",
+    "country_code": "IT",
+    "country": "Italy"
+  },
+  {
+    "username": "GrahamHollowa14",
+    "followingArtist": "Cafu.",
+    "country_code": "GB",
+    "country": "Great Britain"
+  },
+  {
+    "username": "YURIBERNADINO1",
+    "followingArtist": "Cafu.",
+    "country_code": "BR",
+    "country": "Brazil"
+  },
+  {
+    "username": "rafaelboteprec2",
+    "followingArtist": "Cafu.",
+    "country_code": "BR",
+    "country": "Brazil"
+  },
+  {
+    "username": "samadubatshuayi",
+    "followingArtist": "Cafu.",
+    "country_code": "GH",
+    "country": "Ghana"
+  },
+  {
+    "username": "Mouhame02147623",
+    "followingArtist": "Cafu.",
+    "country_code": "ES",
+    "country": "Spain"
+  },
+  {
+    "username": "Diego54861981",
+    "followingArtist": "Cafu.",
+    "country_code": "MZ",
+    "country": "Mozambique"
+  },
+  {
+    "username": "EliasMoralesH2",
+    "followingArtist": "Cafu.",
+    "country_code": "CO",
+    "country": "Colombia"
+  },
+  {
+    "username": "Tikitus1",
+    "followingArtist": "Cafu.",
+    "country_code": "ES",
+    "country": "Spain"
+  },
+  {
+    "username": "LuisCar93389753",
+    "followingArtist": "Cafu.",
+    "country_code": "FR",
+    "country": "France"
+  },
+  {
+    "username": "Luisprado221",
+    "followingArtist": "Cafu.",
+    "country_code": "MX",
+    "country": "Mexico"
+  },
+  {
+    "username": "LbCristiane",
+    "followingArtist": "Cafu.",
+    "country_code": "BR",
+    "country": "Brazil"
+  },
+  {
+    "username": "IbrahimDagunro",
+    "followingArtist": "Cafu.",
+    "country_code": "NG",
+    "country": "Nigeria"
+  },
+  {
+    "username": "lasisikab",
+    "followingArtist": "Cafu.",
+    "country_code": "NG",
+    "country": "Nigeria"
+  },
+  {
+    "username": "MNAlMeshari",
+    "followingArtist": "Cafu.",
+    "country_code": "US",
+    "country": "USA"
+  },
+  {
+    "username": "ColeStunchild",
+    "followingArtist": "Cafu.",
+    "country_code": "NG",
+    "country": "Nigeria"
+  },
+  {
+    "username": "Gabriel37072994",
+    "followingArtist": "Cafu.",
+    "country_code": "BR",
+    "country": "Brazil"
+  },
+  {
+    "username": "Paco9417",
+    "followingArtist": "Cafu.",
+    "country_code": "US",
+    "country": "USA"
+  },
+  {
+    "username": "YusufArowosaye",
+    "followingArtist": "Cafu.",
+    "country_code": "NG",
+    "country": "Nigeria"
+  },
+  {
+    "username": "mathewsalifuar1",
+    "followingArtist": "Cafu.",
+    "country_code": "AR",
+    "country": "Argentina"
+  },
+  {
+    "username": "EscribaD",
+    "followingArtist": "Cafu.",
+    "country_code": "ZA",
+    "country": "South Africa"
+  },
+  {
+    "username": "JamesTumusime",
+    "followingArtist": "Cafu.",
+    "country_code": "UG",
+    "country": "Uganda"
+  },
+  {
+    "username": "OliverChristLim",
+    "followingArtist": "Cafu.",
+    "country_code": "NZ",
+    "country": "New Zealand"
+  },
+  {
+    "username": "ElderGomes19",
+    "followingArtist": "Cafu.",
+    "country_code": "DE",
+    "country": "Germany"
+  },
+  {
+    "username": "ShadinShohid",
+    "followingArtist": "Cafu.",
+    "country_code": "BD",
+    "country": "Bangladesh"
+  },
+  {
+    "username": "Marcelo14102",
+    "followingArtist": "Cafu.",
+    "country_code": "PR",
+    "country": "Puerto Rico"
+  },
+  {
+    "username": "overagainlt",
+    "followingArtist": "Cafu.",
+    "country_code": "UK",
+    "country": "United Kingdom"
+  },
+  {
+    "username": "elkinalons0",
+    "followingArtist": "Cafu.",
+    "country_code": "ST",
+    "country": "Sao Tome and Principe"
+  },
+  {
+    "username": "VPachalis",
+    "followingArtist": "Cafu.",
+    "country_code": "CV",
+    "country": "Cape Verde"
+  },
+  {
+    "username": "Androayman777",
+    "followingArtist": "Cafu.",
+    "country_code": "EG",
+    "country": "Egypt"
+  },
+  {
+    "username": "leando33",
+    "followingArtist": "Cafu.",
+    "country_code": "BR",
+    "country": "Brazil"
+  },
+  {
+    "username": "FSFranco93",
+    "followingArtist": "Cafu.",
+    "country_code": "BR",
+    "country": "Brazil"
+  },
+  {
+    "username": "Titoliviosouza5",
+    "followingArtist": "Cafu.",
+    "country_code": "BR",
+    "country": "Brazil"
+  },
+  {
+    "username": "DavidOs87338437",
+    "followingArtist": "Cafu.",
+    "country_code": "CO",
+    "country": "Colombia"
+  },
+  {
+    "username": "Oswi_Ramos",
+    "followingArtist": "Cafu.",
+    "country_code": "US",
+    "country": "USA"
+  },
+  {
+    "username": "Matteo85529095",
+    "followingArtist": "Cafu.",
+    "country_code": "CA",
+    "country": "Canada"
+  },
+  {
+    "username": "AbrantepaCharl4",
+    "followingArtist": "Cafu.",
+    "country_code": "GH",
+    "country": "Ghana"
+  },
+  {
+    "username": "zertyxx24",
+    "followingArtist": "Cafu.",
+    "country_code": "FR",
+    "country": "France"
+  },
+  {
+    "username": "SpFabiooli",
+    "followingArtist": "Cafu.",
+    "country_code": "BR",
+    "country": "Brazil"
+  },
+  {
+    "username": "STEFANO2901",
+    "followingArtist": "Cafu.",
+    "country_code": "PE",
+    "country": "Peru"
+  },
+  {
+    "username": "TretaOtaku",
+    "followingArtist": "Cafu.",
+    "country_code": "DK",
+    "country": "Denmark"
+  },
+  {
+    "username": "FWarrique",
+    "followingArtist": "Cafu.",
+    "country_code": "BR",
+    "country": "Brazil"
+  },
+  {
+    "username": "Matheus_SouzaFR",
+    "followingArtist": "Cafu.",
+    "country_code": "BR",
+    "country": "Brazil"
+  },
+  {
+    "username": "jonjon_mpu",
+    "followingArtist": "Cafu.",
+    "country_code": "BR",
+    "country": "Brazil"
+  },
+  {
+    "username": "zzdane6",
+    "followingArtist": "Cafu.",
+    "country_code": "FR",
+    "country": "France"
+  },
+  {
+    "username": "cleitom68017016",
+    "followingArtist": "Cafu.",
+    "country_code": "BR",
+    "country": "Brazil"
+  },
+  {
+    "username": "FiorinMarcia",
+    "followingArtist": "Cafu.",
+    "country_code": "BR",
+    "country": "Brazil"
+  },
+  {
+    "username": "Blent58946378",
+    "followingArtist": "Cafu.",
+    "country_code": "TR",
+    "country": "Turkey"
+  },
+  {
+    "username": "PangPangg7",
+    "followingArtist": "Cafu.",
+    "country_code": "ES",
+    "country": "Spain"
+  },
+  {
+    "username": "WilliamXimenez",
+    "followingArtist": "Cafu.",
+    "country_code": "BR",
+    "country": "Brazil"
+  },
+  {
+    "username": "CarlDavidLucas1",
+    "followingArtist": "Cafu.",
+    "country_code": "BJ",
+    "country": "Benin"
+  },
+  {
+    "username": "Lorensparkles92",
+    "followingArtist": "Cafu.",
+    "country_code": "US",
+    "country": "USA"
+  },
+  {
+    "username": "YaanTavares",
+    "followingArtist": "Cafu.",
+    "country_code": "BR",
+    "country": "Brazil"
+  },
+  {
+    "username": "M17Lesedi",
+    "followingArtist": "Cafu.",
+    "country_code": "ZA",
+    "country": "South Africa"
+  },
+  {
+    "username": "Copeiro1",
+    "followingArtist": "Cafu.",
+    "country_code": "BR",
+    "country": "Brazil"
+  },
+  {
+    "username": "Luccas_GM2",
+    "followingArtist": "Cafu.",
+    "country_code": "BR",
+    "country": "Brazil"
+  },
+  {
+    "username": "lxuistimelxne",
+    "followingArtist": "Cafu.",
+    "country_code": "California City Blvd",
+    "country": "California City Blvd"
+  },
+  {
+    "username": "suldandani",
+    "followingArtist": "Cafu.",
+    "country_code": "BR",
+    "country": "Brazil"
+  },
+  {
+    "username": "Savioissa01",
+    "followingArtist": "Cafu.",
+    "country_code": "BR",
+    "country": "Brazil"
+  },
+  {
+    "username": "AcunaKleinht",
+    "followingArtist": "Cafu.",
+    "country_code": "PE",
+    "country": "Peru"
+  },
+  {
+    "username": "k1ngazooz",
+    "followingArtist": "Cafu.",
+    "country_code": "SA",
+    "country": "Saudi Arabia"
+  },
+  {
+    "username": "jmrodriguez070",
+    "followingArtist": "Cafu.",
+    "country_code": "IR",
+    "country": "Iran"
+  },
+  {
+    "username": "reinel1607",
+    "followingArtist": "Cafu.",
+    "country_code": "CO",
+    "country": "Colombia"
+  },
+  {
+    "username": "PaoloConsiglio3",
+    "followingArtist": "Cafu.",
+    "country_code": "IT",
+    "country": "Italy"
+  },
+  {
+    "username": "IamPoundz",
+    "followingArtist": "Cafu.",
+    "country_code": "GH",
+    "country": "Ghana"
+  },
+  {
+    "username": "zezoromamostafa",
+    "followingArtist": "Cafu.",
+    "country_code": "SA",
+    "country": "Saudi Arabia"
+  },
+  {
+    "username": "kahagi96",
+    "followingArtist": "Cafu.",
+    "country_code": "US",
+    "country": "USA"
+  },
+  {
+    "username": "msangigr",
+    "followingArtist": "Cafu.",
+    "country_code": "TZ",
+    "country": "Tanzania"
+  },
+  {
+    "username": "Romero_Lins81",
+    "followingArtist": "Cafu.",
+    "country_code": "BR",
+    "country": "Brazil"
+  },
+  {
+    "username": "KobbyKing16",
+    "followingArtist": "Cafu.",
+    "country_code": "GH",
+    "country": "Ghana"
+  },
+  {
+    "username": "KawsarA13537451",
+    "followingArtist": "Cafu.",
+    "country_code": "BD",
+    "country": "Bangladesh"
+  },
+  {
+    "username": "JORGIO66",
+    "followingArtist": "Cafu.",
+    "country_code": "ES",
+    "country": "Spain"
+  },
+  {
+    "username": "Cristia86492124",
+    "followingArtist": "Cafu.",
+    "country_code": "AR",
+    "country": "Argentina"
+  },
+  {
+    "username": "normanondego",
+    "followingArtist": "Cafu.",
+    "country_code": "KE",
+    "country": "Kenya"
+  },
+  {
+    "username": "Jatomizy",
+    "followingArtist": "Cafu.",
+    "country_code": "NG",
+    "country": "Nigeria"
+  },
+  {
+    "username": "juansebohorquez",
+    "followingArtist": "Cafu.",
+    "country_code": "CO",
+    "country": "Colombia"
+  },
+  {
+    "username": "AndreRo31103307",
+    "followingArtist": "Cafu.",
+    "country_code": "US",
+    "country": "USA"
+  },
+  {
+    "username": "ShahNayeem7",
+    "followingArtist": "Cafu.",
+    "country_code": "BD",
+    "country": "Bangladesh"
+  },
+  {
+    "username": "moshallans",
+    "followingArtist": "Cafu.",
+    "country_code": "UG",
+    "country": "Uganda"
+  },
+  {
+    "username": "Negaobarberj",
+    "followingArtist": "Cafu.",
+    "country_code": "BR",
+    "country": "Brazil"
+  },
+  {
+    "username": "1102chinovilla",
+    "followingArtist": "Cafu.",
+    "country_code": "EC",
+    "country": "Ecuador"
+  },
+  {
+    "username": "ZoeRuXJuice",
+    "followingArtist": "Cafu.",
+    "country_code": "US",
+    "country": "USA"
+  },
+  {
+    "username": "claude_gonedre",
+    "followingArtist": "Cafu.",
+    "country_code": "CI",
+    "country": "Ivory Coast"
+  },
+  {
+    "username": "Igor10_ferreira",
+    "followingArtist": "Cafu.",
+    "country_code": "BR",
+    "country": "Brazil"
+  },
+  {
+    "username": "Transformsocied",
+    "followingArtist": "Cafu.",
+    "country_code": "BR",
+    "country": "Brazil"
+  },
+  {
+    "username": "Prince_Waddle19",
+    "followingArtist": "Cafu.",
+    "country_code": "GH",
+    "country": "Ghana"
+  },
+  {
+    "username": "AdamV12345",
+    "followingArtist": "Cafu.",
+    "country_code": "GB",
+    "country": "Great Britain"
+  },
+  {
+    "username": "asantethomas48",
+    "followingArtist": "Cafu.",
+    "country_code": "GH",
+    "country": "Ghana"
+  },
+  {
+    "username": "Samydapilz",
+    "followingArtist": "Cafu.",
+    "country_code": "NG",
+    "country": "Nigeria"
+  },
+  {
+    "username": "ROBERTGYAU1",
+    "followingArtist": "Cafu.",
+    "country_code": "GH",
+    "country": "Ghana"
+  },
+  {
+    "username": "Extreme0204",
+    "followingArtist": "Cafu.",
+    "country_code": "GR",
+    "country": "Greece"
+  },
+  {
+    "username": "Willfonteles94",
+    "followingArtist": "Cafu.",
+    "country_code": "BR",
+    "country": "Brazil"
+  },
+  {
+    "username": "Antonio_Iovino",
+    "followingArtist": "Cafu.",
+    "country_code": "IT",
+    "country": "Italy"
+  },
+  {
+    "username": "Mustafa62803292",
+    "followingArtist": "Cafu.",
+    "country_code": "TR",
+    "country": "Turkey"
+  },
+  {
+    "username": "EddyFighter2",
+    "followingArtist": "Cafu.",
+    "country_code": "TZ",
+    "country": "Tanzania"
+  },
+  {
+    "username": "rituraj_27",
+    "followingArtist": "Cafu.",
+    "country_code": "AE",
+    "country": "United Arab Emirates"
+  },
+  {
+    "username": "Jieorge",
+    "followingArtist": "Cafu.",
+    "country_code": "NG",
+    "country": "Nigeria"
+  },
+  {
+    "username": "Esteban26069598",
+    "followingArtist": "Cafu.",
+    "country_code": "CL",
+    "country": "Chile"
+  },
+  {
+    "username": "alfanevado",
+    "followingArtist": "Cafu.",
+    "country_code": "MX",
+    "country": "Mexico"
+  },
+  {
+    "username": "ColesCharles2",
+    "followingArtist": "Cafu.",
+    "country_code": "US",
+    "country": "USA"
+  },
+  {
+    "username": "Gogi5454",
+    "followingArtist": "Cafu.",
+    "country_code": "US",
+    "country": "USA"
+  },
+  {
+    "username": "AryNunes9",
+    "followingArtist": "Cafu.",
+    "country_code": "BR",
+    "country": "Brazil"
+  },
+  {
+    "username": "anagba_obidi",
+    "followingArtist": "Cafu.",
+    "country_code": "NG",
+    "country": "Nigeria"
+  },
+  {
+    "username": "OSeftalici",
+    "followingArtist": "Cafu.",
+    "country_code": "TR",
+    "country": "Turkey"
+  },
+  {
+    "username": "FAHIM86",
+    "followingArtist": "Cafu.",
+    "country_code": "ID",
+    "country": "Indonesia"
+  },
+  {
+    "username": "souk_thekop",
+    "followingArtist": "Cafu.",
+    "country_code": "LA",
+    "country": "Laos"
+  },
+  {
+    "username": "Carlos17121513",
+    "followingArtist": "Cafu.",
+    "country_code": "ES",
+    "country": "Spain"
+  },
+  {
+    "username": "claudioschiacca",
+    "followingArtist": "Cafu.",
+    "country_code": "IT",
+    "country": "Italy"
+  },
+  {
+    "username": "Gabrielreisc1",
+    "followingArtist": "Cafu.",
+    "country_code": "BR",
+    "country": "Brazil"
+  },
+  {
+    "username": "zaqueuo32016744",
+    "followingArtist": "Cafu.",
+    "country_code": "BR",
+    "country": "Brazil"
+  },
+  {
+    "username": "DawalaMista",
+    "followingArtist": "Cafu.",
+    "country_code": "CM",
+    "country": "Cameroon"
+  },
+  {
+    "username": "JoyKDas2",
+    "followingArtist": "Cafu.",
+    "country_code": "IN",
+    "country": "India"
+  },
+  {
+    "username": "horluhkay",
+    "followingArtist": "Cafu.",
+    "country_code": "NP",
+    "country": "Nepal"
+  },
+  {
+    "username": "VanDiuda",
+    "followingArtist": "Cafu.",
+    "country_code": "TZ",
+    "country": "Tanzania"
+  },
+  {
+    "username": "EONKID7777",
+    "followingArtist": "Cafu.",
+    "country_code": "IN",
+    "country": "India"
+  },
+  {
+    "username": "gideonamoah24",
+    "followingArtist": "Cafu.",
+    "country_code": "GH",
+    "country": "Ghana"
+  },
+  {
+    "username": "Litiyaasensio",
+    "followingArtist": "Cafu.",
+    "country_code": "ZM",
+    "country": "Zambia"
+  },
+  {
+    "username": "zakhtar14",
+    "followingArtist": "Cafu.",
+    "country_code": "IN",
+    "country": "India"
+  },
+  {
+    "username": "MoschinoSantana",
+    "followingArtist": "Cafu.",
+    "country_code": "US",
+    "country": "USA"
+  },
+  {
+    "username": "ShurwinBeckford",
+    "followingArtist": "Cafu.",
+    "country_code": "UK",
+    "country": "United Kingdom"
+  },
+  {
+    "username": "UceefG",
+    "followingArtist": "Cafu.",
+    "country_code": "NL",
+    "country": "Netherlands"
+  },
+  {
+    "username": "RCM5118",
+    "followingArtist": "Cafu.",
+    "country_code": "MX",
+    "country": "Mexico"
+  },
+  {
+    "username": "DuncanAteng",
+    "followingArtist": "Cafu.",
+    "country_code": "KE",
+    "country": "Kenya"
+  },
+  {
+    "username": "StevoOjo",
+    "followingArtist": "Cafu.",
+    "country_code": "NG",
+    "country": "Nigeria"
+  },
+  {
+    "username": "Phywu1",
+    "followingArtist": "Cafu.",
+    "country_code": "GH",
+    "country": "Ghana"
+  },
+  {
+    "username": "wolbs10",
+    "followingArtist": "Cafu.",
+    "country_code": "MX",
+    "country": "Mexico"
+  },
+  {
+    "username": "FortunateDenhe2",
+    "followingArtist": "Cafu.",
+    "country_code": "ZW",
+    "country": "Zimbabwe"
+  },
+  {
+    "username": "Ahmed__tohamy",
+    "followingArtist": "Cafu.",
+    "country_code": "NL",
+    "country": "Netherlands"
+  },
+  {
+    "username": "Teixeira0183",
+    "followingArtist": "Cafu.",
+    "country_code": "BR",
+    "country": "Brazil"
+  },
+  {
+    "username": "EdileneUrias",
+    "followingArtist": "Cafu.",
+    "country_code": "US",
+    "country": "USA"
+  },
+  {
+    "username": "GudluckMatthew",
+    "followingArtist": "Cafu.",
+    "country_code": "NG",
+    "country": "Nigeria"
+  },
+  {
+    "username": "dalimaezel",
+    "followingArtist": "Cafu.",
+    "country_code": "UG",
+    "country": "Uganda"
+  },
+  {
+    "username": "SantosLele87",
+    "followingArtist": "Cafu.",
+    "country_code": "BR",
+    "country": "Brazil"
+  },
+  {
+    "username": "SebaOliveira8",
+    "followingArtist": "Cafu.",
+    "country_code": "BR",
+    "country": "Brazil"
+  },
+  {
+    "username": "ELMAGA22",
+    "followingArtist": "Cafu.",
+    "country_code": "CO",
+    "country": "Colombia"
+  },
+  {
+    "username": "glauberbeneli",
+    "followingArtist": "Cafu.",
+    "country_code": "BR",
+    "country": "Brazil"
+  },
+  {
+    "username": "JaoTrindade",
+    "followingArtist": "Cafu.",
+    "country_code": "BR",
+    "country": "Brazil"
+  },
+  {
+    "username": "enricomngl",
+    "followingArtist": "Cafu.",
+    "country_code": "BR",
+    "country": "Brazil"
+  },
+  {
+    "username": "PolianaBarreir2",
+    "followingArtist": "Cafu.",
+    "country_code": "BR",
+    "country": "Brazil"
+  },
+  {
+    "username": "edgarcuricho1",
+    "followingArtist": "Cafu.",
+    "country_code": "EC",
+    "country": "Ecuador"
+  },
+  {
+    "username": "EbrahemFathy19",
+    "followingArtist": "Cafu.",
+    "country_code": "NL",
+    "country": "Netherlands"
+  },
+  {
+    "username": "dare_mikel",
+    "followingArtist": "Cafu.",
+    "country_code": "NG",
+    "country": "Nigeria"
+  },
+  {
+    "username": "EdofuentesB",
+    "followingArtist": "Cafu.",
+    "country_code": "CL",
+    "country": "Chile"
+  },
+  {
+    "username": "RodrigoUcha1",
+    "followingArtist": "Cafu.",
+    "country_code": "BR",
+    "country": "Brazil"
+  },
+  {
+    "username": "koenhulshof",
+    "followingArtist": "Cafu.",
+    "country_code": "NL",
+    "country": "Netherlands"
+  },
+  {
+    "username": "mxzhari",
+    "followingArtist": "Cafu.",
+    "country_code": "BE",
+    "country": "Belgium"
+  },
+  {
+    "username": "Jonathan13995",
+    "followingArtist": "Cafu.",
+    "country_code": "UY",
+    "country": "Uruguay"
+  },
+  {
+    "username": "KorinjoG",
+    "followingArtist": "Cafu.",
+    "country_code": "HK",
+    "country": "Hong Kong"
+  },
+  {
+    "username": "Alabiys",
+    "followingArtist": "Cafu.",
+    "country_code": "NG",
+    "country": "Nigeria"
+  },
+  {
+    "username": "AcostAbrahampz",
+    "followingArtist": "Cafu.",
+    "country_code": "MX",
+    "country": "Mexico"
+  },
+  {
+    "username": "propana_reIoad",
+    "followingArtist": "Cafu.",
+    "country_code": "ID",
+    "country": "Indonesia"
+  },
+  {
+    "username": "MAGOOFRAN",
+    "followingArtist": "Cafu.",
+    "country_code": "VU",
+    "country": "Vanuatu"
+  },
+  {
+    "username": "Henriqu08599979",
+    "followingArtist": "Cafu.",
+    "country_code": "US",
+    "country": "USA"
+  },
+  {
+    "username": "KarenMarieMadd1",
+    "followingArtist": "Cafu.",
+    "country_code": "GB",
+    "country": "Great Britain"
+  },
+  {
+    "username": "BraianLeonelm1",
+    "followingArtist": "Cafu.",
+    "country_code": "US",
+    "country": "USA"
+  },
+  {
+    "username": "VitorRo85891744",
+    "followingArtist": "Cafu.",
+    "country_code": "PT",
+    "country": "Portugal"
+  },
+  {
+    "username": "jafeth_ibrahim",
+    "followingArtist": "Cafu.",
+    "country_code": "MX",
+    "country": "Mexico"
+  },
+  {
+    "username": "Mostafa99191392",
+    "followingArtist": "Cafu.",
+    "country_code": "EG",
+    "country": "Egypt"
+  },
+  {
+    "username": "shorlarjah",
+    "followingArtist": "Cafu.",
+    "country_code": "NG",
+    "country": "Nigeria"
+  },
+  {
+    "username": "danzinhu_",
+    "followingArtist": "Cafu.",
+    "country_code": "PT",
+    "country": "Portugal"
+  },
+  {
+    "username": "calzavaraleo",
+    "followingArtist": "Cafu.",
+    "country_code": "BR",
+    "country": "Brazil"
+  },
+  {
+    "username": "raoni_pinheiro",
+    "followingArtist": "Cafu.",
+    "country_code": "BR",
+    "country": "Brazil"
+  },
+  {
+    "username": "vinniesousa",
+    "followingArtist": "Cafu.",
+    "country_code": "BR",
+    "country": "Brazil"
+  },
+  {
+    "username": "gildardoacost10",
+    "followingArtist": "Cafu.",
+    "country_code": "CO",
+    "country": "Colombia"
+  },
+  {
+    "username": "KikeZavala881",
+    "followingArtist": "Cafu.",
+    "country_code": "US",
+    "country": "USA"
+  },
+  {
+    "username": "yoba_aboy",
+    "followingArtist": "Cafu.",
+    "country_code": "ID",
+    "country": "Indonesia"
+  },
+  {
+    "username": "AntonioMiguelF",
+    "followingArtist": "Cafu.",
+    "country_code": "PT",
+    "country": "Portugal"
+  },
+  {
+    "username": "tuchinitaM",
+    "followingArtist": "Cafu.",
+    "country_code": "CO",
+    "country": "Colombia"
+  },
+  {
+    "username": "memomarwan5",
+    "followingArtist": "Cafu.",
+    "country_code": "EG",
+    "country": "Egypt"
+  },
+  {
+    "username": "FuseiniAbdalla3",
+    "followingArtist": "Cafu.",
+    "country_code": "GH",
+    "country": "Ghana"
+  },
+  {
+    "username": "Bernard58225135",
+    "followingArtist": "Cafu.",
+    "country_code": "US",
+    "country": "USA"
+  },
+  {
+    "username": "Francislemos15",
+    "followingArtist": "Cafu.",
+    "country_code": "BR",
+    "country": "Brazil"
+  },
+  {
+    "username": "pedrocorceiro",
+    "followingArtist": "Cafu.",
+    "country_code": "PT",
+    "country": "Portugal"
+  },
+  {
+    "username": "ChukwuMoyin",
+    "followingArtist": "Cafu.",
+    "country_code": "NG",
+    "country": "Nigeria"
+  },
+  {
+    "username": "Eltonr82",
+    "followingArtist": "Cafu.",
+    "country_code": "RO",
+    "country": "Romania"
+  },
+  {
+    "username": "Jeancarlos_1795",
+    "followingArtist": "Cafu.",
+    "country_code": "Maryland Park Dr",
+    "country": "Maryland Park Dr"
+  },
+  {
+    "username": "callejas9403",
+    "followingArtist": "Cafu.",
+    "country_code": "MX",
+    "country": "Mexico"
+  },
+  {
+    "username": "88ralvarenga",
+    "followingArtist": "Cafu.",
+    "country_code": "VU",
+    "country": "Vanuatu"
+  },
+  {
+    "username": "juma_njau",
+    "followingArtist": "Cafu.",
+    "country_code": "KE",
+    "country": "Kenya"
+  },
+  {
+    "username": "JuninhoBento22",
+    "followingArtist": "Cafu.",
+    "country_code": "MZ",
+    "country": "Mozambique"
+  },
+  {
+    "username": "WiltonP81834953",
+    "followingArtist": "Cafu.",
+    "country_code": "BR",
+    "country": "Brazil"
+  },
+  {
+    "username": "WaniNoel",
+    "followingArtist": "Cafu.",
+    "country_code": "UG",
+    "country": "Uganda"
+  },
+  {
+    "username": "elinstructor1",
+    "followingArtist": "Cafu.",
+    "country_code": "PH",
+    "country": "Philippines"
+  },
+  {
+    "username": "muhammad4226",
+    "followingArtist": "Cafu.",
+    "country_code": "IN",
+    "country": "India"
+  },
+  {
+    "username": "jeremienassif",
+    "followingArtist": "Cafu.",
+    "country_code": "FR",
+    "country": "France"
+  },
+  {
+    "username": "GoergeManu",
+    "followingArtist": "Cafu.",
+    "country_code": "IT",
+    "country": "Italy"
+  },
+  {
+    "username": "germanrojas98",
+    "followingArtist": "Cafu.",
+    "country_code": "AR",
+    "country": "Argentina"
+  },
+  {
+    "username": "emmanuel_awujo",
+    "followingArtist": "Cafu.",
+    "country_code": "NG",
+    "country": "Nigeria"
+  },
+  {
+    "username": "galayrsaba2",
+    "followingArtist": "Cafu.",
+    "country_code": "KE",
+    "country": "Kenya"
+  },
+  {
+    "username": "Hugojoseaceved2",
+    "followingArtist": "Cafu.",
+    "country_code": "US",
+    "country": "USA"
+  },
+  {
+    "username": "c_edoka",
+    "followingArtist": "Cafu.",
+    "country_code": "NG",
+    "country": "Nigeria"
+  },
+  {
+    "username": "CisnerosCK7",
+    "followingArtist": "Cafu.",
+    "country_code": "US",
+    "country": "USA"
+  },
+  {
+    "username": "fuckingdavy",
+    "followingArtist": "Cafu.",
+    "country_code": "US",
+    "country": "USA"
+  },
+  {
+    "username": "ceejaycrooked",
+    "followingArtist": "Cafu.",
+    "country_code": "ES",
+    "country": "Spain"
+  },
+  {
+    "username": "iagarobigode12",
+    "followingArtist": "Cafu.",
+    "country_code": "BR",
+    "country": "Brazil"
+  },
+  {
+    "username": "Juandavid1189",
+    "followingArtist": "Cafu.",
+    "country_code": "CO",
+    "country": "Colombia"
+  },
+  {
+    "username": "Kikeelrastas",
+    "followingArtist": "Cafu.",
+    "country_code": "MX",
+    "country": "Mexico"
+  },
+  {
+    "username": "godloveemanuel1",
+    "followingArtist": "Cafu.",
+    "country_code": "TZ",
+    "country": "Tanzania"
+  },
+  {
+    "username": "manscruz",
+    "followingArtist": "Cafu.",
+    "country_code": "CO",
+    "country": "Colombia"
+  },
+  {
+    "username": "FlaviaKothe",
+    "followingArtist": "Cafu.",
+    "country_code": "IT",
+    "country": "Italy"
+  },
+  {
+    "username": "ErickAleman99",
+    "followingArtist": "Cafu.",
+    "country_code": "US",
+    "country": "USA"
+  },
+  {
+    "username": "jaysiva2k",
+    "followingArtist": "Cafu.",
+    "country_code": "BR",
+    "country": "Brazil"
+  },
+  {
+    "username": "EDSRpk",
+    "followingArtist": "Cafu.",
+    "country_code": "PT",
+    "country": "Portugal"
+  },
+  {
+    "username": "G_Silvap7",
+    "followingArtist": "Cafu.",
+    "country_code": "VU",
+    "country": "Vanuatu"
+  },
+  {
+    "username": "DJMaicon11",
+    "followingArtist": "Cafu.",
+    "country_code": "PT",
+    "country": "Portugal"
+  },
+  {
+    "username": "JordaniaFelix1",
+    "followingArtist": "Cafu.",
+    "country_code": "MG",
+    "country": "Madagascar"
+  },
+  {
+    "username": "abelarizaga2",
+    "followingArtist": "Cafu.",
+    "country_code": "US",
+    "country": "USA"
+  },
+  {
+    "username": "Ryan_vai_passar",
+    "followingArtist": "Cafu.",
+    "country_code": "BR",
+    "country": "Brazil"
+  },
+  {
+    "username": "Jorge_daprovi",
+    "followingArtist": "Cafu.",
+    "country_code": "BR",
+    "country": "Brazil"
+  },
+  {
+    "username": "Specian_JF",
+    "followingArtist": "Cafu.",
+    "country_code": "TR",
+    "country": "Turkey"
+  },
+  {
+    "username": "Alejand12021430",
+    "followingArtist": "Cafu.",
+    "country_code": "CO",
+    "country": "Colombia"
+  },
+  {
+    "username": "aghasamsonjohn",
+    "followingArtist": "Cafu.",
+    "country_code": "NG",
+    "country": "Nigeria"
+  },
+  {
+    "username": "Welling76674163",
+    "followingArtist": "Cafu.",
+    "country_code": "BR",
+    "country": "Brazil"
+  },
+  {
+    "username": "Benemaxx",
+    "followingArtist": "Cafu.",
+    "country_code": "BR",
+    "country": "Brazil"
+  },
+  {
+    "username": "RafaelF74846331",
+    "followingArtist": "Cafu.",
+    "country_code": "CO",
+    "country": "Colombia"
+  },
+  {
+    "username": "fernandogar2000",
+    "followingArtist": "Cafu.",
+    "country_code": "BR",
+    "country": "Brazil"
+  },
+  {
+    "username": "Cai0BR03",
+    "followingArtist": "Cafu.",
+    "country_code": "SS",
+    "country": "SS"
+  },
+  {
+    "username": "rastamou13",
+    "followingArtist": "Cafu.",
+    "country_code": "UY",
+    "country": "Uruguay"
+  },
+  {
+    "username": "Mr_Ghidorah",
+    "followingArtist": "Cafu.",
+    "country_code": "ID",
+    "country": "Indonesia"
+  },
+  {
+    "username": "abdikadir_kr",
+    "followingArtist": "Cafu.",
+    "country_code": "SE",
+    "country": "Sweden"
+  },
+  {
+    "username": "prjosegeraldo",
+    "followingArtist": "Cafu.",
+    "country_code": "PT",
+    "country": "Portugal"
+  },
+  {
+    "username": "davizimferreira",
+    "followingArtist": "Cafu.",
+    "country_code": "BR",
+    "country": "Brazil"
+  },
+  {
+    "username": "MarioLuquinhas",
+    "followingArtist": "Cafu.",
+    "country_code": "BR",
+    "country": "Brazil"
+  },
+  {
+    "username": "lfcrayb",
+    "followingArtist": "Cafu.",
+    "country_code": "BJ",
+    "country": "Benin"
+  },
+  {
+    "username": "sparkiemarky11",
+    "followingArtist": "Cafu.",
+    "country_code": "GB",
+    "country": "Great Britain"
+  },
+  {
+    "username": "oipaisz",
+    "followingArtist": "Cafu.",
+    "country_code": "IT",
+    "country": "Italy"
+  },
+  {
+    "username": "stephen00000008",
+    "followingArtist": "Cafu.",
+    "country_code": "KE",
+    "country": "Kenya"
+  },
+  {
+    "username": "Prettyb86757345",
+    "followingArtist": "Cafu.",
+    "country_code": "NG",
+    "country": "Nigeria"
+  },
+  {
+    "username": "Anahi66749218",
+    "followingArtist": "Cafu.",
+    "country_code": "CL",
+    "country": "Chile"
+  },
+  {
+    "username": "JPjpvg",
+    "followingArtist": "Cafu.",
+    "country_code": "CO",
+    "country": "Colombia"
+  },
+  {
+    "username": "silvakennedy07",
+    "followingArtist": "Cafu.",
+    "country_code": "DE",
+    "country": "Germany"
+  },
+  {
+    "username": "Diegoco45818690",
+    "followingArtist": "Cafu.",
+    "country_code": "US",
+    "country": "USA"
+  },
+  {
+    "username": "81quirarte",
+    "followingArtist": "Cafu.",
+    "country_code": "MX",
+    "country": "Mexico"
+  },
+  {
+    "username": "benning74",
+    "followingArtist": "Cafu.",
+    "country_code": "US",
+    "country": "USA"
+  },
+  {
+    "username": "HMohaaz",
+    "followingArtist": "Cafu.",
+    "country_code": "KE",
+    "country": "Kenya"
+  },
+  {
+    "username": "OASISRAUAR",
+    "followingArtist": "Cafu.",
+    "country_code": "PE",
+    "country": "Peru"
+  },
+  {
+    "username": "NajmulI63142462",
+    "followingArtist": "Cafu.",
+    "country_code": "BD",
+    "country": "Bangladesh"
+  },
+  {
+    "username": "EdsonDa62057712",
+    "followingArtist": "Cafu.",
+    "country_code": "VU",
+    "country": "Vanuatu"
+  },
+  {
+    "username": "nsr66818360",
+    "followingArtist": "Cafu.",
+    "country_code": "US",
+    "country": "USA"
+  },
+  {
+    "username": "NordBenin",
+    "followingArtist": "Cafu.",
+    "country_code": "BJ",
+    "country": "Benin"
+  },
+  {
+    "username": "yair_cocon",
+    "followingArtist": "Cafu.",
+    "country_code": "MX",
+    "country": "Mexico"
+  },
+  {
+    "username": "dajbadillo",
+    "followingArtist": "Cafu.",
+    "country_code": "CO",
+    "country": "Colombia"
+  },
+  {
+    "username": "kenny_soundmind",
+    "followingArtist": "Cafu.",
+    "country_code": "NG",
+    "country": "Nigeria"
+  },
+  {
+    "username": "_sannysantana",
+    "followingArtist": "Cafu.",
+    "country_code": "US",
+    "country": "USA"
+  },
+  {
+    "username": "ayhan_ustdag",
+    "followingArtist": "Cafu.",
+    "country_code": "TR",
+    "country": "Turkey"
+  },
+  {
+    "username": "louwilltom1991",
+    "followingArtist": "Cafu.",
+    "country_code": "GB",
+    "country": "Great Britain"
+  },
+  {
+    "username": "burhan2661",
+    "followingArtist": "Cafu.",
+    "country_code": "TR",
+    "country": "Turkey"
+  },
+  {
+    "username": "lout_tl",
+    "followingArtist": "Cafu.",
+    "country_code": "GB",
+    "country": "Great Britain"
+  },
+  {
+    "username": "MariaEd00761826",
+    "followingArtist": "Cafu.",
+    "country_code": "BR",
+    "country": "Brazil"
+  },
+  {
+    "username": "caiog_11",
+    "followingArtist": "Cafu.",
+    "country_code": "BR",
+    "country": "Brazil"
+  },
+  {
+    "username": "Juliann61207836",
+    "followingArtist": "Cafu.",
+    "country_code": "MX",
+    "country": "Mexico"
+  },
+  {
+    "username": "NilsonT45976937",
+    "followingArtist": "Cafu.",
+    "country_code": "CO",
+    "country": "Colombia"
+  },
+  {
+    "username": "Khalidshifula",
+    "followingArtist": "Cafu.",
+    "country_code": "BD",
+    "country": "Bangladesh"
+  },
+  {
+    "username": "TAHACHERIFMCH",
+    "followingArtist": "Cafu.",
+    "country_code": "HN",
+    "country": "Honduras"
+  },
+  {
+    "username": "sz_janah",
+    "followingArtist": "Cafu.",
+    "country_code": "BR",
+    "country": "Brazil"
+  },
+  {
+    "username": "Rodolfotorres04",
+    "followingArtist": "Cafu.",
+    "country_code": "PE",
+    "country": "Peru"
+  },
+  {
+    "username": "Ezequie43205946",
+    "followingArtist": "Cafu.",
+    "country_code": "US",
+    "country": "USA"
+  },
+  {
+    "username": "ailton_skorek",
+    "followingArtist": "Cafu.",
+    "country_code": "RO",
+    "country": "Romania"
+  },
+  {
+    "username": "conka",
+    "followingArtist": "Cafu.",
+    "country_code": "US",
+    "country": "USA"
+  },
+  {
+    "username": "Umiludidoqualqu",
+    "followingArtist": "Cafu.",
+    "country_code": "BR",
+    "country": "Brazil"
+  },
+  {
+    "username": "MAboKamel2",
+    "followingArtist": "Cafu.",
+    "country_code": "EG",
+    "country": "Egypt"
+  },
+  {
+    "username": "Mo_HaMeed23",
+    "followingArtist": "Cafu.",
+    "country_code": "NL",
+    "country": "Netherlands"
+  },
+  {
+    "username": "Darwinwb10",
+    "followingArtist": "Cafu.",
+    "country_code": "US",
+    "country": "USA"
+  },
+  {
+    "username": "Lui_Maiello",
+    "followingArtist": "Cafu.",
+    "country_code": "IT",
+    "country": "Italy"
+  },
+  {
+    "username": "germanandrescas",
+    "followingArtist": "Cafu.",
+    "country_code": "CO",
+    "country": "Colombia"
+  },
+  {
+    "username": "BrightKDanquah2",
+    "followingArtist": "Cafu.",
+    "country_code": "GH",
+    "country": "Ghana"
+  },
+  {
+    "username": "GamalElbana11",
+    "followingArtist": "Cafu.",
+    "country_code": "LB",
+    "country": "Lebanon"
+  },
+  {
+    "username": "deco_douglas12",
+    "followingArtist": "Cafu.",
+    "country_code": "SE",
+    "country": "Sweden"
+  },
+  {
+    "username": "carlowchristian",
+    "followingArtist": "Cafu.",
+    "country_code": "ID",
+    "country": "Indonesia"
+  },
+  {
+    "username": "Pa8Jad23d7fSXe9",
+    "followingArtist": "Cafu.",
+    "country_code": "CH",
+    "country": "Switzerland"
+  },
+  {
+    "username": "rocharobert7",
+    "followingArtist": "Cafu.",
+    "country_code": "BR",
+    "country": "Brazil"
+  }
+]
