@@ -17,6 +17,7 @@ var connection = mysql.createConnection({
 connection.connect(function(err) {
   if(err) {
     console.log('Error: could not connect to DB');
+    connection.release();
   } else {
     console.log('Connected to to DB!');
   }
@@ -31,6 +32,7 @@ app.get('/', function(req, res) {
   connection.query(sql, function(err, rows) {
     if(err) {
       console.log('Error: could not execute query');
+      connection.release();
     } else {
       console.log('\nQuery was successful');
       let results = "Results: ";
