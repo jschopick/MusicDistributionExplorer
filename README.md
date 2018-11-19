@@ -30,6 +30,10 @@ Java: A high-level programming language. </br> https://docs.oracle.com/en/java/
 
 MySQL: An open-source relational database management system. </br> https://www.mysql.com/
 
+Hadoop: A framework that allows for the distributed processing of large data sets across clusters of computers using simple programming models. </br> https://hadoop.apache.org
+
+MapReduce: A  programming paradigm that enables massive scalability across hundreds or thousands of servers in a Hadoop cluster. </br> https://hadoop.apache.org/docs/r1.0.4/
+
 ### **Application Programming Interfaces**
 
 Mapbox: An open source mapping platform for custom designed maps. </br> https://www.mapbox.com/api-documentation/
