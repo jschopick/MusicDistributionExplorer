@@ -1,5 +1,5 @@
 var express = require('express'),
-  connection = require('./models/connection'),
+  connection = require('./connection'),
   app = express(),
   port = process.env.PORT || 8000;
 
@@ -30,7 +30,6 @@ app.use((req, res, next) => {
 
 // This did not work until executing this command:
 // ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY ''
-
 // Connect to MySQL Database
 connection.connect(function(err) {
   if(err) {
