@@ -24,15 +24,18 @@ React.js: A JavaScript library for building user interfaces. Used create-react-a
 
 Node.js: An open-source, cross-platform JavaScript run-time environment that executes JavaScript code outside of a browser. </br> https://nodejs.org/en/about/
 
+Express.js: A minimal and flexible Node.js web application framework. </br>
+https://expressjs.com/
+
+MySQL: An open-source relational database management system. </br> https://www.mysql.com/
+
 Python: A high-level programming language. </br> https://www.python.org/
 
 Java: A high-level programming language. </br> https://docs.oracle.com/en/java/
 
-MySQL: An open-source relational database management system. </br> https://www.mysql.com/
+Hadoop: A framework that allows for the distributed processing of large data sets across clusters of computers. </br> https://hadoop.apache.org
 
-Hadoop: A framework that allows for the distributed processing of large data sets across clusters of computers using simple programming models. </br> https://hadoop.apache.org
-
-MapReduce: A  programming paradigm that enables massive scalability across hundreds or thousands of servers in a Hadoop cluster. </br> https://hadoop.apache.org/docs/r1.0.4/
+MapReduce: A programming model that enables massive scalability across servers in a Hadoop cluster. </br> https://hadoop.apache.org/docs/r1.2.1/index.html#MapReduce
 
 ### **Application Programming Interfaces**
 
@@ -42,18 +45,38 @@ Twitter: An online news and social networking service. </br> https://developer.t
 
 iTunes: A media player and library developed by Apple. </br> https://affiliate.itunes.apple.com/resources/documentation/itunes-store-web-service-search-api/
 
-MapReduce: A programming model and an associated implementation for processing and generating big data sets with a parallel, distributed algorithm on a cluster. </br> https://hadoop.apache.org/docs/r1.2.1/index.html#MapReduce
-
 Nominatim: MapQuest search tool that relies on data contributed to OpenStreetMap. </br> https://developer.mapquest.com/documentation/open/nominatim-search/
 
 Material-UI: React.js components that implement Google's Material Design. </br> https://material-ui.com/
 
-## `How to Run`
+## `Prerequisites`
 
-Clone this repository to the desired location on your computer by entering the following command in your terminal:
+### Cloning this Repository
+
+Navigate to the desired location on your computer. Enter the following command in your terminal:
 ```
 git clone https://github.com/jschopick/cs179G_WorldMusic.git
 ```
+
+### Adding a Mapbox API Key
+
+Create an access key for the Mapbox API here: https://www.mapbox.com/account/ <br>
+**Note:** You will need to create a Mapbox account if you do not have one.
+
+Navigate to the cloned repository in your terminal. Create a folder called config in the src directory by entering the following command:
+```
+mkdir world-music-client/src/config/
+```
+Create a file called MAPBOX.js in this new folder and add the following into the file.
+```
+module.exports = {
+    key: '[Insert your public access token]'
+};
+```
+Replace [Insert your public access token] with the public access token that you created.
+
+### Installing Node
+
 Check to see if you have Node.js and npm installed by running the following commands in your terminal:
 ```
 node -v
@@ -63,6 +86,8 @@ npm -v
 
 If you do not have these installed, go to this website: https://nodejs.org/en/download/<br>
 Select the version for your operating system and install it.
+
+## `How to Run`
 
 ### Open a terminal and navigate to the world-music-client directory.
 
