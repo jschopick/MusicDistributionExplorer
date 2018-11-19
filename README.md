@@ -87,26 +87,41 @@ npm -v
 If you do not have these installed, go to this website: https://nodejs.org/en/download/<br>
 Select the version for your operating system and install it.
 
+### Installing MySQL
+
+If you do not have the MySQL Workbench and MySQL Server installed, go to this website:
+https://dev.mysql.com/downloads/mysql/ </br>
+Select the version for your operating system, follow the instructions for installing the MySQL Installer, and make sure to install at least the MySQL Workbench and MySQL Server through the MySQL Installer interface.
+**Note:** This application was developed using MySQL version 8.0.13. Unexpected errors may occur when attempting to set up a MySQL database with a different version of MySQL installed.
+
 ## `How to Run`
 
-### Open a terminal and navigate to the world-music-client directory.
+### Starting the Database
 
-If this is your first time running the project, type the following command to download all dependencies:
-```
-npm install
-```
-Start the front-end server and automatically load a local webpage at localhost:3000 by running the following command:
-```
-npm start
-```
+See the [DBSETUP.md](world-music-api/DBSETUP.md) file for details. </br>
+If you already have the database set up, simply open the workbench connection and start the server as shown in Step 2.
 
-### Open a second terminal and navigate to the world-music-api directory. 
+### Starting the Back-end
 
 If this is your first time running the project, type the following command to download all dependencies:
 ```
 npm install
 ```
 Start the back-end server on localhost:8000 by running the following command:
+```
+npm start
+```
+If the database server is running, you should see the following message in your terminal: "Connected to MySQL Database"
+
+### Starting the Front-end
+
+Open a terminal and navigate to the world-music-client directory.
+
+If this is your first time running the project, type the following command to download all dependencies:
+```
+npm install
+```
+Start the front-end server and automatically load a local webpage at localhost:3000 by running the following command:
 ```
 npm start
 ```

@@ -1,60 +1,46 @@
 var express = require('express'),
-  mysql = require('mysql'),
+  connection = require('./connection'),
   app = express(),
   port = process.env.PORT || 8000;
 
-var connection = mysql.createConnection({
-// Properties
-  host: 'localhost',
-  user: 'root',
-  password: '',
-  database: 'worldmusic'
+// Add headers for http requests
+app.use((req, res, next) => {
+  // Website you wish to allow to connect
+  res.setHeader('Access-Control-Allow-Origin', '*');
+
+  // Request methods you wish to allow
+  res.setHeader(
+    'Access-Control-Allow-Methods',
+    'GET, POST, OPTIONS, PUT, PATCH, DELETE'
+  );
+
+  // Request headers you wish to allow
+  res.setHeader(
+    'Access-Control-Allow-Headers',
+    'X-Requested-With,origin,content-type,accept'
+  );
+
+  // Set to true if you need the website to include cookies in the requests sent
+  // to the API (e.g. in case you use sessions)
+  res.setHeader('Access-Control-Allow-Credentials', false);
+
+  // Pass to next layer of middleware
+  next();
 });
 
 // This did not work until executing this command:
 // ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY ''
-
+// Connect to MySQL Database
 connection.connect(function(err) {
   if(err) {
-    console.log('Error: could not connect to DB');
+    console.log('Error: could not connect to MySQL Database');
   } else {
-    console.log('Connected to to DB!');
+    console.log('Connected to MySQL Database');
   }
 });
 
-let sql = "SELECT * FROM info WHERE Genre = 'Rock'";
-let i = 0;
-
-
-app.get('/', function(req, res) {
-  // SQL queries
-  connection.query(sql, function(err, rows) {
-    if(err) {
-      console.log('Error: could not execute query');
-    } else {
-      console.log('\nQuery was successful');
-      let results = "Results: ";
-      if(rows.length > 0) {
-        // Get the country for each row returned.
-        for(i = 0; i < rows.length - 1; i++) {
-          console.log('Country: ' + rows[i].Country);
-          results += rows[i].Country + ', ';
-        }
-        results += rows[i].Country;
-        if (rows.length == 1) { // If only one result
-          console.log('Country: ' + rows[0].Country);
-          res.send(rows[0].Country);
-        } else { // If multiple results
-          console.log('Country: ' + rows[i].Country);
-          res.send(results);
-        }
-      } else { // If no rows returned
-        console.log("No results found");
-        res.send("No results found");
-      }
-    }
-  });
-});
+// Instantiate all routes
+require('./routes/index')(app);
 
 app.listen(port);
 console.log(`Server is running on port: ${port}`);
