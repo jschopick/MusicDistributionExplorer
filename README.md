@@ -101,7 +101,7 @@ Select the version for your operating system, follow the instructions for instal
 See the [DBSETUP.md](world-music-api/DBSETUP.md) file for details. </br>
 If you already have the database set up, simply open the workbench connection and start the server as shown in Step 2.
 
-### Open a second terminal and navigate to the world-music-api directory. 
+### Starting the Back-end
 
 If this is your first time running the project, type the following command to download all dependencies:
 ```
@@ -113,7 +113,7 @@ npm start
 ```
 If the database server is running, you should see the following message in your terminal: "Connected to MySQL Database"
 
-### Starting the front-end
+### Starting the Front-end
 
 Open a terminal and navigate to the world-music-client directory.
 
