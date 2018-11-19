@@ -1,19 +1,16 @@
 const express = require('express');
 const router = express.Router();
-const connection = require('../../connection');
+const connection = require('../connection');
 
-// Get request for information based on a genre.
+// Get request to find all artists in the database
 module.exports = function(router) {
-  let sql = "SELECT DISTINCT Genre FROM info";
-  // let sql = "SELECT * FROM info WHERE Genre = 'Rock'";
-  router.get('/genres', function(req, res) {
+  let sql = "SELECT DISTINCT Artist FROM info";
+  router.get('/artists', function(req, res) {
     connection.query(sql, function(err, rows) {
       if(err) {
         console.log('Error: could not execute query');
       } else {
         console.log('\nSuccessful Query');
-        // Get the country for each row returned.
-        console.log(rows);
         res.json(rows);
       }
     });
