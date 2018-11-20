@@ -13,7 +13,7 @@ Open the MySQL Workbench. Create a new connection called WorldMusic on localhost
 
 Open the Startup/Shutdown instance and start the server.
 
-![](images/MySQL2_StartServer.png?raw=true)
+![Test](images/MySQL2_StartServer.png)
 
 ### Step 3
 
