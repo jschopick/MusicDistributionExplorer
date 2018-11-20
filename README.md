@@ -91,7 +91,7 @@ Select the version for your operating system and install it.
 
 If you do not have the MySQL Workbench and MySQL Server installed, go to this website:
 https://dev.mysql.com/downloads/mysql/ </br>
-Select the version for your operating system, follow the instructions for installing the MySQL Installer, and make sure to install at least the MySQL Workbench and MySQL Server through the MySQL Installer interface.
+Select the version for your operating system, follow the instructions for installing the MySQL Installer, and make sure to install at least the MySQL Workbench and MySQL Server through the MySQL Installer interface. </br>
 **Note:** This application was developed using MySQL version 8.0.13. Unexpected errors may occur when attempting to set up a MySQL database with a different version of MySQL installed.
 
 ## `How to Run`
