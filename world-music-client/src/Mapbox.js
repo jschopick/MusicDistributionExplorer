@@ -17,41 +17,27 @@ class Mapbox extends Component {
       lng: 6,
       lat: 30,
       zoom: 1.5,
-      query: '',
-      show: true
+      result: []
     };
-    this.toggleDisplay.bind(this);
   }
-
-  // Sets the query to the Genre or Artist Name
-  handleChange(e) {
-    const { target } = e;
-    const { query, value } = target;
-
-    this.setState({
-      [query]: value,
-    });
-  }
-
+  
   handleSubmit(e) {
-    e.preventDefault();
-
     request
-      .get('http://localhost:8000/api/genres')
+      .get('http://localhost:8000/api/' + e)
       .then(res => {
         // res.body, res.headers, res.status
         console.log(res.body);
-        let m = res.body;
+        const { target } = res.body;
+        const { result, value } = target;
+        this.setState({
+          [result]: value,
+        });
       })
       .catch(err => {
         // err.message, err.response
         console.log(err.message);
       });
-  }
-
-  toggleDisplay = () => {
-    const {show} = this.state;
-    this.setState( {show: !show})
+    
   }
 
   componentDidMount() {
@@ -124,26 +110,47 @@ class Mapbox extends Component {
 
     return (
       <div className="App">
-        <h1 className="toggle-sidebar">
-          <button onClick={this.handleSubmit} className="Glow">GET Genres</button>
-        </h1>
-        {this.state.show && <Sidebar />}
-        {/* Display Longitude, Latitude, and Zoom on top left */}
-        <div className="inline-block absolute top right mt30 mr36 bg-darken75 color-white z1 py6 px12 round-full txt-s txt-bold">
+        {/* Sidebar that lists genres */}
+        <div className="sidebar">
+          <h1>
+            <div className="Glow one">Select a Genre</div>
+            <div className="Glow two">Select a Genre</div>
+          </h1>
+          <h2>
+            <button onClick={()=>this.handleSubmit('alternative')} className="Glow-static one">Alternative</button>
+            <button onClick={()=>this.handleSubmit('k-pop')} className="Glow-static two">K-Pop</button>
+            <button onClick={()=>this.handleSubmit('arabic')} className="Glow-static one">Arabic</button>
+            <button onClick={()=>this.handleSubmit('metal')} className="Glow-static two">Metal</button>
+            <button onClick={()=>this.handleSubmit('christian&gospel')} className="Glow-static one">Christian & Gospel</button>
+            <button onClick={()=>this.handleSubmit('musicamexicana')} className="Glow-static two">Música Mexicana</button>
+            <button onClick={()=>this.handleSubmit('classical')} className="Glow-static one">Classical</button>
+            <button onClick={()=>this.handleSubmit('northafrican')} className="Glow-static two">North African</button>
+            <button onClick={()=>this.handleSubmit('country')} className="Glow-static one">Country</button>
+            <button onClick={()=>this.handleSubmit('pop')} className="Glow-static two">Pop</button>
+            <button onClick={()=>this.handleSubmit('dance')} className="Glow-static one">Dance</button>
+            <button onClick={()=>this.handleSubmit('pop-rock')} className="Glow-static two">Pop/Rock</button>
+            <button onClick={()=>this.handleSubmit('dirtysouth')} className="Glow-static one">Dirty South</button>
+            <button onClick={()=>this.handleSubmit('punk')} className="Glow-static two">Punk</button>
+            <button onClick={()=>this.handleSubmit('electronic')} className="Glow-static one">Electronic</button>
+            <button onClick={()=>this.handleSubmit('r&b-soul')} className="Glow-static two">R&B/Soul</button>
+            <button onClick={()=>this.handleSubmit('frenchpop')} className="Glow-static one">French Pop</button>
+            <button onClick={()=>this.handleSubmit('reggae')} className="Glow-static two">Reggae</button>
+            <button onClick={()=>this.handleSubmit('hip-hop-rap')} className="Glow-static one">Hip-Hop/Rap</button>
+            <button onClick={()=>this.handleSubmit('rock')} className="Glow-static two">Rock</button>
+            <button onClick={()=>this.handleSubmit('j-pop')} className="Glow-static one">J-pop</button>
+            <button onClick={()=>this.handleSubmit('trance')} className="Glow-static two">Trance</button>
+            <button onClick={()=>this.handleSubmit('jazz')} className="Glow-static one">Jazz</button>
+            <button onClick={()=>this.handleSubmit('world')} className="Glow-static two">World</button>
+          </h2>
+        </div>
+        {/* Display Longitude, Latitude, and Zoom on top right */}
+        <div className="inline-block absolute top right mt30 mr120 bg-darken75 color-white z1 py6 px12 round-full txt-s txt-bold">
           <div>{`Longitude: ${lng} Latitude: ${lat} Zoom: ${zoom}`}</div>
         </div>
         {/* Display Map on the Screen */}
         <div ref={e => this.mapContainer = e} className="absolute top right left bottom"/>
       </div>
     );
-  }
-}
-
-class Sidebar extends Component {
-  render() {
-    return(
-      <div className="sidebar">Country List</div>
-    )
   }
 }
 
