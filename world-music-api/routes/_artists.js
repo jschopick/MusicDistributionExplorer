@@ -1,5 +1,3 @@
-const express = require('express');
-const router = express.Router();
 const connection = require('../connection');
 
 // Get request to find all artists in the database

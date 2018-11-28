@@ -1,6 +1,5 @@
 var express = require('express'),
   fs = require('fs'),
-  path = require('path'),
   router = express.Router();
 
 // function is called when file is `required`
