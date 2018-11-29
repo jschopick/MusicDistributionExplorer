@@ -37,7 +37,7 @@ class Mapbox extends Component {
   componentDidMount() {
     const { lng, lat, zoom } = this.state;
 
-    function getSafe(fn) {
+    function checkValidLocation(fn) {
       try {
         return fn();
       } catch (e) {
@@ -45,7 +45,7 @@ class Mapbox extends Component {
       }
     }
 
-    // Initialize map
+    // Initialize map.
     const map = new mapboxgl.Map({
       container: this.mapContainer,
       style: 'mapbox://styles/mapbox/streets-v10',
@@ -53,18 +53,28 @@ class Mapbox extends Component {
       zoom
     });
 
-    // Search bar by location
-    map.addControl(new MapboxGeocoder({
+    // Search bar by location.
+    let geocoder = new MapboxGeocoder({
       accessToken: mapboxgl.accessToken
-    }));
+    });
+    map.addControl(geocoder);
 
-    // Toggle fullscreen
+    // Listen for the `result` event from the MapboxGeocoder.
+    // Sets state to the location entered in.
+    geocoder.on('result', function(ev) {
+      let loc = checkValidLocation(() => ev.result.place_name);
+      if(loc != null) {
+        console.log(loc);
+      }
+    });
+
+    // Toggle fullscreen.
     map.addControl(new mapboxgl.FullscreenControl(), 'bottom-right');
 
     // Add zoom and rotation controls to the map.
     map.addControl(new mapboxgl.NavigationControl(), 'bottom-right');
 
-    // TODO: Clear all markers from map at the beginning of this event.
+    // Adds a marker to every valid location in the result set.
     let markers = [];
     map.on('contextmenu', () => {
       // Clears all existing markers before loading new ones
@@ -81,12 +91,12 @@ class Mapbox extends Component {
         })
         .send()
         .then(response => {
-          // Pass el into mapboxgl.Marker(el) for custom marker
-          // var el = document.createElement('div');
-          // el.className = 'marker';
           // Adds a marker at the specified location if it is a valid.
-          let geolocation = getSafe(() => response.body.features[0].geometry.coordinates);
+          let geolocation = checkValidLocation(() => response.body.features[0].geometry.coordinates);
           if(geolocation != null) {
+            // Pass el into mapboxgl.Marker(el) for custom marker
+            // var el = document.createElement('div');
+            // el.className = 'marker';
             markers.push(new mapboxgl.Marker()
             .setLngLat(geolocation)
             .setPopup(new mapboxgl.Popup({ offset: 25 }) // add popups
