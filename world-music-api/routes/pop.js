@@ -1,9 +1,9 @@
 const connection = require('../connection');
 
-// Get request for everything with Alternative Genre
+// Get request for everything with Pop Genre
 module.exports = function(router) {
-  let sql = "SELECT * from topgenres WHERE TopGenre = 'Alternative'";
-  router.get('/alternative', function(req, res) {
+  let sql = "SELECT * from topgenres WHERE TopGenre = 'Pop'";
+  router.get('/pop', function(req, res) {
     connection.query(sql, function(err, rows) {
       if(err) {
         console.log('Error: could not execute query');

@@ -14,3 +14,16 @@ module.exports = function(app) {
     require('./' + name)(router);
   });
 };
+
+// Note: The following routes yield an empty set:
+// Arabic
+// Christian & Gospel
+// French Pop
+// J-Pop
+// Jazz
+// Metal
+// North African
+// Punk
+// R&B/Soul
+// Trance
+// World
