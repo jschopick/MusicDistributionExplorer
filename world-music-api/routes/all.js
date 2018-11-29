@@ -1,9 +1,9 @@
 const connection = require('../connection');
 
-// Get request for everything in the info database
+// Get request for everything in Top Genres database
 module.exports = function(router) {
-  let sql = "SELECT * FROM info";
-  router.get('/info', function(req, res) {
+  let sql = "SELECT * FROM topgenres";
+  router.get('/topgenres', function(req, res) {
     connection.query(sql, function(err, rows) {
       if(err) {
         console.log('Error: could not execute query');

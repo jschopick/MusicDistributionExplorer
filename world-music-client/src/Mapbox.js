@@ -19,6 +19,7 @@ class Mapbox extends Component {
       zoom: 1.5,
       result: []
     };
+    this.handleSubmit = this.handleSubmit.bind(this)
   }
   
   handleSubmit(event) {
@@ -44,21 +45,41 @@ class Mapbox extends Component {
       zoom
     });
 
-    // Search bar by location
+    // Search bar by location.
+    // let geocoder = new MapboxGeocoder({
+    //   accessToken: mapboxgl.accessToken
+    // });
     map.addControl(new MapboxGeocoder({
       accessToken: mapboxgl.accessToken
     }));
 
-    // Toggle fullscreen
+    // Listen for the `result` event from the MapboxGeocoder that is triggered when a user
+    // Places a marker at searched location.
+    // geocoder.on('result', function(ev) {
+    //   console.log(ev.result.place_name);
+    //   request
+    //   .get('http://localhost:8000/api/topgenres')
+    //   .then(res => {
+    //     // res.body, res.headers, res.status
+    //     this.setState(currentState => ({ result: res.body }));
+    //     console.log(res.body.features[0].geometry.coordinates);
+    //   })
+    //   .catch(err => {
+    //     // err.message, err.response
+    //     console.log(err.message);
+    //   });
+    // });
+
+    // Toggle fullscreen.
     map.addControl(new mapboxgl.FullscreenControl(), 'bottom-right');
 
     // Add zoom and rotation controls to the map.
     map.addControl(new mapboxgl.NavigationControl(), 'bottom-right');
 
-    // TODO: Clear all markers from map at the beginning of this event.
+    // Places a marker at every location in the result set.
     let markers = [];
     map.on('contextmenu', () => {
-      // Clears all existing markers before loading new ones
+      // Clears all existing markers before loading new ones.
       while((Array.isArray(markers) && markers.length)) {
         markers[markers.length - 1].remove();
         markers.pop();
@@ -73,13 +94,14 @@ class Mapbox extends Component {
         .send()
         .then(response => {
           let geolocation = response.body.features[0].geometry.coordinates;
-          // Pass el into mapboxgl.Marker(el) for custom marker
+          console.log(geolocation);
+          // Pass el into mapboxgl.Marker(el) for custom marker.
           // var el = document.createElement('div');
           // el.className = 'marker';
           // Adds a marker at the specified location.
           markers.push(new mapboxgl.Marker()
           .setLngLat(geolocation)
-          .setPopup(new mapboxgl.Popup({ offset: 25 }) // add popups
+          .setPopup(new mapboxgl.Popup({ offset: 25 })
           .setHTML('<h3>' + countryList[i].CountryName + '</h3><p>Top Genre: ' + countryList[i].TopGenre + '</p><p>Followers: ' + countryList[i].NumFollowers + '</p>'))
           .addTo(map));
         })
@@ -96,7 +118,7 @@ class Mapbox extends Component {
       });
     });
 
-    // Adds country labels in native language underneath English label
+    // Adds country labels in native language underneath English label.
     map.on('load', () => {
       let labels = ['country-label-lg', 'country-label-md', 'country-label-sm'];
       labels.forEach(function(layer) {
@@ -111,13 +133,13 @@ class Mapbox extends Component {
 
     return (
       <div className="App">
-        {/* Sidebar that lists genres */}
+        {/* Sidebar */}
         <div className="sidebar">
           <h1>
             <div className="Glow one">Select a Genre</div>
             <div className="Glow two">Select a Genre</div>
           </h1>
-          <h2>
+          <h2> {/* Genre Buttons */}
             <button onClick={()=>this.handleSubmit('alternative')} className="Glow-static one">Alternative</button>
             <button onClick={()=>this.handleSubmit('k-pop')} className="Glow-static two">K-Pop</button>
             <button onClick={()=>this.handleSubmit('arabic')} className="Glow-static one">Arabic</button>
