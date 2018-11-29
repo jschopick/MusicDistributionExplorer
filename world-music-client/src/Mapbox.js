@@ -21,28 +21,21 @@ class Mapbox extends Component {
     };
   }
   
-  handleSubmit(e) {
+  handleSubmit(event) {
     request
-      .get('http://localhost:8000/api/' + e)
+      .get('http://localhost:8000/api/' + event)
       .then(res => {
         // res.body, res.headers, res.status
-        console.log(res.body);
-        const { target } = res.body;
-        const { result, value } = target;
-        this.setState({
-          [result]: value,
-        });
+        this.setState(currentState => ({ result: res.body }));
       })
       .catch(err => {
         // err.message, err.response
         console.log(err.message);
       });
-    
   }
 
   componentDidMount() {
     const { lng, lat, zoom } = this.state;
-
     // Initialize map
     const map = new mapboxgl.Map({
       container: this.mapContainer,
@@ -62,28 +55,36 @@ class Mapbox extends Component {
     // Add zoom and rotation controls to the map.
     map.addControl(new mapboxgl.NavigationControl(), 'bottom-right');
 
-    let countryList = [];
-    countryList.push('United States');
-    countryList.push('Mexico');
-    countryList.push('China')
-
+    // TODO: Clear all markers from map at the beginning of this event.
     let markers = [];
-    // Gets geolocation from country name.
-    // TODO: Change query input to a variable from the data set.
-    for(let i = 0; i < countryList.length; i++) {
-      geocodingClient.forwardGeocode({
-        query: countryList[i],
-        limit: 1
-      })
-      .send()
-      .then(response => {
-        let geolocation = response.body.features[0].geometry.coordinates;
-        // Adds a marker at the specified location.
-        markers.push(new mapboxgl.Marker()
-        .setLngLat(geolocation)
-        .addTo(map));
-      })
-    }
+    map.on('contextmenu', () => {
+      // Clears all existing markers before loading new ones
+      while((Array.isArray(markers) && markers.length)) {
+        markers[markers.length - 1].remove();
+        markers.pop();
+      }
+      // Gets geolocation from country name.
+      let countryList = this.state.result;
+      for(let i = 0; i < countryList.length; i++) {
+        geocodingClient.forwardGeocode({
+          query: countryList[i].CountryName,
+          limit: 1
+        })
+        .send()
+        .then(response => {
+          let geolocation = response.body.features[0].geometry.coordinates;
+          // Pass el into mapboxgl.Marker(el) for custom marker
+          // var el = document.createElement('div');
+          // el.className = 'marker';
+          // Adds a marker at the specified location.
+          markers.push(new mapboxgl.Marker()
+          .setLngLat(geolocation)
+          .setPopup(new mapboxgl.Popup({ offset: 25 }) // add popups
+          .setHTML('<h3>' + countryList[i].CountryName + '</h3><p>Top Genre: ' + countryList[i].TopGenre + '</p><p>Followers: ' + countryList[i].NumFollowers + '</p>'))
+          .addTo(map));
+        })
+      }
+    });
     
     // Tracks latitude, longitude, and zoom as the user moves around the map.
     map.on('move', () => {

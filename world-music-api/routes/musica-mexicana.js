@@ -1,9 +1,9 @@
 const connection = require('../connection');
 
-// Get request for everything with Alternative Genre
+// Get request for everything with Música Mexicana Genre
 module.exports = function(router) {
-  let sql = "SELECT * from topgenres WHERE TopGenre = 'Alternative'";
-  router.get('/alternative', function(req, res) {
+  let sql = "SELECT * from topgenres WHERE TopGenre = 'Música Mexicana'";
+  router.get('/musicamexicana', function(req, res) {
     connection.query(sql, function(err, rows) {
       if(err) {
         console.log('Error: could not execute query');
