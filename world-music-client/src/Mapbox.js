@@ -17,12 +17,17 @@ class Mapbox extends Component {
       lng: 6,
       lat: 30,
       zoom: 1.5,
+      active: null,
       result: []
     };
     this.handleSubmit = this.handleSubmit.bind(this);
     this.componentDidMount = this.componentDidMount.bind(this);
+    this.toggle = this.toggle.bind(this);
+    this.highlight = this.highlight.bind(this);
+    this.shadow = this.shadow.bind(this);
   }
   
+  // Makes a GET request to the API based on the Genre selected
   handleSubmit(event) {
     request
       .get('http://localhost:8000/api/' + event)
@@ -36,6 +41,32 @@ class Mapbox extends Component {
       });
   }
 
+  // Toggles active status on a button upon selection.
+  toggle(index) {
+    if (this.state.active === index) {
+      this.setState({active: null})
+    } else {
+      this.setState({active: index})
+    }
+  }
+
+  // Highlights text to whitesmoke when active.
+  highlight(index) {
+    if (this.state.active === index) {
+      return "#f5f5f5";
+    }
+    return "";
+  }
+
+  // Adjusts the shadow for easier readability when active.
+  shadow(index) {
+    if (this.state.active === index) {
+      return "0 0 20px #A3DBB4, 0 0 30px #A3DBB4, 0 0 40px #A3DBB4, 0 0 50px #A3DBB4, 0 0 60px #A3DBB4, 0 0 70px #A3DBB4, 0 0 80px #A3DBB4";
+    }
+    return "";
+  }
+
+  // Everything related to the map is in here.
   componentDidMount() {
     const { lng, lat, zoom } = this.state;
 
@@ -53,8 +84,7 @@ class Mapbox extends Component {
     });
     map.addControl(geocoder);
 
-    // Listen for the `result` event from the MapboxGeocoder.
-    // Sets state to the location entered in.
+    // Search by country: sets state to the location entered in.
     geocoder.on('result', function(ev) {
       let loc = checkValidLocation(() => ev.result.place_name);
       if(loc != null) {
@@ -90,13 +120,15 @@ class Mapbox extends Component {
         markers[markers.length - 1].remove();
         markers.pop();
       }
-      // Passes country name to helper function.
-      let countryList = this.state.result;
-      if(countryList[0] === undefined && countryList.length !== 0) {
-        addMarker(countryList);
-      } else {
-        for(let i = 0; i < countryList.length; i++) {
-          addMarker(countryList[i]);
+      if(this.state.active !== null) {
+        // Passes country name to helper function.
+        let countryList = this.state.result;
+        if(countryList[0] === undefined && countryList.length !== 0) {
+          addMarker(countryList);
+        } else {
+          for(let i = 0; i < countryList.length; i++) {
+            addMarker(countryList[i]);
+          }
         }
       }
     });
@@ -158,31 +190,31 @@ class Mapbox extends Component {
         <h1 className="Glow Title">Select a Genre or Search by Country</h1>
         {/* Sidebar that lists genres */}
         <div className="sidebar">
-          <h1>
-            <button onClick={()=>this.handleSubmit('alternative')} className="Glow-static one">Alternative</button>
-            <button onClick={()=>this.handleSubmit('k-pop')} className="Glow-static two">K-Pop</button>
-            <button onClick={()=>this.handleSubmit('arabic')} className="Glow-static one">Arabic</button>
-            <button onClick={()=>this.handleSubmit('metal')} className="Glow-static two">Metal</button>
-            <button onClick={()=>this.handleSubmit('christian&gospel')} className="Glow-static one">Christian & Gospel</button>
-            <button onClick={()=>this.handleSubmit('musicamexicana')} className="Glow-static two">Música Mexicana</button>
-            <button onClick={()=>this.handleSubmit('classical')} className="Glow-static one">Classical</button>
-            <button onClick={()=>this.handleSubmit('northafrican')} className="Glow-static two">North African</button>
-            <button onClick={()=>this.handleSubmit('country')} className="Glow-static one">Country</button>
-            <button onClick={()=>this.handleSubmit('pop')} className="Glow-static two">Pop</button>
-            <button onClick={()=>this.handleSubmit('dance')} className="Glow-static one">Dance</button>
-            <button onClick={()=>this.handleSubmit('pop-rock')} className="Glow-static two">Pop/Rock</button>
-            <button onClick={()=>this.handleSubmit('dirtysouth')} className="Glow-static one">Dirty South</button>
-            <button onClick={()=>this.handleSubmit('punk')} className="Glow-static two">Punk</button>
-            <button onClick={()=>this.handleSubmit('electronic')} className="Glow-static one">Electronic</button>
-            <button onClick={()=>this.handleSubmit('r&b-soul')} className="Glow-static two">R&B/Soul</button>
-            <button onClick={()=>this.handleSubmit('frenchpop')} className="Glow-static one">French Pop</button>
-            <button onClick={()=>this.handleSubmit('reggae')} className="Glow-static two">Reggae</button>
-            <button onClick={()=>this.handleSubmit('hip-hop-rap')} className="Glow-static one">Hip-Hop/Rap</button>
-            <button onClick={()=>this.handleSubmit('rock')} className="Glow-static two">Rock</button>
-            <button onClick={()=>this.handleSubmit('j-pop')} className="Glow-static one">J-pop</button>
-            <button onClick={()=>this.handleSubmit('trance')} className="Glow-static two">Trance</button>
-            <button onClick={()=>this.handleSubmit('jazz')} className="Glow-static one">Jazz</button>
-            <button onClick={()=>this.handleSubmit('world')} className="Glow-static two">World</button>
+          <h1> {/* Buttons that highlight and submit a GET request when clicked */}
+            <button onClick={()=>{this.handleSubmit('alternative'); this.toggle(0)}} style={{color: this.highlight(0), 'text-shadow': this.shadow(0)}} className="Glow-static one">Alternative</button>
+            <button onClick={()=>{this.handleSubmit('k-pop'); this.toggle(1)}} style={{color: this.highlight(1), 'text-shadow': this.shadow(1)}} className="Glow-static two">K-Pop</button>
+            <button onClick={()=>{this.handleSubmit('arabic'); this.toggle(2)}} style={{color: this.highlight(2), 'text-shadow': this.shadow(2)}} className="Glow-static one">Arabic</button>
+            <button onClick={()=>{this.handleSubmit('metal'); this.toggle(3)}} style={{color: this.highlight(3), 'text-shadow': this.shadow(3)}} className="Glow-static two">Metal</button>
+            <button onClick={()=>{this.handleSubmit('christian&gospel'); this.toggle(4)}} style={{color: this.highlight(4), 'text-shadow': this.shadow(4)}} className="Glow-static one">Christian & Gospel</button>
+            <button onClick={()=>{this.handleSubmit('musicamexicana'); this.toggle(5)}} style={{color: this.highlight(5), 'text-shadow': this.shadow(5)}} className="Glow-static two">Música Mexicana</button>
+            <button onClick={()=>{this.handleSubmit('classical'); this.toggle(6)}} style={{color: this.highlight(6), 'text-shadow': this.shadow(6)}} className="Glow-static one">Classical</button>
+            <button onClick={()=>{this.handleSubmit('northafrican'); this.toggle(7)}} style={{color: this.highlight(7), 'text-shadow': this.shadow(7)}} className="Glow-static two">North African</button>
+            <button onClick={()=>{this.handleSubmit('country'); this.toggle(8)}} style={{color: this.highlight(8), 'text-shadow': this.shadow(8)}} className="Glow-static one">Country</button>
+            <button onClick={()=>{this.handleSubmit('pop'); this.toggle(9)}} style={{color: this.highlight(9), 'text-shadow': this.shadow(9)}} className="Glow-static two">Pop</button>
+            <button onClick={()=>{this.handleSubmit('dance'); this.toggle(10)}} style={{color: this.highlight(10), 'text-shadow': this.shadow(10)}}className="Glow-static one">Dance</button>
+            <button onClick={()=>{this.handleSubmit('pop-rock'); this.toggle(11)}} style={{color: this.highlight(11), 'text-shadow': this.shadow(11)}} className="Glow-static two">Pop/Rock</button>
+            <button onClick={()=>{this.handleSubmit('dirtysouth'); this.toggle(12)}} style={{color: this.highlight(12), 'text-shadow': this.shadow(12)}} className="Glow-static one">Dirty South</button>
+            <button onClick={()=>{this.handleSubmit('punk'); this.toggle(13)}} style={{color: this.highlight(13), 'text-shadow': this.shadow(13)}} className="Glow-static two">Punk</button>
+            <button onClick={()=>{this.handleSubmit('electronic'); this.toggle(14)}} style={{color: this.highlight(14), 'text-shadow': this.shadow(14)}} className="Glow-static one">Electronic</button>
+            <button onClick={()=>{this.handleSubmit('r&b-soul'); this.toggle(15)}} style={{color: this.highlight(15), 'text-shadow': this.shadow(15)}} className="Glow-static two">R&B/Soul</button>
+            <button onClick={()=>{this.handleSubmit('frenchpop'); this.toggle(16)}} style={{color: this.highlight(16), 'text-shadow': this.shadow(16)}} className="Glow-static one">French Pop</button>
+            <button onClick={()=>{this.handleSubmit('reggae'); this.toggle(17)}} style={{color: this.highlight(17), 'text-shadow': this.shadow(17)}} className="Glow-static two">Reggae</button>
+            <button onClick={()=>{this.handleSubmit('hip-hop-rap'); this.toggle(18)}} style={{color: this.highlight(18), 'text-shadow': this.shadow(18)}} className="Glow-static one">Hip-Hop/Rap</button>
+            <button onClick={()=>{this.handleSubmit('rock'); this.toggle(19)}} style={{color: this.highlight(19), 'text-shadow': this.shadow(19)}} className="Glow-static two">Rock</button>
+            <button onClick={()=>{this.handleSubmit('j-pop'); this.toggle(20)}} style={{color: this.highlight(20), 'text-shadow': this.shadow(20)}} className="Glow-static one">J-pop</button>
+            <button onClick={()=>{this.handleSubmit('trance'); this.toggle(21)}} style={{color: this.highlight(21), 'text-shadow': this.shadow(21)}} className="Glow-static two">Trance</button>
+            <button onClick={()=>{this.handleSubmit('jazz'); this.toggle(22)}} style={{color: this.highlight(22), 'text-shadow': this.shadow(22)}} className="Glow-static one">Jazz</button>
+            <button onClick={()=>{this.handleSubmit('world'); this.toggle(23)}} style={{color: this.highlight(23), 'text-shadow': this.shadow(23)}}className="Glow-static two">World</button>
           </h1>
         </div>
         {/* Display Longitude, Latitude, and Zoom on top right */}
@@ -191,7 +223,8 @@ class Mapbox extends Component {
         </div>
         {/* Display Map on the Screen */}
         <div ref={e => this.mapContainer = e} className="absolute top right left bottom"/>
-        <div className="Glow-static Note">Note: To update the map after your selection, right click anywhere on the map.</div>
+        {/* Instructions to update map */}
+        <div className="Glow-static Note">Note: To update the map after a selection, right-click anywhere on the map.</div>
       </div>
     );
   }
