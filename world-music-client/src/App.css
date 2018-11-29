@@ -2,9 +2,6 @@
     height: 100vh;
     width: 100vw;
     background: url('./images/matrix-map.jpg') center center black;
-    /* background-size: cover;
-    background-repeat: no-repeat;
-    background-attachment: scroll; */
 }
 
 /* App Logo */
@@ -84,6 +81,36 @@
     margin-right: 20%;
     margin-bottom: 9.6vh;
     -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+
+/* Marker */
+.mapboxgl-marker {
+    cursor: pointer;
+}
+
+/* Custom Marker */
+/* .marker {
+    background-image: url('./images/globe-beats-green.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 35px;
+    height: 35px;
+    cursor: pointer;
+} */
+
+/* Map Marker Popups */
+.mapboxgl-popup {
+    max-width: 200px;
+}
+
+.mapboxgl-popup-content {
+    text-align: center;
+    /* font-size: 12px; */
+}
+
+.mapboxgl-popup-content h3 {
+    font-size: 14px;
+    font-weight: bold;
 }
 
 /* Search Bar */
