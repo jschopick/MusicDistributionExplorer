@@ -19,7 +19,6 @@ class Mapbox extends Component {
       zoom: 1.5,
       result: []
     };
-    this.handleSubmit = this.handleSubmit.bind(this)
   }
   
   handleSubmit(event) {
@@ -37,6 +36,15 @@ class Mapbox extends Component {
 
   componentDidMount() {
     const { lng, lat, zoom } = this.state;
+
+    function getSafe(fn) {
+      try {
+        return fn();
+      } catch (e) {
+        return undefined;
+      }
+    }
+
     // Initialize map
     const map = new mapboxgl.Map({
       container: this.mapContainer,
@@ -45,41 +53,21 @@ class Mapbox extends Component {
       zoom
     });
 
-    // Search bar by location.
-    // let geocoder = new MapboxGeocoder({
-    //   accessToken: mapboxgl.accessToken
-    // });
+    // Search bar by location
     map.addControl(new MapboxGeocoder({
       accessToken: mapboxgl.accessToken
     }));
 
-    // Listen for the `result` event from the MapboxGeocoder that is triggered when a user
-    // Places a marker at searched location.
-    // geocoder.on('result', function(ev) {
-    //   console.log(ev.result.place_name);
-    //   request
-    //   .get('http://localhost:8000/api/topgenres')
-    //   .then(res => {
-    //     // res.body, res.headers, res.status
-    //     this.setState(currentState => ({ result: res.body }));
-    //     console.log(res.body.features[0].geometry.coordinates);
-    //   })
-    //   .catch(err => {
-    //     // err.message, err.response
-    //     console.log(err.message);
-    //   });
-    // });
-
-    // Toggle fullscreen.
+    // Toggle fullscreen
     map.addControl(new mapboxgl.FullscreenControl(), 'bottom-right');
 
     // Add zoom and rotation controls to the map.
     map.addControl(new mapboxgl.NavigationControl(), 'bottom-right');
 
-    // Places a marker at every location in the result set.
+    // TODO: Clear all markers from map at the beginning of this event.
     let markers = [];
     map.on('contextmenu', () => {
-      // Clears all existing markers before loading new ones.
+      // Clears all existing markers before loading new ones
       while((Array.isArray(markers) && markers.length)) {
         markers[markers.length - 1].remove();
         markers.pop();
@@ -93,17 +81,18 @@ class Mapbox extends Component {
         })
         .send()
         .then(response => {
-          let geolocation = response.body.features[0].geometry.coordinates;
-          console.log(geolocation);
-          // Pass el into mapboxgl.Marker(el) for custom marker.
+          // Pass el into mapboxgl.Marker(el) for custom marker
           // var el = document.createElement('div');
           // el.className = 'marker';
-          // Adds a marker at the specified location.
-          markers.push(new mapboxgl.Marker()
-          .setLngLat(geolocation)
-          .setPopup(new mapboxgl.Popup({ offset: 25 })
-          .setHTML('<h3>' + countryList[i].CountryName + '</h3><p>Top Genre: ' + countryList[i].TopGenre + '</p><p>Followers: ' + countryList[i].NumFollowers + '</p>'))
-          .addTo(map));
+          // Adds a marker at the specified location if it is a valid.
+          let geolocation = getSafe(() => response.body.features[0].geometry.coordinates);
+          if(geolocation != null) {
+            markers.push(new mapboxgl.Marker()
+            .setLngLat(geolocation)
+            .setPopup(new mapboxgl.Popup({ offset: 25 }) // add popups
+            .setHTML('<h3>' + countryList[i].CountryName + '</h3><p>Top Genre: ' + countryList[i].TopGenre + '</p><p>Followers: ' + countryList[i].NumFollowers + '</p>'))
+            .addTo(map));
+          }
         })
       }
     });
@@ -118,7 +107,7 @@ class Mapbox extends Component {
       });
     });
 
-    // Adds country labels in native language underneath English label.
+    // Adds country labels in native language underneath English label
     map.on('load', () => {
       let labels = ['country-label-lg', 'country-label-md', 'country-label-sm'];
       labels.forEach(function(layer) {
@@ -133,13 +122,13 @@ class Mapbox extends Component {
 
     return (
       <div className="App">
-        {/* Sidebar */}
+        {/* Sidebar that lists genres */}
         <div className="sidebar">
           <h1>
             <div className="Glow one">Select a Genre</div>
             <div className="Glow two">Select a Genre</div>
           </h1>
-          <h2> {/* Genre Buttons */}
+          <h2>
             <button onClick={()=>this.handleSubmit('alternative')} className="Glow-static one">Alternative</button>
             <button onClick={()=>this.handleSubmit('k-pop')} className="Glow-static two">K-Pop</button>
             <button onClick={()=>this.handleSubmit('arabic')} className="Glow-static one">Arabic</button>
