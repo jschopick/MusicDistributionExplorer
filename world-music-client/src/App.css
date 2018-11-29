@@ -33,12 +33,13 @@
 
 /* Title */
 .Home h1 {
-    font-size: 4.5rem;
+    font: 5rem 'Helvetica Neue', Arial, Helvetica, sans-serif;
+    font-weight: bold;
 } 
 
 /* "Go to Map" Button */
 .Home .Button {
-    margin-top: 50px;
+    margin-top: 30px;
     color: #76CA8F;
 }
 
@@ -88,16 +89,6 @@
     cursor: pointer;
 }
 
-/* Custom Marker */
-/* .marker {
-    background-image: url('./images/globe-beats-green.png');
-    background-size: contain;
-    background-repeat: no-repeat;
-    width: 35px;
-    height: 35px;
-    cursor: pointer;
-} */
-
 /* Map Marker Popups */
 .mapboxgl-popup {
     max-width: 200px;
@@ -120,31 +111,48 @@
     min-width: 40%;
     max-width: 40%;
     left: 30%;
-    top: 2vh;
+    top: 16vh;
+}
+
+/* Title */
+.Title {
+    padding-top: 3vh;
+    font: 40px 'Helvetica Neue', Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    color: whitesmoke;
+}
+
+/* Instructional Note */
+.Note {
+    margin-top: 84vh;
+    text-align: center;
+    font: 24px 'Helvetica Neue', Arial, Helvetica, sans-serif;
+    font-weight: bold;
 }
 
 /* Side Bar */
 .sidebar {
     font: 24px 'Helvetica Neue', Arial, Helvetica, sans-serif;
     text-align: center;
-    background: black;
     position: absolute;
     top: 12vh;
-    left: 5vw;
-    right: 5vw;
+    left: 1vw;
+    right: 1vw;
     height: 78.4vh;
     padding-top: 2vh;
 }
 
 .sidebar h1 {
     font: 30px 'Helvetica Neue', Arial, Helvetica, sans-serif;
-    margin-top: 25px;
+    font-weight: bold;
+    margin-top: 2.5%;
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     grid-gap: 5px;
     grid-auto-rows: minmax(10px, auto);
     column-count: 2;
-    column-gap: 60vw;
+    column-gap: 62vw;
 }
 
 .sidebar h2 {
