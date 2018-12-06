@@ -1,4 +1,4 @@
-# **World Music**
+# **Music Distribution Explorer**
 
 ## `Authors`
 
