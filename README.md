@@ -8,13 +8,13 @@ Kushagra Singh
 
 ## `Overview`
 
-World Music displays big data gathered, cleaned, and aggregated from over 1.5 million Twitter accounts on a map.
+The Music Distribution Explorer displays big data gathered, cleaned, and aggregated from over 1.5 million Twitter accounts on a map.
 
 **The Goal:**
 * Determine what genres are most preferred in different countries around the world by finding the location of users on Twitter that follow music artists.
 
 **The Benefit:**
-* World Music can reveal the regular pattern of the primary music preference in different parts of the world. This can help music providers provide and suggest music to the users in different regions and supply data support to anthropological and sociological studies.
+* The Music Distribution Explorer can reveal the regular pattern of the primary music preference in different parts of the world. This can help music providers provide and suggest music to the users in different regions and supply data support to anthropological and sociological studies.
 
 ## `Technologies Used`
 
